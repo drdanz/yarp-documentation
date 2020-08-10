@@ -176,7 +176,11 @@ jobs:
 
               # Run CMake
               mkdir -p ${binary_dir}
-              /usr/bin/cmake -Hyarp -B${binary_dir} -G"Unix Makefiles" -DYARP_DOXYGEN_TAGFILE:BOOL=ON -DYARP_USE_SYSTEM_YCM:BOOL=OFF 2>&1 | tee ${binary_dir}/cmake.log
+              /usr/bin/cmake -Hyarp -B${binary_dir} -G"Unix Makefiles" \
+                -DYARP_DOXYGEN_HTML:BOOL=ON \
+                -DYARP_DOXYGEN_XML:BOOL=ON \
+                -DYARP_DOXYGEN_TAGFILE:BOOL=ON \
+                -DYARP_USE_SYSTEM_YCM:BOOL=OFF 2>&1 | tee ${binary_dir}/cmake.log
 
               # Enable server based search
               doxyfile=""
