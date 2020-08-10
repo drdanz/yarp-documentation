@@ -208,7 +208,8 @@ jobs:
               fi
 
               # Improve default search engine
-              wget https://raw.githubusercontent.com/divideconcept/DoxygenDeepSearch/master/search.js
+              wget https://raw.githubusercontent.com/vitasdk/vita-headers/master/docs/search.js
+              #wget https://raw.githubusercontent.com/divideconcept/DoxygenDeepSearch/master/search.js
               mv search.js ${dir}/search/search.js
               echo "<script id=\"searchdata\" type=\"text/xmldata\">" >> ${dir}/search.html
               cat ${binary_dir}/dox/searchdata.xml >> ${dir}/search.html
