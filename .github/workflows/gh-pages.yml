@@ -31,12 +31,21 @@ jobs:
           # Checkout gh-pages branch on the yarp-documentation repository
           git checkout --orphan gh-pages
 
-      - name: Clone YARP repository and select branches and tags
-        run: |
           yarp_checkout_dir="${PWD}/yarp"
 
+          # Must end with "/"
+          yarp_url="robotology.github.io/yarp-documentation/"
+          yarp_url_re="$(echo ${yarp_url} | sed 's|\.|\\\.|g' | sed 's|\/|\\\/|g')"
+
+          # Set the variables so that they are available for the next steps
+          echo "::set-env name=YARP_CHECKOUT_DIR::${yarp_checkout_dir}"
+          echo "::set-env name=YARP_URL::${yarp_url}"
+          echo "::set-env name=YARP_URL_RE::${yarp_url_re}"
+
+      - name: Clone YARP repository and select branches and tags
+        run: |
           # Clone YARP repository
-          git clone https://github.com/robotology/yarp.git ${yarp_checkout_dir}
+          git clone https://github.com/robotology/yarp.git ${YARP_CHECKOUT_DIR}
 
           # Git branches.
           # For now generate documentation just for the "master" branch.
@@ -44,7 +53,7 @@ jobs:
           echo -e "Selected branches:\n${branches}\n"
 
           # Get all git tags and keep only the last tag for each series
-          all_tags=$(git -C ${yarp_checkout_dir} for-each-ref --format="%(refname)" refs/tags/v* | grep -v "v1\|v2" | sed "s#refs/tags/##" | sort -V)
+          all_tags=$(git -C ${YARP_CHECKOUT_DIR} for-each-ref --format="%(refname)" refs/tags/v* | grep -v "v1\|v2" | sed "s#refs/tags/##" | sort -V)
           unset tags
           unset cur_vmaj
           unset cur_vmin
@@ -70,7 +79,6 @@ jobs:
           tags="${tags//$'\n'/'%0A'}"
 
           # Set the variables so that they are available for the next steps
-          echo "::set-env name=YARP_CHECKOUT_DIR::${yarp_checkout_dir}"
           echo "::set-env name=BRANCHES::${branches}"
           echo "::set-env name=TAGS::${tags}"
 
@@ -264,8 +272,8 @@ jobs:
           (function() {
             'use strict';
 
-            var yarp_url = 'robotology.github.io/yarp-documentation/';
-            var url_re = /robotology\.github\.io\/yarp-documentation\/(git-master|latest|(v\d\.\d+))\//;
+            var yarp_url = '${YARP_URL}';
+            var url_re = ${YARP_URL_RE}(git-master|latest|(v\d\.\d+))\//;
             var all_versions = {
           ${all_versions}
             };
@@ -336,11 +344,11 @@ jobs:
           cat > redirect.js << EOF
           (function() {
             function patch_url(url) {
-              return url.replace(/robotology\.github\.io\/yarp-documentation\//, 'robotology.github.io/yarp-documentation/git-master/');
+              return url.replace(/${YARP_URL_RE}/, '${YARP_URL}git-master/');
             }
 
             function patch_missing_url(url) {
-              return url.replace(/robotology\.github\.io\/yarp-documentation\/.+/, 'robotology.github.io/yarp-documentation/git-master/');
+              return url.replace(/${YARP_URL_RE}.+/, '${YARP_URL}git-master/');
             }
 
             \$(document).ready(function() {
