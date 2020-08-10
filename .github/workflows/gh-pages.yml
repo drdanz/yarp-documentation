@@ -220,7 +220,7 @@ jobs:
               fi
 
               # Make the tag file available
-              mv ${binary_dir}/YARP.tag ${dir}
+              mv ${binary_dir}/dox/YARP.tag ${dir}
 
               # Improve default search engine
               wget https://raw.githubusercontent.com/vitasdk/vita-headers/master/docs/search.js
