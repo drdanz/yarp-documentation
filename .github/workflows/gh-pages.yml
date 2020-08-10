@@ -188,6 +188,7 @@ jobs:
                 doxyfile="${binary_dir}/dox/Doxyfile"
               fi
               sed -i 's/SERVER_BASED_SEARCH    = NO/SERVER_BASED_SEARCH    = YES/g' ${doxyfile}
+              sed -i 's/EXTERNAL_SEARCH        = NO/EXTERNAL_SEARCH        = YES/g' ${doxyfile}
 
               # Build the documentation
               /usr/bin/cmake --build ${binary_dir} --target dox 2>&1 | tee ${binary_dir}/dox.log
@@ -206,15 +207,20 @@ jobs:
                 mv ${binary_dir}/doxygen.log ${dir}
               fi
 
-              ## Hide doxygen banner and generation date
-              if [ -f ${dir}/yarp-doxygen-style.css ]; then
-                  cat >> ${dir}/yarp-doxygen-style.css << EOF
+              # Improve default search engine
+              wget https://raw.githubusercontent.com/divideconcept/DoxygenDeepSearch/master/search.js
+              mv search.js ${dir}/search/search.js
+              echo "<script id=\"searchdata\" type=\"text/xmldata\">" >> ${dir}/search.html
+              cat ${binary_dir}/dox/searchdata.xml >> ${dir}/search.html
+              echo "</script>" >> ${dir}/search.html
 
-          /* Hide doxygen banner and generation date */
-          .navpath li.footer {
-              visibility: hidden;
-          }
-          EOF
+              # Hide doxygen banner and generation date
+              if [ -f ${dir}/yarp-doxygen-style.css ]; then
+                  echo "" >> ${dir}/yarp-doxygen-style.css
+                  echo "/* Hide doxygen banner and generation date */" >> ${dir}/yarp-doxygen-style.css
+                  echo ".navpath li.footer {" >> ${dir}/yarp-doxygen-style.css
+                  echo "    visibility: hidden;" >> ${dir}/yarp-doxygen-style.css
+                  echo "}" >> ${dir}/yarp-doxygen-style.css
               fi
             fi
 
