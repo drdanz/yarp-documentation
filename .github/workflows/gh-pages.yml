@@ -273,7 +273,7 @@ jobs:
             'use strict';
 
             var yarp_url = '${YARP_URL}';
-            var url_re = ${YARP_URL_RE}(git-master|latest|(v\d\.\d+))\//;
+            var url_re = /${YARP_URL_RE}(git-master|latest|(v\d\.\d+))\//;
             var all_versions = {
           ${all_versions}
             };
