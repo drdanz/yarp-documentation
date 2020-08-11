@@ -480,5 +480,7 @@ jobs:
 
       - name: Commit and push the gh-pages branch
         run: |
-          git commit -m "Generate documentation"
+          commit_yarp=$(git -C ${YARP_CHECKOUT_DIR} rev-parse origin/master)
+          commit_doc=$(git rev-parse HEAD)
+          git commit -m "Generate documentation" -m "yarp:\n  ${commit_yarp}" -m "yarp-documentation:\n  ${commit_doc}"
           git push --force origin gh-pages
