@@ -190,18 +190,6 @@ jobs:
                 -DYARP_DOXYGEN_TAGFILE:BOOL=ON \
                 -DYARP_USE_SYSTEM_YCM:BOOL=OFF 2>&1 | tee ${binary_dir}/cmake.log
 
-              # Enable server based search
-              doxyfile=""
-              if [ -f ${binary_dir}/doc/Doxyfile ]; then
-                # Since YARP 3.2.1
-                doxyfile="${binary_dir}/doc/Doxyfile"
-              elif [ -f ${binary_dir}/dox/Doxyfile ]; then
-                # YARP 3.2.0 and older
-                doxyfile="${binary_dir}/dox/Doxyfile"
-              fi
-              sed -i 's/SERVER_BASED_SEARCH    = NO/SERVER_BASED_SEARCH    = YES/g' ${doxyfile}
-              sed -i 's/EXTERNAL_SEARCH        = NO/EXTERNAL_SEARCH        = YES/g' ${doxyfile}
-
               # Build the documentation
               /usr/bin/cmake --build ${binary_dir} --target dox 2>&1 | tee ${binary_dir}/dox.log
 
@@ -221,14 +209,6 @@ jobs:
 
               # Make the tag file available
               mv ${binary_dir}/dox/YARP.tag ${dir}
-
-              # Improve default search engine
-              #wget https://raw.githubusercontent.com/vitasdk/vita-headers/master/docs/search.js
-              ##wget https://raw.githubusercontent.com/divideconcept/DoxygenDeepSearch/master/search.js
-              #mv search.js ${dir}/search/search.js
-              #echo "<script id=\"searchdata\" type=\"text/xmldata\">" >> ${dir}/search.html
-              #cat ${binary_dir}/dox/searchdata.xml >> ${dir}/search.html
-              #echo "</script>" >> ${dir}/search.html
 
               # Hide doxygen banner and generation date
               if [ -f ${dir}/yarp-doxygen-style.css ]; then
