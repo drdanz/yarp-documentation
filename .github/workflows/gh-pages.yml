@@ -92,7 +92,7 @@ jobs:
 
           # Install doxygen-related tools
           sudo apt update
-          sudo apt install -qq -y graphviz plantuml texlive-binaries
+          sudo apt install -qq -y graphviz plantuml texlive-binaries libclang1-9
 
           # Install CMake from Kitware repository
           sudo apt-get install -qq -y apt-transport-https ca-certificates gnupg software-properties-common wget
