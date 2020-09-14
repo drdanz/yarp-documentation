@@ -458,6 +458,13 @@ jobs:
 
           git add redirect.js *.html favicon.ico
 
+
+      - name: Generate CNAME file
+        run: |
+          echo ${YARP_URL} > CNAME
+          git add CNAME
+
+
       - name: Commit and push the gh-pages branch
         run: |
           commit_yarp=$(git -C ${YARP_CHECKOUT_DIR} rev-parse origin/master)
