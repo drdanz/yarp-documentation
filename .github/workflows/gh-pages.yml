@@ -85,7 +85,7 @@ jobs:
       - name: Install dependencies
         run: |
           # Download and install latest doxygen version
-          wget http://doxygen.nl/files/doxygen-1.8.20.linux.bin.tar.gz -O doxygen.tar.gz
+          wget http://doxygen.nl/files/doxygen-1.8.19.linux.bin.tar.gz -O doxygen.tar.gz
           tar xzf doxygen.tar.gz
           sudo mv doxygen-*/bin/* /usr/local/bin
           rm -Rf doxygen.tar.gz doxygen-*
