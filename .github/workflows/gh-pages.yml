@@ -20,10 +20,15 @@ jobs:
 
       - name: Configure git and environment variables
         run: |
+          # Configure the ssh key
+          mkdir -p ~/.ssh
+          echo "${{secrets.ACTIONS_DEPLOY_KEY}}" > ~/.ssh/id_rsa
+
+          # Configure git
           git config --global push.default upstream
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote set-url origin ssh://git@github.com/${{ github.repository }}.git
 
           # Fetch the gh-pages branch on the yarp-documentation repository
           git fetch origin gh-pages 2>/dev/null || true
