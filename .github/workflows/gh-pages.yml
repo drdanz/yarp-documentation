@@ -44,10 +44,10 @@ jobs:
           yarp_cname="$(echo ${yarp_url} | sed 's|/.*||g')"
 
           # Set the variables so that they are available for the next steps
-          echo "::set-env name=YARP_CHECKOUT_DIR::${yarp_checkout_dir}"
-          echo "::set-env name=YARP_URL::${yarp_url}"
-          echo "::set-env name=YARP_URL_RE::${yarp_url_re}"
-          echo "::set-env name=YARP_CNAME::${yarp_cname}"
+          echo "YARP_CHECKOUT_DIR=${yarp_checkout_dir}" >> $GITHUB_ENV
+          echo "YARP_URL=${yarp_url}" >> $GITHUB_ENV
+          echo "YARP_URL_RE=${yarp_url_re}" >> $GITHUB_ENV
+          echo "YARP_CNAME=${yarp_cname}" >> $GITHUB_ENV
 
       - name: Clone YARP repository and select branches and tags
         run: |
@@ -80,14 +80,14 @@ jobs:
           tags="${tags}${cur_tag}"
           echo -e "Selected tags:\n${tags}\n"
 
-          # Escape \n in variables
-          # See https://github.community/t/set-output-truncates-multiline-strings/16852
-          branches="${branches//$'\n'/'%0A'}"
-          tags="${tags//$'\n'/'%0A'}"
-
           # Set the variables so that they are available for the next steps
-          echo "::set-env name=BRANCHES::${branches}"
-          echo "::set-env name=TAGS::${tags}"
+          echo 'BRANCHES<<EOF' >> $GITHUB_ENV
+          echo ${branches} >> $GITHUB_ENV
+          echo 'EOF' >> $GITHUB_ENV
+
+          echo 'TAGS<<EOF' >> $GITHUB_ENV
+          echo ${tags} >> $GITHUB_ENV
+          echo 'EOF' >> $GITHUB_ENV
 
       - name: Install dependencies
         run: |
