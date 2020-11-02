@@ -172,6 +172,7 @@ jobs:
 
       - name: Generate documentation
         run: |
+          set -x
           # Generate the documentation for all tags and branches (if the
           # corresponding directory does not exist)
           for ref in ${TAGS} ${BRANCHES}; do
