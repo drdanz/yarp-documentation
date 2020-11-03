@@ -175,7 +175,6 @@ jobs:
 
       - name: Generate documentation
         run: |
-          set -x
           # Generate the documentation for all tags and branches (if the
           # corresponding directory does not exist)
           for ref in ${TAGS} ${BRANCHES}; do
@@ -231,9 +230,14 @@ jobs:
               fi
             fi
 
-            echo "git add ${dir}"
             git add ${dir}
             git commit -m "Generate documentation for YARP ${ref}"
+
+            # Push every commit on a temporary branch to avoid
+            #   "remote: fatal: pack exceeds maximum allowed size"
+            # errors when we push everything at the end, and be sure to wait for
+            # the whole generation before pushing on the gh-pages branch.
+            git push --force origin HEAD:refs/heads/gh-pages-tmp
           done
 
           # Add symbolic link to the latest release
@@ -243,6 +247,7 @@ jobs:
           ln -s ${dir} latest
           git add latest
           git commit -m "Add link from ${dir} to latest"
+          git push --force origin HEAD:refs/heads/gh-pages-tmp
 
       - name: Generate version_switch.js
         run: |
@@ -332,6 +337,7 @@ jobs:
 
           git add version_switch.js
           git commit -m "Add version_switch.js"
+          git push --force origin HEAD:refs/heads/gh-pages-tmp
 
       - name: Generate redirect from top directory to git-master
         run: |
@@ -489,15 +495,19 @@ jobs:
 
           git add redirect.js *.html favicon.ico
           git commit -m "Add redirect from top directory to git-master"
+          git push --force origin HEAD:refs/heads/gh-pages-tmp
 
       - name: Generate CNAME file
         run: |
           echo -n ${YARP_CNAME} > CNAME
           git add CNAME
           git commit -m "Add CNAME file"
+          git push --force origin HEAD:refs/heads/gh-pages-tmp
 
       - name: Commit and push the gh-pages branch
         run: |
           commit_yarp=$(git -C ${YARP_CHECKOUT_DIR} rev-parse origin/master)
           git commit -m "Generate documentation" --allow-empty -m "yarp:  ${commit_yarp}" -m "yarp-documentation:  ${GITHUB_SHA}"
           git push --force origin gh-pages
+          # Delete the temporary branch
+          git push origin :gh-pages-tmp
