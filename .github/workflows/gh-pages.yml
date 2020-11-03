@@ -229,6 +229,7 @@ jobs:
               fi
             fi
 
+            echo "git add ${dir}"
             git add ${dir}
             git commit -m "Generate documentation for YARP ${ref}"
           done
