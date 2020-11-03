@@ -156,12 +156,14 @@ jobs:
             dir=$(echo ${ref} | sed 's/^\(v[0-9]\+\.[0-9]\+\).*$/\1/')
 
             git checkout origin/gh-pages -- ${dir} 2>/dev/null || true
+            git reset -q
+
             if [ -f ${dir}/index.html ]; then
               cur_ver=$(grep VERSION ${dir}/index.html | sed "s/[^']\+'\([^']\+\).\+/\1/g")
               if [ "${cur_ver}" != "${ver}" ]; then
                 # Same directory, but not the same tag. Must be deleted
                 echo Directory ${dir} was found, but tag is different. Found ${cur_ver}, expected "${ver}". Deleting folder.
-                git rm -rf ${dir}
+                rm -rf ${dir}
               else
                 echo Reusing documentation for ref ${ref} in dir ${dir}
               fi
