@@ -348,6 +348,12 @@ jobs:
               var url = window.location.href;
               var new_url = patch_url(url);
 
+              // Disable timeout on the main page
+              file = window.location.href.split('/')[ window.location.href.split('/').length - 1 ];
+              if (file == "" || file.substring(0, 10) == "index.html") {
+                timeout = 0;
+              }
+
               if (new_url != url) {
                 // check beforehand if url exists, else redirect to version's start page
                 \$.ajax({
@@ -366,12 +372,23 @@ jobs:
                       setTimeout(function () { window.location.href = new_url; }, timeout * 1000);
                   }
                 });
+              } else {
+                // Either a local copy of the documentation, or on the wrong website.
+                path = window.location.href.substring(0, window.location.href.lastIndexOf("/"));
+                if (path != "") {
+                    path = path + "/";
+                }
+                new_url = path + "git-master/" + file;
+                \$('head').append( '<meta http-equiv="refresh" content="' + timeout + '; url=' + new_url + '" />' );
+                \$('.textblock').html('<p>This page has moved.</p><p>If you are not redirected automatically within a few seconds, follow this link to the new address: <a href="'
+                    + new_url + '">' + new_url + "</a>.</p>");
+                setTimeout(function () { window.location.href = new_url; }, timeout * 1000);
               }
             });
           })();
           EOF
 
-          cat > redirect.html << EOF
+          cat > index.html << EOF
           <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
           <html xmlns="http://www.w3.org/1999/xhtml">
            <head>
@@ -461,8 +478,8 @@ jobs:
           </html>
           EOF
 
-          for file in $(find git-master/ -mindepth 1 -maxdepth 1 -name "*.html"); do
-            ln -sfn redirect.html $(echo $file | sed 's|git-master/||')
+          for file in $(find git-master/ -mindepth 1 -maxdepth 1 -name "*.html" | grep -v index.html); do
+            ln -sfn index.html $(echo $file | sed 's|git-master/||')
           done
 
           ln -sfn git-master/yarp-favicon.ico favicon.ico
