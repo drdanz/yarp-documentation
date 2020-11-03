@@ -23,6 +23,7 @@ jobs:
           # Configure the ssh key
           mkdir -p ~/.ssh
           echo "${{secrets.ACTIONS_DEPLOY_KEY}}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
 
           # Configure git
           git config --global push.default upstream
