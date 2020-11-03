@@ -230,7 +230,6 @@ jobs:
             fi
 
             git add ${dir}
-            git commit -m "Generate documentation for YARP ${ref}"
           done
 
           # Add symbolic link to the latest release
