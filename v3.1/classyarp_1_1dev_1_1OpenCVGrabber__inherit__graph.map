@@ -1,0 +1,7 @@
+<map id="yarp::dev::OpenCVGrabber" name="yarp::dev::OpenCVGrabber">
+<area shape="rect" id="node1" title=" " alt="" coords="190,169,370,196"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1IFrameGrabberImage.html" title=" " alt="" coords="5,80,176,121"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="200,87,360,114"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="221,5,339,32"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IPreciselyTimed.html" title=" " alt="" coords="384,87,563,114"/>
+</map>

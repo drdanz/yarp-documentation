@@ -1,0 +1,9 @@
+<map id="yarp::dev::ICurrentControl" name="yarp::dev::ICurrentControl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,179,119"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1ControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="227,13,447,39"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1ControlBoardWrapper.html" title=" " alt="" coords="232,63,441,90"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1ImplementCurrentControl.html" title=" " alt="" coords="243,115,431,156"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1RemoteControlBoard.html" title=" " alt="" coords="251,180,423,221"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1RemoteControlBoardRemapper.html" title=" " alt="" coords="506,5,678,47"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1FakeMotionControl.html" title=" " alt="" coords="495,122,689,149"/>
+</map>

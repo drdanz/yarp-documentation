@@ -1,0 +1,9 @@
+<map id="yarp::dev::IAxisInfo" name="yarp::dev::IAxisInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,141,115"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1ControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="189,13,409,39"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1ControlBoardWrapper.html" title=" " alt="" coords="195,63,404,90"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1ImplementAxisInfo.html" title=" " alt="" coords="203,114,396,141"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1RemoteControlBoard.html" title=" " alt="" coords="213,165,385,207"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1RemoteControlBoardRemapper.html" title=" " alt="" coords="469,5,641,47"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1FakeMotionControl.html" title=" " alt="" coords="457,114,652,141"/>
+</map>

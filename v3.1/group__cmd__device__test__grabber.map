@@ -1,0 +1,4 @@
+<map id="test_grabber" name="test_grabber">
+<area shape="rect" id="node1" title="A fake framegrabber, see yarp::dev::TestFrameGrabber." alt="" coords="228,13,323,38"/>
+<area shape="rect" id="node2" href="$group__dev__runtime.html" title="Devices that can be created and configured from the command&#45;line. Generally you can create them with ..." alt="" coords="5,5,180,45"/>
+</map>

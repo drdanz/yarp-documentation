@@ -1,0 +1,12 @@
+<map id="src/libYARP_dev/include/yarp/dev/ILocalization2D.h" name="src/libYARP_dev/include/yarp/dev/ILocalization2D.h">
+<area shape="rect" id="node1" title=" " alt="" coords="726,5,907,47"/>
+<area shape="rect" id="node2" href="$INavigation2D_8h.html" title=" " alt="" coords="411,95,585,136"/>
+<area shape="rect" id="node7" href="$fakeLaser_8h.html" title=" " alt="" coords="641,95,792,136"/>
+<area shape="rect" id="node9" href="$Localization2DClient_8h.html" title=" " alt="" coords="816,95,1017,136"/>
+<area shape="rect" id="node10" href="$Localization2DClient_8cpp.html" title=" " alt="" coords="899,184,1113,225"/>
+<area shape="rect" id="node3" href="$Map2DClient_8cpp.html" title=" " alt="" coords="5,184,175,225"/>
+<area shape="rect" id="node4" href="$Map2DServer_8cpp.html" title=" " alt="" coords="199,184,373,225"/>
+<area shape="rect" id="node5" href="$Navigation2DClient_8h.html" title=" " alt="" coords="397,184,599,225"/>
+<area shape="rect" id="node6" href="$Navigation2DClient_8cpp.html" title=" " alt="" coords="466,273,669,315"/>
+<area shape="rect" id="node8" href="$fakeLaser_8cpp.html" title=" " alt="" coords="675,184,825,225"/>
+</map>

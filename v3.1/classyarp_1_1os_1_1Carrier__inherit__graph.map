@@ -1,0 +1,28 @@
+<map id="yarp::os::Carrier" name="yarp::os::Carrier">
+<area shape="rect" id="node1" title="A base class for connection types (tcp, mcast, shmem, ...) which are called carriers in YARP." alt="" coords="196,233,312,260"/>
+<area shape="rect" id="node3" href="$classForwardingCarrier.html" title=" " alt="" coords="380,44,505,71"/>
+<area shape="rect" id="node5" href="$classHumanCarrier.html" title=" " alt="" coords="391,132,494,159"/>
+<area shape="rect" id="node6" href="$classyarp_1_1os_1_1AbstractCarrier.html" title="A starter class for implementing simple carriers." alt="" coords="360,183,525,209"/>
+<area shape="rect" id="node22" href="$classyarp_1_1os_1_1H264Carrier.html" title="A carrier for receiving frames compressed in h264 over rtp." alt="" coords="369,233,516,260"/>
+<area shape="rect" id="node23" href="$classyarp_1_1os_1_1MjpegCarrier.html" title="A carrier for sending/receiving images via mjpeg over http." alt="" coords="367,284,518,311"/>
+<area shape="rect" id="node24" href="$classyarp_1_1os_1_1TcpRosCarrier.html" title=" " alt="" coords="361,335,524,361"/>
+<area shape="rect" id="node26" href="$classyarp_1_1os_1_1XmlRpcCarrier.html" title="This carrier enables XML/RPC message transmission." alt="" coords="361,385,524,412"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1Connection.html" title="A controller for an individual connection." alt="" coords="5,233,148,260"/>
+<area shape="rect" id="node4" href="$classStubCarrier.html" title=" " alt="" coords="619,5,707,32"/>
+<area shape="rect" id="node7" href="$classShmemCarrier.html" title="Communicating between two ports via shared memory." alt="" coords="609,56,716,83"/>
+<area shape="rect" id="node8" href="$classyarp_1_1os_1_1impl_1_1LocalCarrier.html" title="A carrier for communicating locally within a process." alt="" coords="573,107,752,133"/>
+<area shape="rect" id="node9" href="$classyarp_1_1os_1_1impl_1_1TcpCarrier.html" title="Communicating between two ports via TCP." alt="" coords="577,157,748,184"/>
+<area shape="rect" id="node13" href="$classyarp_1_1os_1_1impl_1_1UdpCarrier.html" title="Communicating between two ports via UDP." alt="" coords="577,208,749,235"/>
+<area shape="rect" id="node15" href="$classyarp_1_1os_1_1ModifyingCarrier.html" title="A starter class for implementing simple modifying carriers." alt="" coords="577,284,749,311"/>
+<area shape="rect" id="node19" href="$classyarp_1_1os_1_1MpiCarrier.html" title="Abstract base carrier for managing port communication via MPI." alt="" coords="594,385,731,412"/>
+<area shape="rect" id="node10" href="$classyarp_1_1os_1_1impl_1_1HttpCarrier.html" title="Communicating via http." alt="" coords="814,56,987,83"/>
+<area shape="rect" id="node11" href="$classyarp_1_1os_1_1impl_1_1NameserCarrier.html" title="Communicating between two ports via a variant plain&#45;text protocol originally designed for the yarp na..." alt="" coords="800,107,1001,133"/>
+<area shape="rect" id="node12" href="$classyarp_1_1os_1_1impl_1_1TextCarrier.html" title="Communicating between two ports via a plain&#45;text protocol." alt="" coords="813,157,988,184"/>
+<area shape="rect" id="node14" href="$classyarp_1_1os_1_1impl_1_1McastCarrier.html" title="Communicating between two ports via MCAST." alt="" coords="809,208,993,235"/>
+<area shape="rect" id="node16" href="$classyarp_1_1os_1_1BayerCarrier.html" title="Decode bayer images and serve them as regular rgb." alt="" coords="825,259,976,285"/>
+<area shape="rect" id="node17" href="$classyarp_1_1os_1_1PortMonitor.html" title="Allow to monitor and modify port data from Lua script Under development." alt="" coords="829,309,973,336"/>
+<area shape="rect" id="node18" href="$classyarp_1_1os_1_1PriorityCarrier.html" title="Allow priority&#45;based message selection." alt="" coords="822,360,979,387"/>
+<area shape="rect" id="node20" href="$classyarp_1_1os_1_1MpiBcastCarrier.html" title="Carrier for port communicating via MPI broadcast." alt="" coords="815,411,986,437"/>
+<area shape="rect" id="node21" href="$classyarp_1_1os_1_1MpiP2PCarrier.html" title="Carrier for port communicating via MPI point&#45;to&#45;point send/receive." alt="" coords="819,461,982,488"/>
+<area shape="rect" id="node25" href="$classyarp_1_1os_1_1RosSrvCarrier.html" title=" " alt="" coords="583,436,743,463"/>
+</map>

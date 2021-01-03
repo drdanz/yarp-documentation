@@ -1,0 +1,5 @@
+<map id="yarp::dev::IAudioVisualGrabber" name="yarp::dev::IAudioVisualGrabber">
+<area shape="rect" id="node1" title=" " alt="" coords="98,5,301,32"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1FfmpegGrabber.html" title=" " alt="" coords="5,80,180,107"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1ServerFrameGrabber.html" title=" " alt="" coords="205,80,410,107"/>
+</map>

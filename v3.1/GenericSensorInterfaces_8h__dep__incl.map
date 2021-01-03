@@ -1,0 +1,12 @@
+<map id="src/libYARP_dev/include/yarp/dev/GenericSensorInterfaces.h" name="src/libYARP_dev/include/yarp/dev/GenericSensorInterfaces.h">
+<area shape="rect" id="node1" title=" " alt="" coords="285,5,519,47"/>
+<area shape="rect" id="node2" href="$libYARP__dev_2include_2yarp_2dev_2all_8h.html" title=" " alt="" coords="21,102,188,143"/>
+<area shape="rect" id="node5" href="$ServerInertial_8h.html" title=" " alt="" coords="213,95,365,151"/>
+<area shape="rect" id="node6" href="$ServerInertial_8cpp.html" title=" " alt="" coords="246,199,398,255"/>
+<area shape="rect" id="node7" href="$fakeIMU_8h.html" title=" " alt="" coords="440,102,583,143"/>
+<area shape="rect" id="node9" href="$imuBosch__BNO055_8h.html" title=" " alt="" coords="609,102,819,143"/>
+<area shape="rect" id="node3" href="$fakeAnalogSensor_8h.html" title=" " alt="" coords="5,206,204,247"/>
+<area shape="rect" id="node4" href="$fakeAnalogSensor_8cpp.html" title=" " alt="" coords="5,303,204,344"/>
+<area shape="rect" id="node8" href="$fakeIMU_8cpp.html" title=" " alt="" coords="437,206,580,247"/>
+<area shape="rect" id="node10" href="$imuBosch__BNO055_8cpp.html" title=" " alt="" coords="604,206,827,247"/>
+</map>

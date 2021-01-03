@@ -1,0 +1,7 @@
+<map id="yarp::dev::IService" name="yarp::dev::IService">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,137,108"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceGroup.html" title=" " alt="" coords="208,5,368,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1DevicePipe.html" title=" " alt="" coords="213,56,363,83"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1OVRHeadset.html" title=" " alt="" coords="207,107,369,133"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1ServerFrameGrabber.html" title=" " alt="" coords="185,157,391,184"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="yarp::os::PortReaderBufferBaseCreator" name="yarp::os::PortReaderBufferBaseCreator">
+<area shape="rect" id="node1" title=" " alt="" coords="5,300,184,341"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1PortReaderBuffer.html" title=" " alt="" coords="248,5,427,47"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1PortReaderBuffer.html" title=" " alt="" coords="248,71,427,112"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1PortReaderBuffer.html" title=" " alt="" coords="248,136,427,177"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1PortReaderBuffer.html" title=" " alt="" coords="248,201,427,243"/>
+<area shape="rect" id="node6" href="$classyarp_1_1os_1_1PortReaderBuffer.html" title=" " alt="" coords="248,267,427,308"/>
+<area shape="rect" id="node7" href="$classyarp_1_1os_1_1PortReaderBuffer.html" title=" " alt="" coords="248,332,427,373"/>
+<area shape="rect" id="node8" href="$classyarp_1_1os_1_1PortReaderBuffer.html" title=" " alt="" coords="248,398,427,454"/>
+<area shape="rect" id="node9" href="$classyarp_1_1os_1_1PortReaderBuffer.html" title=" " alt="" coords="248,478,427,534"/>
+<area shape="rect" id="node10" href="$classyarp_1_1os_1_1PortReaderBuffer.html" title=" " alt="" coords="248,559,427,600"/>
+<area shape="rect" id="node11" href="$classyarp_1_1os_1_1PortReaderBuffer.html" title="Buffer incoming data to a port." alt="" coords="232,625,443,651"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="src/libYARP_rosmsg/idl_generated_code/include/visualization_msgs_MenuEntry.h" name="src/libYARP_rosmsg/idl_generated_code/include/visualization_msgs_MenuEntry.h">
+<area shape="rect" id="node1" title=" " alt="" coords="443,5,587,76"/>
+<area shape="rect" id="node2" href="$visualization__msgs__InteractiveMarker_8h.html" title=" " alt="" coords="204,124,384,195"/>
+<area shape="rect" id="node8" href="$yarp_2rosmsg_2visualization__msgs_2MenuEntry_8h.html" title=" " alt="" coords="408,124,623,195"/>
+<area shape="rect" id="node3" href="$yarp_2rosmsg_2visualization__msgs_2InteractiveMarker_8h.html" title=" " alt="" coords="331,243,534,328"/>
+<area shape="rect" id="node5" href="$visualization__msgs__InteractiveMarkerInit_8h.html" title=" " alt="" coords="32,509,231,580"/>
+<area shape="rect" id="node7" href="$visualization__msgs__InteractiveMarkerUpdate_8h.html" title=" " alt="" coords="321,509,544,580"/>
+<area shape="rect" id="node4" href="$yarp_2rosmsg_2visualization__msgs_2InteractiveMarkerInit_8h.html" title=" " alt="" coords="30,376,233,461"/>
+<area shape="rect" id="node6" href="$yarp_2rosmsg_2visualization__msgs_2InteractiveMarkerUpdate_8h.html" title=" " alt="" coords="331,376,534,461"/>
+</map>

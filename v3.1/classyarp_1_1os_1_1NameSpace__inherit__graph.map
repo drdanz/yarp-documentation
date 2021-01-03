@@ -1,0 +1,7 @@
+<map id="yarp::os::NameSpace" name="yarp::os::NameSpace">
+<area shape="rect" id="node1" title="An abstract name space for ports." alt="" coords="219,5,369,32"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1MultiNameSpace.html" title=" " alt="" coords="5,80,183,107"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1RosNameSpace.html" title=" " alt="" coords="207,80,381,107"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1YarpNameSpace.html" title=" " alt="" coords="405,80,581,107"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1YarpDummyNameSpace.html" title=" " alt="" coords="381,155,604,181"/>
+</map>

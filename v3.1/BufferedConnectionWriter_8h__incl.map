@@ -1,0 +1,18 @@
+<map id="src/libYARP_OS/include/yarp/os/impl/BufferedConnectionWriter.h" name="src/libYARP_OS/include/yarp/os/impl/BufferedConnectionWriter.h">
+<area shape="rect" id="node1" title=" " alt="" coords="301,5,517,61"/>
+<area shape="rect" id="node2" href="$ConnectionWriter_8h.html" title=" " alt="" coords="224,109,405,136"/>
+<area shape="rect" id="node13" title=" " alt="" coords="163,184,218,211"/>
+<area shape="rect" id="node14" href="$SizedWriter_8h.html" title=" " alt="" coords="430,109,578,136"/>
+<area shape="rect" id="node16" title=" " alt="" coords="603,109,661,136"/>
+<area shape="rect" id="node3" href="$numeric_8h.html" title=" " alt="" coords="246,184,383,211"/>
+<area shape="rect" id="node12" href="$yarp_2src_2libYARP__OS_2include_2yarp_2os_2api_8h.html" title=" " alt="" coords="526,259,623,285"/>
+<area shape="rect" id="node4" title=" " alt="" coords="269,259,360,285"/>
+<area shape="rect" id="node5" title=" " alt="" coords="385,259,450,285"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,259,67,285"/>
+<area shape="rect" id="node7" title=" " alt="" coords="91,259,146,285"/>
+<area shape="rect" id="node8" title=" " alt="" coords="171,259,245,285"/>
+<area shape="rect" id="node9" href="$yarp-v3_81-build_2src_2libYARP__conf_2include_2yarp_2conf_2api_8h.html" title=" " alt="" coords="477,333,585,360"/>
+<area shape="rect" id="node10" href="$compiler_8h.html" title=" " alt="" coords="381,408,521,435"/>
+<area shape="rect" id="node11" href="$system_8h.html" title=" " alt="" coords="545,408,679,435"/>
+<area shape="rect" id="node15" href="$PortWriter_8h.html" title=" " alt="" coords="533,184,672,211"/>
+</map>

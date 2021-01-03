@@ -1,0 +1,4 @@
+<map id="Network Clients" name="Network Clients">
+<area shape="rect" id="node1" href="$group__dev__impl.html" title="Concrete device drivers that implement sets of interfaces." alt="" coords="5,5,168,31"/>
+<area shape="rect" id="node2" title="These devices are meant to communicate to YARP ports opened by Network Servers (Wrappers) to provide ..." alt="" coords="216,5,332,31"/>
+</map>

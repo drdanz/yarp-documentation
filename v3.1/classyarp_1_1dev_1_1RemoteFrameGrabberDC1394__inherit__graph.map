@@ -1,0 +1,13 @@
+<map id="yarp::dev::RemoteFrameGrabberDC1394" name="yarp::dev::RemoteFrameGrabberDC1394">
+<area shape="rect" id="node1" title=" " alt="" coords="772,129,985,171"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1RemoteFrameGrabber.html" title=" " alt="" coords="511,137,724,163"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1IFrameGrabberImage.html" title=" " alt="" coords="269,5,440,47"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1FrameGrabberControls__Sender.html" title="This classes implement a sender / parser for IFrameGrabberControls interface messages." alt="" coords="247,71,463,112"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IFrameGrabberControls.html" title=" " alt="" coords="17,64,187,105"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1ImplementDC1394.html" title=" " alt="" coords="258,137,451,163"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1IFrameGrabberControlsDC1394.html" title=" " alt="" coords="17,129,187,171"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1Implement__RgbVisualParams__Sender.html" title=" " alt="" coords="263,188,446,229"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1IRgbVisualParams.html" title=" " alt="" coords="5,195,199,222"/>
+<area shape="rect" id="node10" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="275,254,435,281"/>
+<area shape="rect" id="node11" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="43,254,161,281"/>
+</map>

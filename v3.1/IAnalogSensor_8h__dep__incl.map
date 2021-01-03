@@ -1,0 +1,10 @@
+<map id="src/libYARP_dev/include/yarp/dev/IAnalogSensor.h" name="src/libYARP_dev/include/yarp/dev/IAnalogSensor.h">
+<area shape="rect" id="node1" title=" " alt="" coords="189,5,365,47"/>
+<area shape="rect" id="node2" href="$libYARP__dev_2include_2yarp_2dev_2all_8h.html" title=" " alt="" coords="5,102,172,143"/>
+<area shape="rect" id="node3" href="$fakeAnalogSensor_8h.html" title=" " alt="" coords="8,206,207,247"/>
+<area shape="rect" id="node5" href="$AnalogSensorClient_8h.html" title=" " alt="" coords="248,95,439,151"/>
+<area shape="rect" id="node7" href="$AnalogWrapper_8h.html" title=" " alt="" coords="463,95,627,151"/>
+<area shape="rect" id="node4" href="$fakeAnalogSensor_8cpp.html" title=" " alt="" coords="8,303,207,344"/>
+<area shape="rect" id="node6" href="$AnalogSensorClient_8cpp.html" title=" " alt="" coords="248,199,439,255"/>
+<area shape="rect" id="node8" href="$AnalogWrapper_8cpp.html" title=" " alt="" coords="463,199,627,255"/>
+</map>

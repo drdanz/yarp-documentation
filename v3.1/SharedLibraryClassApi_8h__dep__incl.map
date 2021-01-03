@@ -1,0 +1,16 @@
+<map id="src/libYARP_OS/include/yarp/os/SharedLibraryClassApi.h" name="src/libYARP_OS/include/yarp/os/SharedLibraryClassApi.h">
+<area shape="rect" id="node1" title=" " alt="" coords="707,5,924,47"/>
+<area shape="rect" id="node2" href="$SharedLibraryFactory_8h.html" title=" " alt="" coords="711,95,919,136"/>
+<area shape="rect" id="node3" href="$SharedLibraryClassFactory_8h.html" title=" " alt="" coords="578,184,821,225"/>
+<area shape="rect" id="node14" href="$SharedLibraryFactory_8cpp.html" title=" " alt="" coords="845,184,1020,225"/>
+<area shape="rect" id="node4" href="$SharedLibraryClass_8h.html" title=" " alt="" coords="600,273,799,315"/>
+<area shape="rect" id="node5" href="$YarpPluginSettings_8h.html" title=" " alt="" coords="535,363,730,404"/>
+<area shape="rect" id="node12" href="$MonitorSharedLib_8h.html" title=" " alt="" coords="724,541,923,583"/>
+<area shape="rect" id="node6" href="$YarpPlugin_8h.html" title=" " alt="" coords="495,452,661,493"/>
+<area shape="rect" id="node7" href="$Carriers_8cpp.html" title=" " alt="" coords="5,541,148,583"/>
+<area shape="rect" id="node8" href="$Network_8cpp.html" title=" " alt="" coords="172,541,315,583"/>
+<area shape="rect" id="node9" href="$YarpPlugin_8cpp.html" title=" " alt="" coords="339,541,481,583"/>
+<area shape="rect" id="node10" href="$Drivers_8cpp.html" title=" " alt="" coords="506,541,650,583"/>
+<area shape="rect" id="node11" href="$MonitorSharedLib_8cpp.html" title=" " alt="" coords="581,631,793,672"/>
+<area shape="rect" id="node13" href="$MonitorBinding_8cpp.html" title=" " alt="" coords="817,631,997,672"/>
+</map>
