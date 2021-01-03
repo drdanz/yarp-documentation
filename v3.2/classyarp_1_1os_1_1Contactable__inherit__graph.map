@@ -1,0 +1,38 @@
+<map id="yarp::os::Contactable" name="yarp::os::Contactable">
+<area shape="rect" id="node1" title="An abstract port." alt="" coords="5,522,152,549"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="230,5,381,47"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="218,71,393,112"/>
+<area shape="rect" id="node6" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="209,136,401,177"/>
+<area shape="rect" id="node8" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="230,201,381,243"/>
+<area shape="rect" id="node12" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="216,267,395,323"/>
+<area shape="rect" id="node13" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="216,347,395,403"/>
+<area shape="rect" id="node14" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="227,427,384,483"/>
+<area shape="rect" id="node15" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="219,507,391,563"/>
+<area shape="rect" id="node16" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="210,587,401,643"/>
+<area shape="rect" id="node17" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="223,668,388,709"/>
+<area shape="rect" id="node18" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="222,734,389,790"/>
+<area shape="rect" id="node19" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="230,815,381,856"/>
+<area shape="rect" id="node20" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="227,880,383,921"/>
+<area shape="rect" id="node21" href="$classyarp_1_1os_1_1BufferedPort.html" title="A mini&#45;server for performing network communication in the background." alt="" coords="214,946,397,973"/>
+<area shape="rect" id="node22" href="$classyarp_1_1os_1_1UnbufferedContactable.html" title="An abstract unbuffered port." alt="" coords="200,997,411,1023"/>
+<area shape="rect" id="node3" href="$classInputCallback.html" title=" " alt="" coords="518,13,621,39"/>
+<area shape="rect" id="node5" href="$classSensorStreamingDataInputPort.html" title=" " alt="" coords="468,78,671,105"/>
+<area shape="rect" id="node7" href="$classStateExtendedInputPort.html" title=" " alt="" coords="489,137,650,163"/>
+<area shape="rect" id="node9" href="$classBatteryInputPortProcessor.html" title=" " alt="" coords="481,187,657,214"/>
+<area shape="rect" id="node10" href="$classRangefinder2DInputPortProcessor.html" title=" " alt="" coords="459,238,680,265"/>
+<area shape="rect" id="node11" href="$classTransforms__client__storage.html" title=" " alt="" coords="481,289,657,315"/>
+<area shape="rect" id="node23" href="$classyarp_1_1os_1_1AbstractContactable.html" title="A default implementation of an abstract port." alt="" coords="471,971,667,998"/>
+<area shape="rect" id="node36" href="$classyarp_1_1os_1_1Port.html" title=" " alt="" coords="519,1022,620,1049"/>
+<area shape="rect" id="node24" href="$classyarp_1_1os_1_1Publisher.html" title=" " alt="" coords="742,517,905,573"/>
+<area shape="rect" id="node25" href="$classyarp_1_1os_1_1Publisher.html" title=" " alt="" coords="738,597,909,653"/>
+<area shape="rect" id="node26" href="$classyarp_1_1os_1_1Publisher.html" title=" " alt="" coords="745,677,902,733"/>
+<area shape="rect" id="node27" href="$classyarp_1_1os_1_1Publisher.html" title=" " alt="" coords="748,757,899,813"/>
+<area shape="rect" id="node28" href="$classyarp_1_1os_1_1Publisher.html" title=" " alt="" coords="728,837,919,893"/>
+<area shape="rect" id="node29" href="$classyarp_1_1os_1_1Subscriber.html" title=" " alt="" coords="734,917,913,973"/>
+<area shape="rect" id="node30" href="$classyarp_1_1os_1_1Subscriber.html" title=" " alt="" coords="734,997,913,1053"/>
+<area shape="rect" id="node31" href="$classyarp_1_1os_1_1Subscriber.html" title=" " alt="" coords="737,1077,909,1133"/>
+<area shape="rect" id="node32" href="$classyarp_1_1os_1_1Publisher.html" title="A port specialized for publishing data of a constant type on a topic." alt="" coords="742,1157,905,1183"/>
+<area shape="rect" id="node33" href="$classyarp_1_1os_1_1RpcClient.html" title=" " alt="" coords="756,1207,891,1234"/>
+<area shape="rect" id="node34" href="$classyarp_1_1os_1_1RpcServer.html" title=" " alt="" coords="754,1258,893,1285"/>
+<area shape="rect" id="node35" href="$classyarp_1_1os_1_1Subscriber.html" title="A port specialized for reading data of a constant type published on a topic." alt="" coords="738,1309,909,1335"/>
+</map>

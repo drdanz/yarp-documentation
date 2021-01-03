@@ -1,0 +1,9 @@
+<map id="yarp::dev::IRGBDSensor" name="yarp::dev::IRGBDSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="257,81,425,108"/>
+<area shape="rect" id="node4" href="$classdepthCameraDriver.html" title="depthCamera : YARP driver for OpenNI2 compatible devices." alt="" coords="505,5,640,32"/>
+<area shape="rect" id="node5" href="$classfakeDepthCameraDriver.html" title=" " alt="" coords="491,56,654,83"/>
+<area shape="rect" id="node6" href="$classrealsense2Driver.html" title="realsense2 : driver for realsense2 compatible devices." alt="" coords="513,107,633,133"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1RGBDSensorClient.html" title=" " alt="" coords="473,157,672,184"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1IRgbVisualParams.html" title=" " alt="" coords="11,56,204,83"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1IDepthVisualParams.html" title=" " alt="" coords="5,107,209,133"/>
+</map>

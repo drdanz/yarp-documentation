@@ -1,0 +1,7 @@
+<map id="yarp::dev::IFrameGrabberImageRaw" name="yarp::dev::IFrameGrabberImageRaw">
+<area shape="rect" id="node1" title=" " alt="" coords="213,5,384,47"/>
+<area shape="rect" id="node2" href="$classrealsense2Driver.html" title="realsense2 : driver for realsense2 compatible devices." alt="" coords="5,95,125,121"/>
+<area shape="rect" id="node3" href="$classTestFrameGrabber.html" title=" " alt="" coords="149,95,280,121"/>
+<area shape="rect" id="node4" href="$classUSBCameraDriverRaw.html" title=" " alt="" coords="305,95,463,121"/>
+<area shape="rect" id="node5" href="$classUSBCameraDriverRgb.html" title=" " alt="" coords="488,95,643,121"/>
+</map>

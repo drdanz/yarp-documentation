@@ -1,0 +1,21 @@
+<map id="yarp::dev::IMultipleWrapper" name="yarp::dev::IMultipleWrapper">
+<area shape="rect" id="node1" title=" " alt="" coords="5,411,188,437"/>
+<area shape="rect" id="node2" href="$classAudioPlayerWrapper.html" title=" " alt="" coords="275,5,417,32"/>
+<area shape="rect" id="node3" href="$classAudioRecorderWrapper.html" title=" " alt="" coords="267,56,425,83"/>
+<area shape="rect" id="node4" href="$classBatteryWrapper.html" title=" " alt="" coords="289,107,403,133"/>
+<area shape="rect" id="node5" href="$classLocalization2DServer.html" title=" " alt="" coords="273,157,419,184"/>
+<area shape="rect" id="node6" href="$classMultipleAnalogSensorsRemapper.html" title="multipleanalogsensorsremapper : device that takes a list of sensor from multiple analog sensors devic..." alt="" coords="239,208,453,235"/>
+<area shape="rect" id="node7" href="$classMultipleAnalogSensorsServer.html" title="The server side of the MultipleAnalogSensorsClient, useful to expose device implementing MultipleAnal..." alt="" coords="249,259,443,285"/>
+<area shape="rect" id="node8" href="$classnavigation2DServer.html" title=" " alt="" coords="278,309,414,336"/>
+<area shape="rect" id="node9" href="$classRangefinder2DWrapper.html" title=" " alt="" coords="267,360,425,387"/>
+<area shape="rect" id="node10" href="$classyarp_1_1dev_1_1AnalogWrapper.html" title="Device that expose an AnalogSensor (using the IAnalogSensor interface) on the YARP or ROS network." alt="" coords="259,411,433,437"/>
+<area shape="rect" id="node11" href="$classyarp_1_1dev_1_1ControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="236,461,456,488"/>
+<area shape="rect" id="node13" href="$classyarp_1_1dev_1_1ControlBoardWrapper.html" title=" " alt="" coords="241,512,451,539"/>
+<area shape="rect" id="node14" href="$classyarp_1_1dev_1_1JoypadControlServer.html" title=" " alt="" coords="262,563,430,605"/>
+<area shape="rect" id="node15" href="$classyarp_1_1dev_1_1RGBDSensorWrapper.html" title=" " alt="" coords="239,629,453,656"/>
+<area shape="rect" id="node16" href="$classyarp_1_1dev_1_1RobotDescriptionServer.html" title=" " alt="" coords="253,681,439,722"/>
+<area shape="rect" id="node17" href="$classyarp_1_1dev_1_1ServerGrabber.html" title=" " alt="" coords="262,747,430,773"/>
+<area shape="rect" id="node18" href="$classyarp_1_1dev_1_1ServerInertial.html" title=" " alt="" coords="265,797,427,824"/>
+<area shape="rect" id="node19" href="$classyarp_1_1dev_1_1VirtualAnalogWrapper.html" title=" " alt="" coords="265,849,427,890"/>
+<area shape="rect" id="node12" href="$classyarp_1_1dev_1_1RemoteControlBoardRemapper.html" title=" " alt="" coords="504,454,676,495"/>
+</map>

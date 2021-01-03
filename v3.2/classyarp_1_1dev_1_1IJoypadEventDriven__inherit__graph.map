@@ -1,0 +1,7 @@
+<map id="yarp::dev::IJoypadEventDriven" name="yarp::dev::IJoypadEventDriven">
+<area shape="rect" id="node1" title=" " alt="" coords="86,80,289,107"/>
+<area shape="rect" id="node4" href="$classSDLJoypad.html" title="Device that reads inputs of Joypads compatible with the SDL library." alt="" coords="66,162,157,189"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1JoypadControlClient.html" title=" " alt="" coords="181,155,349,196"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1PeriodicThread.html" title=" " alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1IJoypadController.html" title=" " alt="" coords="194,5,381,32"/>
+</map>

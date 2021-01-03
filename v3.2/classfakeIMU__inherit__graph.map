@@ -1,0 +1,12 @@
+<map id="fakeIMU" name="fakeIMU">
+<area shape="rect" id="node1" title="fakeIMU : fake device implementing the device interface typically implemented by an Inertial Measurem..." alt="" coords="457,183,529,209"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="211,5,371,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1IGenericSensor.html" title=" " alt="" coords="203,56,378,83"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1PeriodicThread.html" title=" " alt="" coords="209,107,373,133"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IPreciselyTimed.html" title=" " alt="" coords="201,157,380,184"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1IThreeAxisGyroscopes.html" title="Device interface to one or multiple three axis gyroscopes." alt="" coords="182,208,399,235"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1IThreeAxisLinearAccelerometers.html" title="Device interface to one or multiple three axis linear accelerometers." alt="" coords="199,259,382,301"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1IThreeAxisMagnetometers.html" title="Device interface to one or multiple three axis magnetometers." alt="" coords="172,325,409,352"/>
+<area shape="rect" id="node10" href="$classyarp_1_1dev_1_1IOrientationSensors.html" title="Device interface to one or multiple orientation sensors, such as IMUs with on board estimation algori..." alt="" coords="191,376,390,403"/>
+</map>

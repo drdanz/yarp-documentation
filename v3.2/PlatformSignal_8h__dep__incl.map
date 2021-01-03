@@ -1,0 +1,13 @@
+<map id="src/libYARP_OS/include/yarp/os/impl/PlatformSignal.h" name="src/libYARP_OS/include/yarp/os/impl/PlatformSignal.h">
+<area shape="rect" id="node1" title=" " alt="" coords="677,5,874,47"/>
+<area shape="rect" id="node2" href="$Network_8cpp.html" title=" " alt="" coords="5,95,148,136"/>
+<area shape="rect" id="node3" href="$Os_8cpp.html" title=" " alt="" coords="172,95,315,136"/>
+<area shape="rect" id="node4" href="$PortCoreInputUnit_8cpp.html" title=" " alt="" coords="339,95,495,136"/>
+<area shape="rect" id="node5" href="$TcpAcceptor_8cpp.html" title=" " alt="" coords="519,95,679,136"/>
+<area shape="rect" id="node6" href="$RFModule_8cpp.html" title=" " alt="" coords="704,95,847,136"/>
+<area shape="rect" id="node7" href="$ThreadImpl_8cpp.html" title=" " alt="" coords="871,95,1013,136"/>
+<area shape="rect" id="node8" href="$RunProcManager_8h.html" title=" " alt="" coords="1089,95,1307,136"/>
+<area shape="rect" id="node9" href="$Run_8cpp.html" title=" " alt="" coords="981,184,1122,225"/>
+<area shape="rect" id="node11" href="$RunReadWrite_8cpp.html" title=" " alt="" coords="1331,95,1473,136"/>
+<area shape="rect" id="node10" href="$RunProcManager_8cpp.html" title=" " alt="" coords="1146,184,1298,225"/>
+</map>

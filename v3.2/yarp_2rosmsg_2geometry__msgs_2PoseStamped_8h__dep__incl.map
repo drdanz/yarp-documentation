@@ -1,0 +1,10 @@
+<map id="src/libYARP_rosmsg/idl_generated_code/include/yarp/rosmsg/geometry_msgs/PoseStamped.h" name="src/libYARP_rosmsg/idl_generated_code/include/yarp/rosmsg/geometry_msgs/PoseStamped.h">
+<area shape="rect" id="node1" title=" " alt="" coords="200,5,416,76"/>
+<area shape="rect" id="node2" href="$geometry__msgs__PoseStamped_8h.html" title=" " alt="" coords="226,124,390,195"/>
+<area shape="rect" id="node4" href="$yarp_2rosmsg_2nav__msgs_2GetPlan_8h.html" title=" " alt="" coords="453,347,601,417"/>
+<area shape="rect" id="node8" href="$yarp_2rosmsg_2nav__msgs_2Path_8h.html" title=" " alt="" coords="5,347,149,417"/>
+<area shape="rect" id="node3" href="$nav__msgs__GetPlan_8h.html" title=" " alt="" coords="315,243,511,299"/>
+<area shape="rect" id="node5" href="$nav__msgs__Path_8h.html" title=" " alt="" coords="115,243,291,299"/>
+<area shape="rect" id="node6" href="$nav__msgs__GetPlanReply_8h.html" title=" " alt="" coords="198,354,429,410"/>
+<area shape="rect" id="node7" href="$yarp_2rosmsg_2nav__msgs_2GetPlanReply_8h.html" title=" " alt="" coords="222,465,405,536"/>
+</map>

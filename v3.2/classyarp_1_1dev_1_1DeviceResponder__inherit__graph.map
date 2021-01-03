@@ -1,0 +1,14 @@
+<map id="yarp::dev::DeviceResponder" name="yarp::dev::DeviceResponder">
+<area shape="rect" id="node1" title=" " alt="" coords="260,245,448,272"/>
+<area shape="rect" id="node4" href="$classFakeBot.html" title=" " alt="" coords="569,5,639,32"/>
+<area shape="rect" id="node5" href="$classJoypadCtrlParser.html" title=" " alt="" coords="543,56,665,83"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1DC1394_1_1DC1394Parser.html" title=" " alt="" coords="534,107,674,149"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1FrameGrabberControls__Parser.html" title=" " alt="" coords="496,173,712,214"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1impl_1_1ServerGrabberResponder.html" title=" " alt="" coords="504,238,704,279"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1Implement__DepthVisualParams__Parser.html" title=" " alt="" coords="509,303,699,345"/>
+<area shape="rect" id="node10" href="$classyarp_1_1dev_1_1Implement__RgbVisualParams__Parser.html" title=" " alt="" coords="515,369,693,410"/>
+<area shape="rect" id="node11" href="$classyarp_1_1dev_1_1RGBDImpl_1_1RGBDSensorParser.html" title=" " alt="" coords="530,434,678,475"/>
+<area shape="rect" id="node12" href="$classyarp_1_1dev_1_1ServerFrameGrabber.html" title=" " alt="" coords="501,500,707,527"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1PortReader.html" title="Interface implemented by all objects that can read themselves from the network, such as Bottle object..." alt="" coords="37,216,180,243"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1TypedReaderCallback.html" title=" " alt="" coords="5,267,212,309"/>
+</map>

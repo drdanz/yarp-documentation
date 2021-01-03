@@ -1,0 +1,4 @@
+<map id="Media Devices" name="Media Devices">
+<area shape="rect" id="node1" title="These are devices useful for getting images and sound. They implement interfaces like yarp::dev::IFra..." alt="" coords="216,5,325,31"/>
+<area shape="rect" id="node2" href="$group__dev__impl.html" title="Concrete device drivers that implement sets of interfaces." alt="" coords="5,5,168,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="yarp::dev::IJoypadController" name="yarp::dev::IJoypadController">
+<area shape="rect" id="node1" title=" " alt="" coords="136,5,323,32"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1IJoypadEventDriven.html" title=" " alt="" coords="25,80,228,107"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1OVRHeadset.html" title="Device that manages the Oculus Rift Headset." alt="" coords="252,80,415,107"/>
+<area shape="rect" id="node3" href="$classSDLJoypad.html" title="Device that reads inputs of Joypads compatible with the SDL library." alt="" coords="5,162,96,189"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1JoypadControlClient.html" title=" " alt="" coords="120,155,288,196"/>
+</map>

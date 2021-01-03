@@ -1,0 +1,8 @@
+<map id="yarp::dev::JoypadControlServer" name="yarp::dev::JoypadControlServer">
+<area shape="rect" id="node1" title=" " alt="" coords="403,74,571,115"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="183,5,343,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1IWrapper.html" title=" " alt="" coords="195,56,332,83"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IMultipleWrapper.html" title=" " alt="" coords="172,107,355,133"/>
+<area shape="rect" id="node6" href="$classyarp_1_1os_1_1PeriodicThread.html" title=" " alt="" coords="181,157,345,184"/>
+</map>

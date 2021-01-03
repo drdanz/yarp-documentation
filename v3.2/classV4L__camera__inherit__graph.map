@@ -1,0 +1,11 @@
+<map id="V4L_camera" name="V4L_camera">
+<area shape="rect" id="node1" title=" " alt="" coords="415,165,509,192"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="189,5,349,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1IFrameGrabberRgb.html" title=" " alt="" coords="172,56,367,83"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IFrameGrabber.html" title=" " alt="" coords="184,107,355,133"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IFrameGrabberControls.html" title=" " alt="" coords="184,158,355,199"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1IPreciselyTimed.html" title=" " alt="" coords="180,224,359,251"/>
+<area shape="rect" id="node8" href="$classyarp_1_1os_1_1PeriodicThread.html" title=" " alt="" coords="187,275,351,301"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1IRgbVisualParams.html" title=" " alt="" coords="173,325,366,352"/>
+</map>

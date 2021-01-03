@@ -1,0 +1,20 @@
+<map id="src/libYARP_rosmsg/idl_generated_code/include/yarp/rosmsg/std_msgs/ColorRGBA.h" name="src/libYARP_rosmsg/idl_generated_code/include/yarp/rosmsg/std_msgs/ColorRGBA.h">
+<area shape="rect" id="node1" title=" " alt="" coords="432,5,599,76"/>
+<area shape="rect" id="node2" href="$std__msgs__ColorRGBA_8h.html" title=" " alt="" coords="408,124,623,180"/>
+<area shape="rect" id="node4" href="$yarp_2rosmsg_2visualization__msgs_2ImageMarker_8h.html" title=" " alt="" coords="129,347,357,417"/>
+<area shape="rect" id="node14" href="$yarp_2rosmsg_2visualization__msgs_2Marker_8h.html" title=" " alt="" coords="710,347,902,417"/>
+<area shape="rect" id="node3" href="$visualization__msgs__ImageMarker_8h.html" title=" " alt="" coords="281,228,435,299"/>
+<area shape="rect" id="node5" href="$visualization__msgs__Marker_8h.html" title=" " alt="" coords="601,228,745,299"/>
+<area shape="rect" id="node6" href="$visualization__msgs__InteractiveMarkerControl_8h.html" title=" " alt="" coords="405,347,628,417"/>
+<area shape="rect" id="node16" href="$visualization__msgs__MarkerArray_8h.html" title=" " alt="" coords="671,606,821,677"/>
+<area shape="rect" id="node7" href="$visualization__msgs__InteractiveMarker_8h.html" title=" " alt="" coords="204,473,384,543"/>
+<area shape="rect" id="node13" href="$yarp_2rosmsg_2visualization__msgs_2InteractiveMarkerControl_8h.html" title=" " alt="" coords="409,465,611,551"/>
+<area shape="rect" id="node8" href="$yarp_2rosmsg_2visualization__msgs_2InteractiveMarker_8h.html" title=" " alt="" coords="331,599,534,684"/>
+<area shape="rect" id="node10" href="$visualization__msgs__InteractiveMarkerInit_8h.html" title=" " alt="" coords="333,865,532,936"/>
+<area shape="rect" id="node12" href="$visualization__msgs__InteractiveMarkerUpdate_8h.html" title=" " alt="" coords="20,865,243,936"/>
+<area shape="rect" id="node9" href="$yarp_2rosmsg_2visualization__msgs_2InteractiveMarkerInit_8h.html" title=" " alt="" coords="331,732,534,817"/>
+<area shape="rect" id="node11" href="$yarp_2rosmsg_2visualization__msgs_2InteractiveMarkerUpdate_8h.html" title=" " alt="" coords="30,732,233,817"/>
+<area shape="rect" id="node15" href="$yarp_2rosmsg_2visualization__msgs_2MarkerArray_8h.html" title=" " alt="" coords="709,473,932,543"/>
+<area shape="rect" id="node17" href="$Map2DServer_8h.html" title=" " alt="" coords="846,621,1019,662"/>
+<area shape="rect" id="node18" href="$Map2DServer_8cpp.html" title=" " alt="" coords="846,754,1019,795"/>
+</map>

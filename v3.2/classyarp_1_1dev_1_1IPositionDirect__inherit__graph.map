@@ -1,0 +1,10 @@
+<map id="yarp::dev::IPositionDirect" name="yarp::dev::IPositionDirect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,122,176,149"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1ControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="224,13,444,39"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1ControlBoardWrapper.html" title=" " alt="" coords="229,63,439,90"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1ImplementPositionDirect.html" title="Default implementation of the IPositionDirect interface." alt="" coords="238,115,430,156"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1RemoteControlBoard.html" title=" " alt="" coords="248,180,420,221"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1StubImplPositionDirectRaw.html" title="Stub implementation of IPositionControl2Raw interface." alt="" coords="243,245,425,287"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1RemoteControlBoardRemapper.html" title=" " alt="" coords="492,5,664,47"/>
+<area shape="rect" id="node6" href="$classFakeMotionControl.html" title=" " alt="" coords="512,122,644,149"/>
+</map>
