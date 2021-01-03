@@ -1,0 +1,9 @@
+<map id="yarp::os::BayerCarrier" name="yarp::os::BayerCarrier">
+<area shape="rect" id="node1" title="Decode bayer images and serve them as regular rgb." alt="" coords="219,304,369,331"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1ModifyingCarrier.html" title="A starter class for implementing simple modifying carriers." alt="" coords="5,229,177,256"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1AbstractCarrier.html" title="A starter class for implementing simple carriers." alt="" coords="9,155,174,181"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1Carrier.html" title="A base class for connection types (tcp, mcast, shmem, ...) which are called carriers in YARP." alt="" coords="33,80,149,107"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1Connection.html" title="A controller for an individual connection." alt="" coords="20,5,163,32"/>
+<area shape="rect" id="node6" href="$classyarp_1_1os_1_1ConnectionReader.html" title="An interface for reading from a network connection." alt="" coords="201,229,387,256"/>
+<area shape="rect" id="node7" href="$classyarp_1_1os_1_1InputStream.html" title="Simple specification of the minimum functions needed from input streams." alt="" coords="411,229,559,256"/>
+</map>

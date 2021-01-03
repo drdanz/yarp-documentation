@@ -1,0 +1,7 @@
+<map id="yarp::os::AbstractContactable" name="yarp::os::AbstractContactable">
+<area shape="rect" id="node1" title="A default implementation of an abstract port." alt="" coords="55,155,251,181"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1RpcClient.html" title=" " alt="" coords="5,229,140,256"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1RpcServer.html" title=" " alt="" coords="165,229,303,256"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1UnbufferedContactable.html" title="An abstract unbuffered port." alt="" coords="47,80,258,107"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1Contactable.html" title="An abstract port." alt="" coords="79,5,226,32"/>
+</map>

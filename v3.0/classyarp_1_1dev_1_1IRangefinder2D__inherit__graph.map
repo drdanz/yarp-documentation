@@ -1,0 +1,9 @@
+<map id="yarp::dev::IRangefinder2D" name="yarp::dev::IRangefinder2D">
+<area shape="rect" id="node1" title=" " alt="" coords="267,5,442,32"/>
+<area shape="rect" id="node2" href="$classFakeLaser.html" title=" " alt="" coords="5,80,88,107"/>
+<area shape="rect" id="node3" href="$classLaserFromDepth.html" title=" " alt="" coords="113,80,231,107"/>
+<area shape="rect" id="node4" href="$classlaserHokuyo.html" title=" " alt="" coords="255,80,350,107"/>
+<area shape="rect" id="node5" href="$classRpLidar.html" title=" " alt="" coords="375,80,441,107"/>
+<area shape="rect" id="node6" href="$classRpLidar2.html" title=" " alt="" coords="465,80,540,107"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1Rangefinder2DClient.html" title=" " alt="" coords="564,80,769,107"/>
+</map>

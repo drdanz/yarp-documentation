@@ -1,0 +1,5 @@
+<map id="yarp::dev::IPositionControlRaw" name="yarp::dev::IPositionControlRaw">
+<area shape="rect" id="node1" title=" " alt="" coords="107,5,311,32"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1FakeMotionControl.html" title=" " alt="" coords="5,87,200,114"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1StubImplPositionControlRaw.html" title="Stub implementation of IPositionControlRaw interface." alt="" coords="225,80,407,121"/>
+</map>

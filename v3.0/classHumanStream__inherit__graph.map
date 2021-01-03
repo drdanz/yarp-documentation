@@ -1,0 +1,6 @@
+<map id="HumanStream" name="HumanStream">
+<area shape="rect" id="node1" title=" " alt="" coords="221,80,328,107"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1TwoWayStream.html" title="A stream which can be asked to perform bidirectional communication." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1InputStream.html" title="Simple specification of the minimum functions needed from input streams." alt="" coords="201,5,349,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1OutputStream.html" title="Simple specification of the minimum functions needed from output streams." alt="" coords="373,5,531,32"/>
+</map>

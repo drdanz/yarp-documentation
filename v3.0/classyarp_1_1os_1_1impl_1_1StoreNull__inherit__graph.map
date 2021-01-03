@@ -1,0 +1,9 @@
+<map id="yarp::os::impl::StoreNull" name="yarp::os::impl::StoreNull">
+<area shape="rect" id="node1" title="An empty item." alt="" coords="155,304,318,331"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1impl_1_1Storable.html" title="A single item in a Bottle." alt="" coords="158,229,315,256"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1Value.html" title="A single value (typically within a Bottle)." alt="" coords="181,155,292,181"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1Portable.html" title=" " alt="" coords="95,80,221,107"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1PortReader.html" title="Interface implemented by all objects that can read themselves from the network, such as Bottle object..." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node6" href="$classyarp_1_1os_1_1PortWriter.html" title="Interface implemented by all objects that can write themselves to the network, such as Bottle objects..." alt="" coords="173,5,309,32"/>
+<area shape="rect" id="node7" href="$classyarp_1_1os_1_1Searchable.html" title="A base class for nested structures that can be searched." alt="" coords="245,80,388,107"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="src/libYARP_OS/include/yarp/os/YarpPluginSelector.h" name="src/libYARP_OS/include/yarp/os/YarpPluginSelector.h">
+<area shape="rect" id="node1" title=" " alt="" coords="397,5,591,47"/>
+<area shape="rect" id="node2" href="$YarpPlugin_8h.html" title=" " alt="" coords="411,184,577,225"/>
+<area shape="rect" id="node10" href="$YarpPluginSettings_8h.html" title=" " alt="" coords="465,95,659,136"/>
+<area shape="rect" id="node3" href="$Carriers_8cpp.html" title=" " alt="" coords="5,273,148,315"/>
+<area shape="rect" id="node4" href="$Network_8cpp.html" title=" " alt="" coords="172,273,315,315"/>
+<area shape="rect" id="node5" href="$YarpPlugin_8cpp.html" title=" " alt="" coords="339,273,481,315"/>
+<area shape="rect" id="node6" href="$Drivers_8cpp.html" title=" " alt="" coords="506,273,650,315"/>
+<area shape="rect" id="node7" href="$MonitorSharedLib_8cpp.html" title=" " alt="" coords="581,363,793,404"/>
+<area shape="rect" id="node8" href="$MonitorSharedLib_8h.html" title=" " alt="" coords="724,273,923,315"/>
+<area shape="rect" id="node9" href="$MonitorBinding_8cpp.html" title=" " alt="" coords="817,363,997,404"/>
+</map>

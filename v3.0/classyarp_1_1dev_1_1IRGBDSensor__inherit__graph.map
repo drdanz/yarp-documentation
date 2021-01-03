@@ -1,0 +1,9 @@
+<map id="yarp::dev::IRGBDSensor" name="yarp::dev::IRGBDSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="196,93,364,120"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1depthCameraDriver.html" title=" " alt="" coords="413,5,610,32"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1fakeDepthCameraDriver.html" title=" " alt="" coords="416,57,607,98"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1realsense2Driver.html" title=" " alt="" coords="420,123,603,149"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1RGBDSensorClient.html" title=" " alt="" coords="412,173,611,200"/>
+<area shape="rect" id="node2" title=" " alt="" coords="11,68,142,95"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,119,148,145"/>
+</map>

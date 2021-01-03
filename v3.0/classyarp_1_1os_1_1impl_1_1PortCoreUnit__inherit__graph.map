@@ -1,0 +1,7 @@
+<map id="yarp::os::impl::PortCoreUnit" name="yarp::os::impl::PortCoreUnit">
+<area shape="rect" id="node1" title="This manages a single threaded resource related to a single input or output connection." alt="" coords="85,155,271,181"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1impl_1_1PortCoreInputUnit.html" title="Manager for a single input to a port." alt="" coords="5,229,167,271"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1impl_1_1PortCoreOutputUnit.html" title="Manager for a single output from a port." alt="" coords="191,229,352,271"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1impl_1_1ThreadImpl.html" title="An abstraction for a thread of execution." alt="" coords="91,80,265,107"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1Runnable.html" title="A class that can be managed by another thread." alt="" coords="112,5,244,32"/>
+</map>

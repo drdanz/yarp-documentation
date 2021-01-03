@@ -1,0 +1,8 @@
+<map id="yarp::dev::IAmplifierControl" name="yarp::dev::IAmplifierControl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,187,115"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1ControlBoardRemapper.html" title=" " alt="" coords="235,13,455,39"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1ControlBoardWrapper.html" title=" " alt="" coords="240,63,449,90"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1FakeBot.html" title=" " alt="" coords="278,114,411,141"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1RemoteControlBoard.html" title=" " alt="" coords="259,165,431,207"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1RemoteControlBoardRemapper.html" title=" " alt="" coords="503,5,675,47"/>
+</map>

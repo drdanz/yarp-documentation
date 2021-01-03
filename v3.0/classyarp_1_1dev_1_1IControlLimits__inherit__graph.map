@@ -1,0 +1,10 @@
+<map id="yarp::dev::IControlLimits" name="yarp::dev::IControlLimits">
+<area shape="rect" id="node1" title=" " alt="" coords="5,114,171,141"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1ControlBoardRemapper.html" title=" " alt="" coords="219,13,439,39"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1ControlBoardWrapper.html" title=" " alt="" coords="224,63,433,90"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1FakeBot.html" title=" " alt="" coords="262,114,395,141"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1ImplementControlLimits.html" title=" " alt="" coords="235,165,422,207"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1RemoteControlBoard.html" title=" " alt="" coords="243,231,415,272"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1RemoteControlBoardRemapper.html" title=" " alt="" coords="498,5,670,47"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1FakeMotionControl.html" title=" " alt="" coords="487,173,681,199"/>
+</map>

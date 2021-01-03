@@ -1,0 +1,9 @@
+<map id="yarp::dev::OVRHeadset" name="yarp::dev::OVRHeadset">
+<area shape="rect" id="node1" title=" " alt="" coords="456,81,619,108"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="233,5,393,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="28,5,147,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1SystemRateThread.html" title=" " alt="" coords="217,56,408,83"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1PeriodicThread.html" title=" " alt="" coords="5,56,169,83"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IService.html" title=" " alt="" coords="247,107,379,133"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1IJoypadController.html" title=" " alt="" coords="219,157,406,184"/>
+</map>

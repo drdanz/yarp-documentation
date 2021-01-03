@@ -1,0 +1,10 @@
+<map id="src/libYARP_rosmsg/idl_generated_code/include/yarp/rosmsg/diagnostic_msgs/KeyValue.h" name="src/libYARP_rosmsg/idl_generated_code/include/yarp/rosmsg/diagnostic_msgs/KeyValue.h">
+<area shape="rect" id="node1" title=" " alt="" coords="312,5,507,76"/>
+<area shape="rect" id="node2" href="$yarp_2rosmsg_2diagnostic__msgs_2DiagnosticStatus_8h.html" title=" " alt="" coords="38,124,277,195"/>
+<area shape="rect" id="node8" href="$diagnostic__msgs__KeyValue_8h.html" title=" " alt="" coords="325,124,494,195"/>
+<area shape="rect" id="node3" href="$yarp_2rosmsg_2diagnostic__msgs_2DiagnosticArray_8h.html" title=" " alt="" coords="42,243,274,313"/>
+<area shape="rect" id="node5" href="$diagnostic__msgs__DiagnosticStatus_8h.html" title=" " alt="" coords="322,243,492,313"/>
+<area shape="rect" id="node7" href="$yarp_2rosmsg_2diagnostic__msgs_2SelfTestReply_8h.html" title=" " alt="" coords="268,480,490,551"/>
+<area shape="rect" id="node4" href="$diagnostic__msgs__DiagnosticArray_8h.html" title=" " alt="" coords="73,361,242,432"/>
+<area shape="rect" id="node6" href="$diagnostic__msgs__SelfTestReply_8h.html" title=" " alt="" coords="294,361,464,432"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Device Interfaces" name="Device Interfaces">
+<area shape="rect" id="node1" href="$group__dev__iface__navigation.html" title="Interfaces for navigation, localization and mapping." alt="" coords="305,5,451,31"/>
+<area shape="rect" id="node2" href="$group__dev__all.html" title="Dealing with devices. What do you need to know to use devices in YARP? First, we try to write our dev..." alt="" coords="5,112,76,137"/>
+<area shape="rect" id="node3" title="Device interfaces, specified independently of specific implementations." alt="" coords="124,112,249,137"/>
+<area shape="rect" id="node4" href="$group__dev__iface__motor.html" title="Motor control and monitoring." alt="" coords="319,55,437,80"/>
+<area shape="rect" id="node5" href="$group__dev__iface__multiple__analog.html" title="The interfaces present in this group are meant to be implemented by devices that expose sensor that c..." alt="" coords="300,105,456,145"/>
+<area shape="rect" id="node6" href="$group__dev__iface__media.html" title="Images and sounds." alt="" coords="319,169,437,195"/>
+<area shape="rect" id="node7" href="$group__dev__iface__other.html" title="Sundry, miscellaneous." alt="" coords="297,219,459,244"/>
+</map>

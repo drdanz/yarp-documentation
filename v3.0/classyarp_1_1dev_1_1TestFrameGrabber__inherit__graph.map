@@ -1,0 +1,11 @@
+<map id="yarp::dev::TestFrameGrabber" name="yarp::dev::TestFrameGrabber">
+<area shape="rect" id="node1" title=" " alt="" coords="419,195,612,221"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="191,5,351,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1IFrameGrabberImage.html" title=" " alt="" coords="186,57,357,98"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IFrameGrabberImageRaw.html" title=" " alt="" coords="186,122,357,163"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IFrameGrabberControls.html" title=" " alt="" coords="186,187,357,229"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1IPreciselyTimed.html" title=" " alt="" coords="182,253,361,280"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1IAudioVisualStream.html" title=" " alt="" coords="172,304,371,331"/>
+<area shape="rect" id="node9" title=" " alt="" coords="206,355,337,381"/>
+</map>

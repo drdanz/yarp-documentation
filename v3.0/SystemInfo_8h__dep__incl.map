@@ -1,0 +1,10 @@
+<map id="src/libYARP_OS/include/yarp/os/SystemInfo.h" name="src/libYARP_OS/include/yarp/os/SystemInfo.h">
+<area shape="rect" id="node1" title=" " alt="" coords="349,5,514,47"/>
+<area shape="rect" id="node2" href="$SystemInfoSerializer_8h.html" title=" " alt="" coords="189,95,394,136"/>
+<area shape="rect" id="node3" href="$SystemInfo_8cpp.html" title=" " alt="" coords="5,184,148,225"/>
+<area shape="rect" id="node4" href="$SystemInfoSerializer_8cpp.html" title=" " alt="" coords="172,184,344,225"/>
+<area shape="rect" id="node5" href="$Run_8cpp.html" title=" " alt="" coords="369,184,510,225"/>
+<area shape="rect" id="node6" href="$LogForwarder_8cpp.html" title=" " alt="" coords="469,95,612,136"/>
+<area shape="rect" id="node7" href="$NetworkClock_8cpp.html" title=" " alt="" coords="636,95,779,136"/>
+<area shape="rect" id="node8" href="$PortCore_8cpp.html" title=" " alt="" coords="803,95,945,136"/>
+</map>

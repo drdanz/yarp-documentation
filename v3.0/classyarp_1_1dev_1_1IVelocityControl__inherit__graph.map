@@ -1,0 +1,11 @@
+<map id="yarp::dev::IVelocityControl" name="yarp::dev::IVelocityControl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,183,170"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1ControlBoardRemapper.html" title=" " alt="" coords="231,13,451,39"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1ControlBoardWrapper.html" title=" " alt="" coords="236,63,445,90"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1FakeBot.html" title=" " alt="" coords="274,114,407,141"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1ImplementVelocityControl.html" title=" " alt="" coords="245,165,437,207"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1RemoteControlBoard.html" title=" " alt="" coords="255,231,427,272"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1TestMotor.html" title=" " alt="" coords="269,297,412,323"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1RemoteControlBoardRemapper.html" title=" " alt="" coords="510,5,682,47"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1FakeMotionControl.html" title=" " alt="" coords="499,173,693,199"/>
+</map>

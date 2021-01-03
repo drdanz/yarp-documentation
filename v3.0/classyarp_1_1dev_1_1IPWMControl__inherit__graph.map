@@ -1,0 +1,9 @@
+<map id="yarp::dev::IPWMControl" name="yarp::dev::IPWMControl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,168,115"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1ControlBoardRemapper.html" title=" " alt="" coords="216,13,436,39"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1ControlBoardWrapper.html" title=" " alt="" coords="221,63,431,90"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1ImplementPWMControl.html" title=" " alt="" coords="216,114,436,141"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1RemoteControlBoard.html" title=" " alt="" coords="240,165,412,207"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1RemoteControlBoardRemapper.html" title=" " alt="" coords="495,5,667,47"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1FakeMotionControl.html" title=" " alt="" coords="484,114,679,141"/>
+</map>

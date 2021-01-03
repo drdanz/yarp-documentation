@@ -1,0 +1,16 @@
+<map id="src/libYARP_sig/include/yarp/sig/PointCloudNetworkHeader.h" name="src/libYARP_sig/include/yarp/sig/PointCloudNetworkHeader.h">
+<area shape="rect" id="node1" title=" " alt="" coords="524,5,767,47"/>
+<area shape="rect" id="node2" href="$PointCloudBase_8h.html" title=" " alt="" coords="555,95,736,136"/>
+<area shape="rect" id="node3" href="$libYARP__sig_2include_2yarp_2sig_2PointCloud_8h.html" title=" " alt="" coords="475,184,637,225"/>
+<area shape="rect" id="node14" href="$PointCloudBase_8cpp.html" title=" " alt="" coords="662,184,807,225"/>
+<area shape="rect" id="node4" href="$libYARP__sig_2include_2yarp_2sig_2all_8h.html" title=" " alt="" coords="475,273,637,315"/>
+<area shape="rect" id="node5" href="$depthCameraDriver_8h.html" title=" " alt="" coords="5,363,176,404"/>
+<area shape="rect" id="node7" href="$FakeBot_8cpp.html" title=" " alt="" coords="200,363,336,404"/>
+<area shape="rect" id="node8" href="$fakeDepthCameraDriver_8h.html" title=" " alt="" coords="361,363,559,404"/>
+<area shape="rect" id="node10" href="$FfmpegGrabber_8cpp.html" title=" " alt="" coords="583,363,724,404"/>
+<area shape="rect" id="node11" href="$FfmpegWriter_8cpp.html" title=" " alt="" coords="748,363,881,404"/>
+<area shape="rect" id="node12" href="$realsense2Driver_8h.html" title=" " alt="" coords="906,363,1062,404"/>
+<area shape="rect" id="node6" href="$depthCameraDriver_8cpp.html" title=" " alt="" coords="5,452,176,493"/>
+<area shape="rect" id="node9" href="$fakeDepthCameraDriver_8cpp.html" title=" " alt="" coords="361,452,559,493"/>
+<area shape="rect" id="node13" href="$realsense2Driver_8cpp.html" title=" " alt="" coords="906,452,1062,493"/>
+</map>

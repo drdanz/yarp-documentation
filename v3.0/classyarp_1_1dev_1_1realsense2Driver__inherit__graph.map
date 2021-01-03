@@ -1,0 +1,10 @@
+<map id="yarp::dev::realsense2Driver" name="yarp::dev::realsense2Driver">
+<area shape="rect" id="node1" title=" " alt="" coords="415,97,597,124"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="201,5,361,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="17,5,136,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1IFrameGrabberControls.html" title=" " alt="" coords="196,57,367,98"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IFrameGrabberImageRaw.html" title=" " alt="" coords="196,122,367,163"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IRGBDSensor.html" title=" " alt="" coords="197,188,365,215"/>
+<area shape="rect" id="node7" title=" " alt="" coords="11,163,142,189"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,213,148,240"/>
+</map>

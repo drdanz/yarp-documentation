@@ -1,0 +1,13 @@
+<map id="yarp::dev::IPreciselyTimed" name="yarp::dev::IPreciselyTimed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,184,235"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1AnalogSensorClient.html" title="Device that reads an AnalogSensor (using the IAnalogSensor interface) from the YARP network." alt="" coords="243,5,441,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1BatteryClient.html" title=" " alt="" coords="262,56,422,83"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1ControlBoardRemapper.html" title=" " alt="" coords="232,107,452,133"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1ControlBoardWrapper.html" title=" " alt="" coords="237,157,447,184"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1fakeIMU.html" title="fakeIMU : fake device implementing the device interface typically implemented by an Inertial Measurem..." alt="" coords="275,208,409,235"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1OpenCVGrabber.html" title=" " alt="" coords="252,259,432,285"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1Rangefinder2DClient.html" title=" " alt="" coords="239,309,445,336"/>
+<area shape="rect" id="node10" href="$classyarp_1_1dev_1_1RemoteControlBoard.html" title=" " alt="" coords="256,361,428,402"/>
+<area shape="rect" id="node11" href="$classyarp_1_1dev_1_1TestFrameGrabber.html" title=" " alt="" coords="245,427,439,453"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1RemoteControlBoardRemapper.html" title=" " alt="" coords="500,99,672,141"/>
+</map>
