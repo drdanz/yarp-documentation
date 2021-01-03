@@ -1,0 +1,19 @@
+<map id="yarp::dev::IPreciselyTimed" name="yarp::dev::IPreciselyTimed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,275,200,301"/>
+<area shape="rect" id="node2" href="$classAnalogSensorClient.html" title="analogsensorclient: Device that reads an AnalogSensor (using the IAnalogSensor interface) from the YA..." alt="" coords="284,5,433,32"/>
+<area shape="rect" id="node3" href="$classBatteryClient.html" title="batteryClient: The client side of any IBattery capable device." alt="" coords="305,56,413,83"/>
+<area shape="rect" id="node4" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="271,107,446,133"/>
+<area shape="rect" id="node6" href="$classControlBoardWrapperPreciselyTimed.html" title=" " alt="" coords="248,158,469,199"/>
+<area shape="rect" id="node8" href="$classFakeFrameGrabber.html" title="fakeFrameGrabber: A fake camera for testing." alt="" coords="287,224,431,251"/>
+<area shape="rect" id="node10" href="$classfakeIMU.html" title="fakeIMU : fake device implementing the device interface typically implemented by an Inertial Measurem..." alt="" coords="321,275,397,301"/>
+<area shape="rect" id="node11" href="$classOpenCVGrabber.html" title="opencv_grabber: An image frame grabber device using OpenCV to capture images from cameras and AVI fil..." alt="" coords="295,325,422,352"/>
+<area shape="rect" id="node12" href="$classRangefinder2DClient.html" title="Rangefinder2DClient: The client side of any ILaserRangefinder2D capable device." alt="" coords="281,376,437,403"/>
+<area shape="rect" id="node13" href="$classRemoteControlBoard.html" title="remote_controlboard: The client side of the control board, connects to a remote controlboard using th..." alt="" coords="279,427,438,453"/>
+<area shape="rect" id="node14" href="$classUSBCameraDriver.html" title="usbCamera: YARP device driver implementation for acquiring images from USB cameras." alt="" coords="289,477,429,504"/>
+<area shape="rect" id="node17" href="$classV4L__camera.html" title=" " alt="" coords="307,528,410,555"/>
+<area shape="rect" id="node5" href="$classRemoteControlBoardRemapper.html" title="remotecontrolboardremapper A device that takes a list of axes from multiple controlboards,..." alt="" coords="517,107,743,133"/>
+<area shape="rect" id="node7" href="$classControlBoardWrapper.html" title="controlboardwrapper2: An updated version of the controlBoard network wrapper." alt="" coords="549,165,711,192"/>
+<area shape="rect" id="node9" href="$classTestFrameGrabber.html" title=" " alt="" coords="559,224,701,251"/>
+<area shape="rect" id="node15" href="$classUSBCameraDriverRaw.html" title="usbCameraRaw: Documentation to be added" alt="" coords="546,452,714,479"/>
+<area shape="rect" id="node16" href="$classUSBCameraDriverRgb.html" title=" " alt="" coords="547,503,713,529"/>
+</map>

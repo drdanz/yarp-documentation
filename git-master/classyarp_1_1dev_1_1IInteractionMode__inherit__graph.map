@@ -1,0 +1,10 @@
+<map id="yarp::dev::IInteractionMode" name="yarp::dev::IInteractionMode">
+<area shape="rect" id="node1" title="Interface settings the way the robot interacts with the environment: basic interaction types are Stif..." alt="" coords="5,81,205,108"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="300,5,475,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapperInteractionMode.html" title=" " alt="" coords="253,56,521,83"/>
+<area shape="rect" id="node6" href="$classRemoteControlBoard.html" title="remote_controlboard: The client side of the control board, connects to a remote controlboard using th..." alt="" coords="308,107,467,133"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1ImplementInteractionMode.html" title="Interface settings the way the robot interacts with the environment: basic interaction types are Stif..." alt="" coords="254,157,521,184"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title="remotecontrolboardremapper A device that takes a list of axes from multiple controlboards,..." alt="" coords="569,5,795,32"/>
+<area shape="rect" id="node5" href="$classControlBoardWrapper.html" title="controlboardwrapper2: An updated version of the controlBoard network wrapper." alt="" coords="601,56,763,83"/>
+<area shape="rect" id="node8" href="$classFakeMotionControl.html" title="fakeMotionControl: Documentation to be added" alt="" coords="611,157,753,184"/>
+</map>

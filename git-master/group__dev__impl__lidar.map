@@ -1,0 +1,5 @@
+<map id="Lidar Devices" name="Lidar Devices">
+<area shape="rect" id="node1" href="$group__dev__impl__fake.html" title="Devices using for testing purposes." alt="" coords="461,7,597,33"/>
+<area shape="rect" id="node2" href="$group__dev__impl.html" title="Concrete device drivers that implement sets of interfaces." alt="" coords="5,7,188,33"/>
+<area shape="rect" id="node3" title="Lidars and similar range measurement devices." alt="" coords="237,7,348,33"/>
+</map>

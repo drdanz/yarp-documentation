@@ -1,0 +1,11 @@
+<map id="yarp::dev::IControlLimits" name="yarp::dev::IControlLimits">
+<area shape="rect" id="node1" title="Interface for control devices, commands to get/set position and veloity limits." alt="" coords="5,123,187,149"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="252,5,427,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapperControlLimits.html" title=" " alt="" coords="235,57,444,98"/>
+<area shape="rect" id="node6" href="$classFakeBot.html" title="fakebot: Documentation to be added" alt="" coords="303,123,376,149"/>
+<area shape="rect" id="node7" href="$classRemoteControlBoard.html" title="remote_controlboard: The client side of the control board, connects to a remote controlboard using th..." alt="" coords="260,173,419,200"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1ImplementControlLimits.html" title="class ImplementControlLimits; class StubImplControlLimitsRaw;" alt="" coords="235,225,443,266"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title="remotecontrolboardremapper A device that takes a list of axes from multiple controlboards,..." alt="" coords="492,5,717,32"/>
+<area shape="rect" id="node5" href="$classControlBoardWrapper.html" title="controlboardwrapper2: An updated version of the controlBoard network wrapper." alt="" coords="523,64,686,91"/>
+<area shape="rect" id="node9" href="$classFakeMotionControl.html" title="fakeMotionControl: Documentation to be added" alt="" coords="533,232,676,259"/>
+</map>

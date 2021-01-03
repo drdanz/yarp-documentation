@@ -1,0 +1,7 @@
+<map id="yarp::dev::AudioRecorderDeviceBase" name="yarp::dev::AudioRecorderDeviceBase">
+<area shape="rect" id="node1" title=" " alt="" coords="159,95,344,136"/>
+<area shape="rect" id="node3" href="$classaudioFromFileDevice.html" title="audioFromFileDevice : This device driver, wrapped by default by AudioRecorderWrapper,..." alt="" coords="5,184,164,211"/>
+<area shape="rect" id="node4" href="$classfakeMicrophone.html" title="fakeMicrophone : fake microphone device implementing the IAudioGrabberSound interface to generate a t..." alt="" coords="188,184,315,211"/>
+<area shape="rect" id="node5" href="$classPortAudioRecorderDeviceDriver.html" title="portaudioRecorder: A device driver for an audio source wrapped by PortAudio library." alt="" coords="339,184,567,211"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1IAudioGrabberSound.html" title="Read a YARP&#45;format sound block from a device." alt="" coords="160,5,343,47"/>
+</map>

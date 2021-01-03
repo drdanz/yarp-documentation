@@ -1,0 +1,12 @@
+<map id="src/libYARP_rosmsg/src/idl_generated_code/yarp/rosmsg/sensor_msgs/Image.h" name="src/libYARP_rosmsg/src/idl_generated_code/yarp/rosmsg/sensor_msgs/Image.h">
+<area shape="rect" id="node1" title=" " alt="" coords="252,5,448,76"/>
+<area shape="rect" id="node2" href="$sensor__msgs__Image_8h.html" title=" " alt="" coords="200,124,376,180"/>
+<area shape="rect" id="node4" href="$yarp_2rosmsg_2stereo__msgs_2DisparityImage_8h.html" title=" " alt="" coords="36,332,230,403"/>
+<area shape="rect" id="node5" href="$RGBDRosConversionUtils_8h.html" title=" " alt="" coords="513,131,748,173"/>
+<area shape="rect" id="node7" href="$RGBDSensorFromRosTopic_8h.html" title=" " alt="" coords="280,235,546,277"/>
+<area shape="rect" id="node10" href="$RGBDSensorWrapper_8h.html" title=" " alt="" coords="806,131,1042,173"/>
+<area shape="rect" id="node3" href="$stereo__msgs__DisparityImage_8h.html" title=" " alt="" coords="27,228,255,284"/>
+<area shape="rect" id="node6" href="$RGBDRosConversionUtils_8cpp.html" title=" " alt="" coords="570,235,818,277"/>
+<area shape="rect" id="node9" href="$RGBDSensorWrapper_8cpp.html" title=" " alt="" coords="842,235,1078,277"/>
+<area shape="rect" id="node8" href="$RGBDSensorFromRosTopic_8cpp.html" title=" " alt="" coords="278,347,561,388"/>
+</map>

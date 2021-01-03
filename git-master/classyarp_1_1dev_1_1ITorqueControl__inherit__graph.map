@@ -1,0 +1,11 @@
+<map id="yarp::dev::ITorqueControl" name="yarp::dev::ITorqueControl">
+<area shape="rect" id="node1" title="Interface for control boards implementing torque control." alt="" coords="5,123,189,149"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="253,5,427,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapperTorqueControl.html" title=" " alt="" coords="237,57,443,98"/>
+<area shape="rect" id="node6" href="$classDynamixelAX12FtdiDriver.html" title="dynamixelAX12Ftdi: Documentation to be added" alt="" coords="245,123,435,149"/>
+<area shape="rect" id="node7" href="$classRemoteControlBoard.html" title="remote_controlboard: The client side of the control board, connects to a remote controlboard using th..." alt="" coords="261,173,419,200"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1ImplementTorqueControl.html" title=" " alt="" coords="238,225,442,266"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title="remotecontrolboardremapper A device that takes a list of axes from multiple controlboards,..." alt="" coords="491,5,716,32"/>
+<area shape="rect" id="node5" href="$classControlBoardWrapper.html" title="controlboardwrapper2: An updated version of the controlBoard network wrapper." alt="" coords="522,64,685,91"/>
+<area shape="rect" id="node9" href="$classFakeMotionControl.html" title="fakeMotionControl: Documentation to be added" alt="" coords="532,232,675,259"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="yarp::dev::IRGBDSensor" name="yarp::dev::IRGBDSensor">
+<area shape="rect" id="node1" title="A generic interface for cameras that have both color camera as well as depth camera sensor,..." alt="" coords="274,80,450,107"/>
+<area shape="rect" id="node4" href="$classdepthCameraDriver.html" title="depthCamera: YARP driver for OpenNI2 compatible devices." alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node5" href="$classfakeDepthCameraDriver.html" title="fakeDepthCamera: Documentation to be added" alt="" coords="180,155,360,181"/>
+<area shape="rect" id="node6" href="$classRGBDSensorClient.html" title="RGBDSensorClient: A Network client to receive data from kinect&#45;like devices. This device will read fr..." alt="" coords="384,155,527,181"/>
+<area shape="rect" id="node7" href="$classRGBDSensorFromRosTopic.html" title="RGBDSensorFromRosTopic is a driver for a virtual RGBD device: the data is not originated from a physi..." alt="" coords="551,155,746,181"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1IRgbVisualParams.html" title="An interface for retrieving intrinsic parameter from a rgb camera." alt="" coords="140,5,347,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1IDepthVisualParams.html" title="An interface for retrieving intrinsic parameter from a depth camera." alt="" coords="371,5,593,32"/>
+</map>

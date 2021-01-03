@@ -1,0 +1,7 @@
+<map id="yarp::dev Yarp Devices" name="yarp::dev Yarp Devices">
+<area shape="rect" id="node1" title="Dealing with devices." alt="" coords="5,80,176,105"/>
+<area shape="rect" id="node2" href="$group__dev__iface.html" title="Device interfaces, specified independently of specific implementations." alt="" coords="265,5,401,31"/>
+<area shape="rect" id="node3" href="$group__dev__class.html" title="Basic classes and methods related to creating and configuring devices, and network communication to a..." alt="" coords="224,55,441,80"/>
+<area shape="rect" id="node4" href="$group__dev__examples.html" title="Example configuration files." alt="" coords="229,104,436,129"/>
+<area shape="rect" id="node5" href="$group__dev__impl.html" title="Concrete device drivers that implement sets of interfaces." alt="" coords="241,153,424,179"/>
+</map>

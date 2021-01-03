@@ -1,0 +1,10 @@
+<map id="yarp::dev::IPWMControl" name="yarp::dev::IPWMControl">
+<area shape="rect" id="node1" title="Interface for controlling an axis, by sending directly a PWM reference signal to a motor." alt="" coords="5,81,180,108"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="262,5,437,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapperPWMControl.html" title=" " alt="" coords="228,56,471,83"/>
+<area shape="rect" id="node6" href="$classRemoteControlBoard.html" title="remote_controlboard: The client side of the control board, connects to a remote controlboard using th..." alt="" coords="270,107,429,133"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1ImplementPWMControl.html" title=" " alt="" coords="229,157,470,184"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title="remotecontrolboardremapper A device that takes a list of axes from multiple controlboards,..." alt="" coords="519,5,744,32"/>
+<area shape="rect" id="node5" href="$classControlBoardWrapper.html" title="controlboardwrapper2: An updated version of the controlBoard network wrapper." alt="" coords="550,56,713,83"/>
+<area shape="rect" id="node8" href="$classFakeMotionControl.html" title="fakeMotionControl: Documentation to be added" alt="" coords="560,157,703,184"/>
+</map>

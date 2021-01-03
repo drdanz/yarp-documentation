@@ -1,0 +1,7 @@
+<map id="yarp::dev::IAudioRender" name="yarp::dev::IAudioRender">
+<area shape="rect" id="node1" title=" " alt="" coords="212,5,389,32"/>
+<area shape="rect" id="node2" href="$classaudioToFileDevice.html" title="audioToFileDevice : This device driver, wrapped by default by AudioPlayerWrapper, is used to save to ..." alt="" coords="5,80,145,107"/>
+<area shape="rect" id="node3" href="$classfakeSpeaker.html" title="fakeSpeaker : fake device implementing the IAudioRender device interface to play sound" alt="" coords="169,80,272,107"/>
+<area shape="rect" id="node4" href="$classPortAudioDeviceDriver.html" title="portaudio: Documentation to be added" alt="" coords="297,80,467,107"/>
+<area shape="rect" id="node5" href="$classPortAudioPlayerDeviceDriver.html" title="portaudioPlayer: Documentation to be added" alt="" coords="491,80,702,107"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="yarp::os::IConfig" name="yarp::os::IConfig">
+<area shape="rect" id="node1" title="An object that can be configured." alt="" coords="5,1171,132,1197"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title="Interface implemented by all device drivers." alt="" coords="180,1171,355,1197"/>
+<area shape="rect" id="node3" href="$classAnalogSensorClient.html" title="analogsensorclient: Device that reads an AnalogSensor (using the IAnalogSensor interface) from the YA..." alt="" coords="428,5,577,32"/>
+<area shape="rect" id="node4" href="$classAnalogWrapper.html" title="analogServer: Device that expose an AnalogSensor (using the IAnalogSensor interface) on the YARP or R..." alt="" coords="441,56,564,83"/>
+<area shape="rect" id="node5" href="$classaudioFromFileDevice.html" title="audioFromFileDevice : This device driver, wrapped by default by AudioRecorderWrapper,..." alt="" coords="423,107,582,133"/>
+<area shape="rect" id="node6" href="$classAudioPlayerWrapper.html" title="AudioPlayerWrapper: A Wrapper which receives audio streams from a network port and sends it to device..." alt="" coords="425,157,580,184"/>
+<area shape="rect" id="node7" href="$classAudioRecorderWrapper.html" title="AudioRecorderWrapper: A Wrapper which streams audio over the network, after grabbing it from a device" alt="" coords="417,208,589,235"/>
+<area shape="rect" id="node8" href="$classaudioToFileDevice.html" title="audioToFileDevice : This device driver, wrapped by default by AudioPlayerWrapper, is used to save to ..." alt="" coords="433,259,573,285"/>
+<area shape="rect" id="node9" href="$classBatteryClient.html" title="batteryClient: The client side of any IBattery capable device." alt="" coords="449,309,557,336"/>
+<area shape="rect" id="node10" href="$classBatteryWrapper.html" title="batteryWrapper: Device that expose a battery sensor (using the IBattery interface) on the YARP networ..." alt="" coords="440,360,565,387"/>
+<area shape="rect" id="node11" href="$classBoschIMU.html" title="imuBosch_BNO055: This device will connect to the proper analogServer and read the data broadcasted ma..." alt="" coords="459,411,546,437"/>
+<area shape="rect" id="node12" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="415,461,590,488"/>
+<area shape="rect" id="node13" href="$classControlBoardWrapper.html" title="controlboardwrapper2: An updated version of the controlBoard network wrapper." alt="" coords="421,512,584,539"/>
+<area shape="rect" id="node14" href="$classdepthCameraDriver.html" title="depthCamera: YARP driver for OpenNI2 compatible devices." alt="" coords="427,563,578,589"/>
+<area shape="rect" id="node15" href="$classDeviceGroup.html" title="group: Lets you make a bunch of devices as a group." alt="" coords="449,613,556,640"/>
+<area shape="rect" id="node16" href="$classDevicePipe.html" title="pipe: Tries to connect the output of one device to the input of another." alt="" coords="455,664,550,691"/>
+<area shape="rect" id="node17" href="$classDynamixelAX12FtdiDriver.html" title="dynamixelAX12Ftdi: Documentation to be added" alt="" coords="407,715,598,741"/>
+<area shape="rect" id="node18" href="$classFakeAnalogSensor.html" title="fakeAnalogSensor: Fake analog sensor device for testing purpose and reference for new analog devices" alt="" coords="433,765,573,792"/>
+<area shape="rect" id="node19" href="$classFakeBattery.html" title="fakeBattery: Documentation to be added" alt="" coords="453,816,552,843"/>
+<area shape="rect" id="node20" href="$classFakeBot.html" title="fakebot: Documentation to be added" alt="" coords="466,867,539,893"/>
+<area shape="rect" id="node21" href="$classfakeDepthCameraDriver.html" title="fakeDepthCamera: Documentation to be added" alt="" coords="413,917,593,944"/>
+<area shape="rect" id="node22" href="$classFakeFrameGrabber.html" title="fakeFrameGrabber: A fake camera for testing." alt="" coords="431,968,575,995"/>
+<area shape="rect" id="node23" href="$classfakeIMU.html" title="fakeIMU : fake device implementing the device interface typically implemented by an Inertial Measurem..." alt="" coords="465,1019,541,1045"/>
+<area shape="rect" id="node24" href="$classFakeLaser.html" title="fakeLaser : fake sensor device driver for testing purposes and reference for IRangefinder2D devices." alt="" coords="459,1069,546,1096"/>
+<area shape="rect" id="node25" href="$classfakeLocalizer.html" title="fakeLocalizer Documentation to be added" alt="" coords="449,1120,557,1147"/>
+<area shape="rect" id="node26" href="$classfakeMicrophone.html" title="fakeMicrophone : fake microphone device implementing the IAudioGrabberSound interface to generate a t..." alt="" coords="439,1171,566,1197"/>
+<area shape="rect" id="node27" href="$classFakeMotionControl.html" title="fakeMotionControl: Documentation to be added" alt="" coords="431,1221,574,1248"/>
+<area shape="rect" id="node28" href="$classFakeMotor.html" title="fakeMotor: A fake motor control board for testing." alt="" coords="458,1272,547,1299"/>
+<area shape="rect" id="node29" href="$classfakeNavigation.html" title="fakeNavigation: Documentation to be added" alt="" coords="442,1323,563,1349"/>
+<area shape="rect" id="node30" href="$classfakeSpeaker.html" title="fakeSpeaker : fake device implementing the IAudioRender device interface to play sound" alt="" coords="451,1373,554,1400"/>
+<area shape="rect" id="node31" href="$classFfmpegGrabber.html" title="ffmpeg_grabber: An image frame grabber device using ffmpeg to capture images from AVI files." alt="" coords="441,1424,565,1451"/>
+<area shape="rect" id="node32" href="$classFfmpegWriter.html" title="ffmpeg_writer: Uses ffmpeg to write images/sounds to movie files (AVI, MOV, ...)." alt="" coords="447,1475,559,1501"/>
+<area shape="rect" id="node33" href="$classFrameTransformClient.html" title="transformClient: Documentation to be added" alt="" coords="419,1525,586,1552"/>
+<area shape="rect" id="node34" href="$classFrameTransformServer.html" title="transformServer: Documentation to be added" alt="" coords="417,1576,588,1603"/>
+<area shape="rect" id="node35" href="$classGenericSensorRosPublisher.html" title="This abstract template needs to be specialized in a ROS Publisher, for a specific ROS mesagge/sensor ..." alt="" coords="403,1627,603,1669"/>
+<area shape="rect" id="node36" href="$classGenericSensorRosPublisher.html" title=" " alt="" coords="403,1693,603,1749"/>
+<area shape="rect" id="node37" href="$classGenericSensorRosPublisher.html" title=" " alt="" coords="403,1773,603,1829"/>
+<area shape="rect" id="node38" href="$classGenericSensorRosPublisher.html" title=" " alt="" coords="403,1853,603,1909"/>
+<area shape="rect" id="node39" href="$classGenericSensorRosPublisher.html" title=" " alt="" coords="403,1933,603,1989"/>
+<area shape="rect" id="node40" href="$classGenericSensorRosPublisher.html" title=" " alt="" coords="403,2013,603,2069"/>
+<area shape="rect" id="node41" href="$classJoypadControlClient.html" title="JoypadControlClient: joypad input network wrapper on client side" alt="" coords="427,2093,578,2120"/>
+<area shape="rect" id="node42" href="$classJoypadControlServer.html" title="JoypadControlServer: Documentation to be added" alt="" coords="425,2144,580,2171"/>
+<area shape="rect" id="node43" href="$classLaserFromDepth.html" title="laserFromDepth: Documentation to be added" alt="" coords="438,2195,567,2221"/>
+<area shape="rect" id="node44" href="$classLaserFromExternalPort.html" title="laserFromExternalPort: Documentation to be added" alt="" coords="417,2245,588,2272"/>
+<area shape="rect" id="node45" href="$classLaserFromPointCloud.html" title="laserFromPointCloud: Documentation to be added" alt="" coords="423,2296,583,2323"/>
+<area shape="rect" id="node46" href="$classLaserFromRosTopic.html" title="laserFromRosTopic: Documentation to be added" alt="" coords="429,2347,576,2373"/>
+<area shape="rect" id="node47" href="$classlaserHokuyo.html" title="laserHokuyo: Documentation to be added" alt="" coords="451,2397,554,2424"/>
+<area shape="rect" id="node48" href="$classLocalization2DClient.html" title="localization2DClient A device which allows a user application retrieve the current position of the ro..." alt="" coords="425,2448,581,2475"/>
+<area shape="rect" id="node49" href="$classLocalization2DServer.html" title="localization2DServer: A localization server which can be wrap multiple algorithms and devices to prov..." alt="" coords="423,2499,583,2525"/>
+</map>

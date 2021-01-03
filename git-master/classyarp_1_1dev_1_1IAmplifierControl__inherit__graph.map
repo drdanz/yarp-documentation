@@ -1,0 +1,11 @@
+<map id="yarp::dev::IAmplifierControl" name="yarp::dev::IAmplifierControl">
+<area shape="rect" id="node1" title="Interface for control devices, amplifier commands." alt="" coords="5,123,205,149"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="277,5,451,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapperAmplifierControl.html" title=" " alt="" coords="253,57,475,98"/>
+<area shape="rect" id="node6" href="$classFakeBot.html" title="fakebot: Documentation to be added" alt="" coords="327,123,401,149"/>
+<area shape="rect" id="node7" href="$classRemoteControlBoard.html" title="remote_controlboard: The client side of the control board, connects to a remote controlboard using th..." alt="" coords="285,173,443,200"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1ImplementAmplifierControl.html" title=" " alt="" coords="254,225,474,266"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title="remotecontrolboardremapper A device that takes a list of axes from multiple controlboards,..." alt="" coords="523,5,748,32"/>
+<area shape="rect" id="node5" href="$classControlBoardWrapper.html" title="controlboardwrapper2: An updated version of the controlBoard network wrapper." alt="" coords="554,64,717,91"/>
+<area shape="rect" id="node9" href="$classFakeMotionControl.html" title="fakeMotionControl: Documentation to be added" alt="" coords="564,232,707,259"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="yarp::dev::IRangefinder2D" name="yarp::dev::IRangefinder2D">
+<area shape="rect" id="node1" title="A generic interface for planar laser range finders." alt="" coords="5,81,196,108"/>
+<area shape="rect" id="node2" href="$classlaserHokuyo.html" title="laserHokuyo: Documentation to be added" alt="" coords="301,5,404,32"/>
+<area shape="rect" id="node3" href="$classRangefinder2DClient.html" title="Rangefinder2DClient: The client side of any ILaserRangefinder2D capable device." alt="" coords="275,56,431,83"/>
+<area shape="rect" id="node4" href="$classRpLidar.html" title="rpLidar: Documentation to be added" alt="" coords="317,107,388,133"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1Lidar2DDeviceBase.html" title="The DLidarDeviceTemplate class." alt="" coords="244,157,461,184"/>
+<area shape="rect" id="node6" href="$classFakeLaser.html" title="fakeLaser : fake sensor device driver for testing purposes and reference for IRangefinder2D devices." alt="" coords="551,31,638,57"/>
+<area shape="rect" id="node7" href="$classLaserFromDepth.html" title="laserFromDepth: Documentation to be added" alt="" coords="530,81,659,108"/>
+<area shape="rect" id="node8" href="$classLaserFromExternalPort.html" title="laserFromExternalPort: Documentation to be added" alt="" coords="509,132,680,159"/>
+<area shape="rect" id="node9" href="$classLaserFromPointCloud.html" title="laserFromPointCloud: Documentation to be added" alt="" coords="515,183,675,209"/>
+<area shape="rect" id="node10" href="$classLaserFromRosTopic.html" title="laserFromRosTopic: Documentation to be added" alt="" coords="521,233,668,260"/>
+<area shape="rect" id="node11" href="$classRpLidar2.html" title="rpLidar2: Documentation to be added" alt="" coords="555,284,634,311"/>
+</map>

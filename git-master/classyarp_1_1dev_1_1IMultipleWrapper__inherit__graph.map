@@ -1,0 +1,32 @@
+<map id="yarp::dev::IMultipleWrapper" name="yarp::dev::IMultipleWrapper">
+<area shape="rect" id="node1" title="Interface for an object that can wrap/attach to to another." alt="" coords="5,711,208,737"/>
+<area shape="rect" id="node2" href="$classAnalogWrapper.html" title="analogServer: Device that expose an AnalogSensor (using the IAnalogSensor interface) on the YARP or R..." alt="" coords="314,5,437,32"/>
+<area shape="rect" id="node3" href="$classAudioPlayerWrapper.html" title="AudioPlayerWrapper: A Wrapper which receives audio streams from a network port and sends it to device..." alt="" coords="298,56,453,83"/>
+<area shape="rect" id="node4" href="$classAudioRecorderWrapper.html" title="AudioRecorderWrapper: A Wrapper which streams audio over the network, after grabbing it from a device" alt="" coords="289,107,461,133"/>
+<area shape="rect" id="node5" href="$classBatteryWrapper.html" title="batteryWrapper: Device that expose a battery sensor (using the IBattery interface) on the YARP networ..." alt="" coords="313,157,438,184"/>
+<area shape="rect" id="node6" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="288,208,463,235"/>
+<area shape="rect" id="node8" href="$classControlBoardWrapper.html" title="controlboardwrapper2: An updated version of the controlBoard network wrapper." alt="" coords="294,259,457,285"/>
+<area shape="rect" id="node9" href="$classGenericSensorRosPublisher.html" title="This abstract template needs to be specialized in a ROS Publisher, for a specific ROS mesagge/sensor ..." alt="" coords="275,310,475,351"/>
+<area shape="rect" id="node10" href="$classGenericSensorRosPublisher.html" title=" " alt="" coords="275,376,475,432"/>
+<area shape="rect" id="node12" href="$classGenericSensorRosPublisher.html" title=" " alt="" coords="275,456,475,512"/>
+<area shape="rect" id="node14" href="$classGenericSensorRosPublisher.html" title=" " alt="" coords="275,536,475,592"/>
+<area shape="rect" id="node16" href="$classGenericSensorRosPublisher.html" title=" " alt="" coords="275,616,475,672"/>
+<area shape="rect" id="node18" href="$classGenericSensorRosPublisher.html" title=" " alt="" coords="275,696,475,752"/>
+<area shape="rect" id="node20" href="$classJoypadControlServer.html" title="JoypadControlServer: Documentation to be added" alt="" coords="298,776,453,803"/>
+<area shape="rect" id="node21" href="$classLocalization2DServer.html" title="localization2DServer: A localization server which can be wrap multiple algorithms and devices to prov..." alt="" coords="295,827,455,853"/>
+<area shape="rect" id="node22" href="$classMultipleAnalogSensorsRemapper.html" title="multipleanalogsensorsremapper : device that takes a list of sensor from multiple analog sensors devic..." alt="" coords="256,877,495,904"/>
+<area shape="rect" id="node23" href="$classMultipleAnalogSensorsServer.html" title="multipleanalogsensorsserver: The server side of the MultipleAnalogSensorsClient, useful to expose dev..." alt="" coords="269,928,482,955"/>
+<area shape="rect" id="node24" href="$classnavigation2DServer.html" title="navigation2DServer: Documentation to be added" alt="" coords="300,979,451,1005"/>
+<area shape="rect" id="node25" href="$classRangefinder2DWrapper.html" title="Rangefinder2DWrapper: Documentation to be added" alt="" coords="289,1029,462,1056"/>
+<area shape="rect" id="node26" href="$classRGBDSensorWrapper.html" title="RGBDSensorWrapper: A Network grabber for kinect&#45;like devices." alt="" coords="296,1080,455,1107"/>
+<area shape="rect" id="node27" href="$classRobotDescriptionServer.html" title="robotDescriptionServer: This device is a storage which contains a list of the currently opened device..." alt="" coords="287,1131,463,1157"/>
+<area shape="rect" id="node28" href="$classServerGrabber.html" title="grabberDual: A Network grabber for camera devices." alt="" coords="317,1181,433,1208"/>
+<area shape="rect" id="node29" href="$classServerInertial.html" title="inertial: Export an inertial sensor." alt="" coords="320,1232,431,1259"/>
+<area shape="rect" id="node30" href="$classVirtualAnalogWrapper.html" title="virtualAnalogServer: An analog wrapper for virtual device A virtual device is a software emulated dev..." alt="" coords="293,1283,458,1309"/>
+<area shape="rect" id="node7" href="$classRemoteControlBoardRemapper.html" title="remotecontrolboardremapper A device that takes a list of axes from multiple controlboards,..." alt="" coords="543,208,768,235"/>
+<area shape="rect" id="node11" href="$classPoseStampedRosPublisher.html" title="PoseStampedRosPublisher: This wrapper connects to a device and publishes a ROS topic of type geometry..." alt="" coords="558,391,753,417"/>
+<area shape="rect" id="node13" href="$classWrenchStampedRosPublisher.html" title="WrenchStampedRosPublisher: This wrapper connects to a device and publishes a ROS topic of type geomet..." alt="" coords="549,471,762,497"/>
+<area shape="rect" id="node15" href="$classIMURosPublisher.html" title="IMURosPublisher: This wrapper connects to a device and publishes a ROS topic of type sensor_msgs::Imu..." alt="" coords="589,551,721,577"/>
+<area shape="rect" id="node17" href="$classMagneticFieldRosPublisher.html" title="MagneticFieldRosPublisher: This wrapper connects to a device and publishes a ROS topic of type sensor..." alt="" coords="557,631,754,657"/>
+<area shape="rect" id="node19" href="$classTemperatureRosPublisher.html" title="TemperatureRosPublisher: This wrapper connects to a device and publishes a ROS topic of type sensor_m..." alt="" coords="561,711,749,737"/>
+</map>

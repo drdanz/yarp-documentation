@@ -1,0 +1,7 @@
+<map id="Navigation Devices" name="Navigation Devices">
+<area shape="rect" id="node1" title="Virtual devices to perform navigation tasks." alt="" coords="237,65,387,91"/>
+<area shape="rect" id="node2" href="$group__dev__impl__wrapper.html" title="These devices take implementations of existing interfaces and wrap them up to work across the network..." alt="" coords="569,5,776,31"/>
+<area shape="rect" id="node3" href="$group__dev__impl__fake.html" title="Devices using for testing purposes." alt="" coords="605,65,741,91"/>
+<area shape="rect" id="node5" href="$group__dev__impl__network__clients.html" title="These devices are meant to communicate to YARP ports opened by Network Servers (Wrappers) to provide ..." alt="" coords="609,140,736,165"/>
+<area shape="rect" id="node4" href="$group__dev__impl.html" title="Concrete device drivers that implement sets of interfaces." alt="" coords="5,65,188,91"/>
+</map>

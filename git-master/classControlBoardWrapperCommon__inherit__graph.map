@@ -1,0 +1,24 @@
+<map id="ControlBoardWrapperCommon" name="ControlBoardWrapperCommon">
+<area shape="rect" id="node1" title=" " alt="" coords="5,620,227,647"/>
+<area shape="rect" id="node2" href="$classControlBoardWrapper.html" title="controlboardwrapper2: An updated version of the controlBoard network wrapper." alt="" coords="591,620,753,647"/>
+<area shape="rect" id="node3" href="$classControlBoardWrapperAmplifierControl.html" title=" " alt="" coords="298,73,519,114"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapperAxisInfo.html" title=" " alt="" coords="301,139,516,166"/>
+<area shape="rect" id="node5" href="$classControlBoardWrapperControlCalibration.html" title=" " alt="" coords="304,190,513,232"/>
+<area shape="rect" id="node6" href="$classControlBoardWrapperControlLimits.html" title=" " alt="" coords="304,256,513,297"/>
+<area shape="rect" id="node7" href="$classControlBoardWrapperControlMode.html" title=" " alt="" coords="286,322,531,348"/>
+<area shape="rect" id="node8" href="$classControlBoardWrapperCurrentControl.html" title=" " alt="" coords="303,373,514,414"/>
+<area shape="rect" id="node9" href="$classControlBoardWrapperEncodersTimed.html" title=" " alt="" coords="298,438,519,480"/>
+<area shape="rect" id="node10" href="$classControlBoardWrapperImpedanceControl.html" title=" " alt="" coords="291,504,526,545"/>
+<area shape="rect" id="node11" href="$classControlBoardWrapperInteractionMode.html" title=" " alt="" coords="275,570,543,596"/>
+<area shape="rect" id="node12" href="$classControlBoardWrapperMotor.html" title=" " alt="" coords="309,620,509,647"/>
+<area shape="rect" id="node13" href="$classControlBoardWrapperMotorEncoders.html" title=" " alt="" coords="309,672,509,713"/>
+<area shape="rect" id="node14" href="$classControlBoardWrapperPidControl.html" title=" " alt="" coords="294,738,523,764"/>
+<area shape="rect" id="node15" href="$classControlBoardWrapperPositionControl.html" title=" " alt="" coords="301,789,516,830"/>
+<area shape="rect" id="node16" href="$classControlBoardWrapperPositionDirect.html" title=" " alt="" coords="301,854,516,896"/>
+<area shape="rect" id="node17" href="$classControlBoardWrapperPreciselyTimed.html" title=" " alt="" coords="298,920,519,961"/>
+<area shape="rect" id="node18" href="$classControlBoardWrapperPWMControl.html" title=" " alt="" coords="287,986,530,1012"/>
+<area shape="rect" id="node19" href="$classControlBoardWrapperRemoteCalibrator.html" title=" " alt="" coords="302,1037,515,1078"/>
+<area shape="rect" id="node20" href="$classControlBoardWrapperRemoteVariables.html" title=" " alt="" coords="302,1102,515,1144"/>
+<area shape="rect" id="node21" href="$classControlBoardWrapperTorqueControl.html" title=" " alt="" coords="306,1168,511,1209"/>
+<area shape="rect" id="node22" href="$classControlBoardWrapperVelocityControl.html" title=" " alt="" coords="301,1233,516,1274"/>
+</map>

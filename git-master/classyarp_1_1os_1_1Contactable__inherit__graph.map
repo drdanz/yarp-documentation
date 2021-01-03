@@ -1,0 +1,51 @@
+<map id="yarp::os::Contactable" name="yarp::os::Contactable">
+<area shape="rect" id="node1" title="An abstract port." alt="" coords="5,1099,165,1126"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="269,5,431,47"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="269,71,431,112"/>
+<area shape="rect" id="node5" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="269,136,431,177"/>
+<area shape="rect" id="node6" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="269,201,431,243"/>
+<area shape="rect" id="node7" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="253,267,447,308"/>
+<area shape="rect" id="node9" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="241,332,459,373"/>
+<area shape="rect" id="node11" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="248,397,452,439"/>
+<area shape="rect" id="node13" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="213,463,487,504"/>
+<area shape="rect" id="node14" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="242,528,458,569"/>
+<area shape="rect" id="node15" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="269,593,431,635"/>
+<area shape="rect" id="node18" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="255,659,445,700"/>
+<area shape="rect" id="node19" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="253,725,447,781"/>
+<area shape="rect" id="node20" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="253,805,447,861"/>
+<area shape="rect" id="node21" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="252,885,448,941"/>
+<area shape="rect" id="node22" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="252,965,448,1021"/>
+<area shape="rect" id="node23" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="252,1045,448,1101"/>
+<area shape="rect" id="node24" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="263,1125,437,1181"/>
+<area shape="rect" id="node25" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="263,1205,437,1261"/>
+<area shape="rect" id="node26" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="263,1285,437,1341"/>
+<area shape="rect" id="node27" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="263,1365,437,1421"/>
+<area shape="rect" id="node28" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="263,1445,437,1501"/>
+<area shape="rect" id="node29" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="261,1525,439,1581"/>
+<area shape="rect" id="node30" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="263,1605,437,1661"/>
+<area shape="rect" id="node31" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="255,1685,445,1741"/>
+<area shape="rect" id="node32" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="243,1765,457,1821"/>
+<area shape="rect" id="node33" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="257,1845,443,1887"/>
+<area shape="rect" id="node35" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="258,1911,442,1967"/>
+<area shape="rect" id="node37" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="269,1992,431,2033"/>
+<area shape="rect" id="node38" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="269,2057,431,2099"/>
+<area shape="rect" id="node40" href="$classyarp_1_1os_1_1BufferedPort.html" title=" " alt="" coords="264,2123,436,2164"/>
+<area shape="rect" id="node42" href="$classyarp_1_1os_1_1BufferedPort.html" title="A mini&#45;server for performing network communication in the background." alt="" coords="249,2189,451,2215"/>
+<area shape="rect" id="node44" href="$classyarp_1_1os_1_1UnbufferedContactable.html" title="An abstract unbuffered port." alt="" coords="234,2239,466,2266"/>
+<area shape="rect" id="node4" href="$classInputCallback.html" title=" " alt="" coords="599,78,710,105"/>
+<area shape="rect" id="node8" href="$classSensorStreamingDataInputPort.html" title=" " alt="" coords="543,274,766,301"/>
+<area shape="rect" id="node10" href="$classStateExtendedInputPort.html" title=" " alt="" coords="567,339,743,366"/>
+<area shape="rect" id="node12" href="$classRangefinder2DInputPortProcessor.html" title=" " alt="" coords="535,405,775,431"/>
+<area shape="rect" id="node16" href="$classBatteryInputPortProcessor.html" title=" " alt="" coords="559,575,751,602"/>
+<area shape="rect" id="node17" href="$classTransforms__client__storage.html" title=" " alt="" coords="558,626,751,653"/>
+<area shape="rect" id="node34" href="$classRgbImageBufferedPort.html" title=" " alt="" coords="570,1853,739,1879"/>
+<area shape="rect" id="node36" href="$classFloatImageBufferedPort.html" title=" " alt="" coords="566,1926,743,1953"/>
+<area shape="rect" id="node39" href="$classInputPortProcessor.html" title=" " alt="" coords="583,2065,727,2091"/>
+<area shape="rect" id="node41" href="$structJoypadControl_1_1JoyPort.html" title=" " alt="" coords="569,2123,741,2164"/>
+<area shape="rect" id="node43" href="$structJoypadControl_1_1JoyPort.html" title=" " alt="" coords="552,2189,757,2215"/>
+<area shape="rect" id="node45" href="$classyarp_1_1os_1_1AbstractContactable.html" title="A default implementation of an abstract port." alt="" coords="547,2239,762,2266"/>
+<area shape="rect" id="node49" href="$classyarp_1_1os_1_1Port.html" title="A mini&#45;server for network communication." alt="" coords="601,2290,709,2317"/>
+<area shape="rect" id="node46" href="$classyarp_1_1os_1_1Publisher.html" title=" " alt="" coords="849,2159,991,2200"/>
+<area shape="rect" id="node47" href="$classyarp_1_1os_1_1Publisher.html" title=" " alt="" coords="823,2225,1017,2281"/>
+<area shape="rect" id="node48" href="$classyarp_1_1os_1_1Publisher.html" title=" " alt="" coords="823,2305,1017,2361"/>
+</map>

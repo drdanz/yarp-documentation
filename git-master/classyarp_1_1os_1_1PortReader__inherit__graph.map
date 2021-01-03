@@ -1,0 +1,51 @@
+<map id="yarp::os::PortReader" name="yarp::os::PortReader">
+<area shape="rect" id="node1" title="Interface implemented by all objects that can read themselves from the network, such as Bottle object..." alt="" coords="5,655,160,681"/>
+<area shape="rect" id="node2" href="$classAnalogServerHandler.html" title="Handler of the rpc port related to an analog sensor." alt="" coords="257,5,417,32"/>
+<area shape="rect" id="node3" href="$classAudioPlayerWrapper.html" title="AudioPlayerWrapper: A Wrapper which receives audio streams from a network port and sends it to device..." alt="" coords="260,56,415,83"/>
+<area shape="rect" id="node4" href="$classAudioRecorderWrapper.html" title="AudioRecorderWrapper: A Wrapper which streams audio over the network, after grabbing it from a device" alt="" coords="251,107,423,133"/>
+<area shape="rect" id="node5" href="$classBatteryWrapper.html" title="batteryWrapper: Device that expose a battery sensor (using the IBattery interface) on the YARP networ..." alt="" coords="275,157,400,184"/>
+<area shape="rect" id="node6" href="$classFakeLaser.html" title="fakeLaser : fake sensor device driver for testing purposes and reference for IRangefinder2D devices." alt="" coords="294,208,381,235"/>
+<area shape="rect" id="node7" href="$classFrameTransformClient.html" title="transformClient: Documentation to be added" alt="" coords="254,259,421,285"/>
+<area shape="rect" id="node8" href="$classFrameTransformServer.html" title="transformServer: Documentation to be added" alt="" coords="252,309,423,336"/>
+<area shape="rect" id="node9" href="$classLocalization2DServer.html" title="localization2DServer: A localization server which can be wrap multiple algorithms and devices to prov..." alt="" coords="257,360,417,387"/>
+<area shape="rect" id="node10" href="$classMap2DServer.html" title="map2DServer: A device capable of read/save collections of maps from disk, and make them accessible to..." alt="" coords="282,411,393,437"/>
+<area shape="rect" id="node11" href="$classNavigation2DClient.html" title="navigation2DClient: A device which allows a client application to perform navigation tasks,..." alt="" coords="263,461,412,488"/>
+<area shape="rect" id="node12" href="$classnavigation2DServer.html" title="navigation2DServer: Documentation to be added" alt="" coords="262,512,413,539"/>
+<area shape="rect" id="node13" href="$classNetworkClock_1_1Private.html" title=" " alt="" coords="251,563,424,605"/>
+<area shape="rect" id="node14" href="$classPingSampler.html" title=" " alt="" coords="285,629,389,656"/>
+<area shape="rect" id="node15" href="$classRangefinder2DWrapper.html" title="Rangefinder2DWrapper: Documentation to be added" alt="" coords="251,680,424,707"/>
+<area shape="rect" id="node16" href="$classRFModuleRespondHandler.html" title=" " alt="" coords="240,731,435,757"/>
+<area shape="rect" id="node17" href="$classRobotDescriptionServer.html" title="robotDescriptionServer: This device is a storage which contains a list of the currently opened device..." alt="" coords="249,781,425,808"/>
+<area shape="rect" id="node18" href="$classRosSlave.html" title=" " alt="" coords="296,832,379,859"/>
+<area shape="rect" id="node19" href="$classServerInertial.html" title="inertial: Export an inertial sensor." alt="" coords="282,883,393,909"/>
+<area shape="rect" id="node20" href="$classServerSoundGrabber.html" title="ServerSoundGrabber: Export a microphone device streaming sound samples" alt="" coords="259,933,415,960"/>
+<area shape="rect" id="node21" href="$classyarp_1_1dev_1_1DeviceResponder.html" title="A cheap and cheerful framework for human readable/writable forms of messages to devices." alt="" coords="235,984,439,1011"/>
+<area shape="rect" id="node32" href="$classyarp_1_1name_1_1NameServerConnectionHandler.html" title="Manage a single connection to the name server." alt="" coords="208,1035,467,1077"/>
+<area shape="rect" id="node33" href="$classyarp_1_1os_1_1impl_1_1PortCore.html" title=" " alt="" coords="250,1101,425,1128"/>
+<area shape="rect" id="node35" href="$classyarp_1_1os_1_1Node_1_1Helper.html" title=" " alt="" coords="254,1152,421,1179"/>
+<area shape="rect" id="node36" href="$classyarp_1_1os_1_1Portable.html" title="This is a base class for objects that can be both read from and be written to the YARP network." alt="" coords="269,1508,405,1535"/>
+<area shape="rect" id="node48" href="$classyarp_1_1os_1_1PortReaderBufferBase.html" title=" " alt="" coords="225,1559,450,1585"/>
+<area shape="rect" id="node49" href="$classyarp_1_1os_1_1Wire.html" title="Base class for IDL client/server." alt="" coords="281,1609,393,1636"/>
+<area shape="rect" id="node22" href="$classDC1394Parser.html" title=" " alt="" coords="577,651,690,677"/>
+<area shape="rect" id="node23" href="$classFakeBot.html" title="fakebot: Documentation to be added" alt="" coords="597,701,670,728"/>
+<area shape="rect" id="node24" href="$classJoypadCtrlParser.html" title=" " alt="" coords="569,752,698,779"/>
+<area shape="rect" id="node25" href="$classRGBDImpl_1_1RGBDSensorParser.html" title=" " alt="" coords="524,803,743,829"/>
+<area shape="rect" id="node26" href="$classRPCMessagesParser.html" title="Helper object for parsing RPC port messages." alt="" coords="557,853,710,880"/>
+<area shape="rect" id="node27" href="$classServerFrameGrabber.html" title="grabber: Export a frame grabber to the network." alt="" coords="555,904,712,931"/>
+<area shape="rect" id="node28" href="$classServerGrabberResponder.html" title=" " alt="" coords="541,955,726,981"/>
+<area shape="rect" id="node29" href="$classyarp_1_1dev_1_1FrameGrabberControls__Parser.html" title=" " alt="" coords="515,1006,752,1047"/>
+<area shape="rect" id="node30" href="$classyarp_1_1dev_1_1Implement__DepthVisualParams__Parser.html" title=" " alt="" coords="532,1071,735,1113"/>
+<area shape="rect" id="node31" href="$classyarp_1_1dev_1_1Implement__RgbVisualParams__Parser.html" title=" " alt="" coords="539,1137,728,1178"/>
+<area shape="rect" id="node34" href="$classyarp_1_1os_1_1impl_1_1PortCoreAdapter.html" title=" " alt="" coords="546,1202,721,1243"/>
+<area shape="rect" id="node37" href="$classFakeBatteryService__getBatteryCharge__helper.html" title=" " alt="" coords="537,1267,729,1309"/>
+<area shape="rect" id="node38" href="$classFakeBatteryService__getBatteryCurrent__helper.html" title=" " alt="" coords="536,1333,731,1374"/>
+<area shape="rect" id="node39" href="$classFakeBatteryService__getBatteryInfo__helper.html" title=" " alt="" coords="548,1398,719,1439"/>
+<area shape="rect" id="node40" href="$classFakeBatteryService__getBatteryStatus__helper.html" title=" " alt="" coords="540,1463,727,1505"/>
+<area shape="rect" id="node41" href="$classFakeBatteryService__getBatteryTemperature__helper.html" title=" " alt="" coords="543,1529,723,1585"/>
+<area shape="rect" id="node42" href="$classFakeBatteryService__getBatteryVoltage__helper.html" title=" " alt="" coords="536,1610,731,1651"/>
+<area shape="rect" id="node43" href="$classFakeBatteryService__setBatteryCharge__helper.html" title=" " alt="" coords="538,1675,729,1717"/>
+<area shape="rect" id="node44" href="$classFakeBatteryService__setBatteryCurrent__helper.html" title=" " alt="" coords="537,1741,730,1782"/>
+<area shape="rect" id="node45" href="$classFakeBatteryService__setBatteryInfo__helper.html" title=" " alt="" coords="548,1806,719,1847"/>
+<area shape="rect" id="node46" href="$classFakeBatteryService__setBatteryTemperature__helper.html" title=" " alt="" coords="544,1872,723,1928"/>
+<area shape="rect" id="node47" href="$classFakeBatteryService__setBatteryVoltage__helper.html" title=" " alt="" coords="536,1953,731,1994"/>
+</map>

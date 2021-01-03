@@ -1,0 +1,10 @@
+<map id="yarp::dev::IMotor" name="yarp::dev::IMotor">
+<area shape="rect" id="node1" title="Control board, encoder interface." alt="" coords="5,81,137,108"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="198,5,373,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapperMotor.html" title=" " alt="" coords="185,56,385,83"/>
+<area shape="rect" id="node6" href="$classRemoteControlBoard.html" title="remote_controlboard: The client side of the control board, connects to a remote controlboard using th..." alt="" coords="206,107,365,133"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1ImplementMotor.html" title=" " alt="" coords="186,157,385,184"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title="remotecontrolboardremapper A device that takes a list of axes from multiple controlboards,..." alt="" coords="433,5,659,32"/>
+<area shape="rect" id="node5" href="$classControlBoardWrapper.html" title="controlboardwrapper2: An updated version of the controlBoard network wrapper." alt="" coords="465,56,627,83"/>
+<area shape="rect" id="node8" href="$classFakeMotionControl.html" title="fakeMotionControl: Documentation to be added" alt="" coords="475,157,617,184"/>
+</map>
