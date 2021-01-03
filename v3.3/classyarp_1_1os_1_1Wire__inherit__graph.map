@@ -1,0 +1,13 @@
+<map id="yarp::os::Wire" name="yarp::os::Wire">
+<area shape="rect" id="node1" title="Base class for IDL client/server." alt="" coords="196,213,300,240"/>
+<area shape="rect" id="node3" href="$classMultipleAnalogSensorsMetadata.html" title=" " alt="" coords="348,5,557,32"/>
+<area shape="rect" id="node5" href="$classSensorMeasurement_1_1Editor.html" title=" " alt="" coords="377,57,528,98"/>
+<area shape="rect" id="node6" href="$classSensorMeasurements_1_1Editor.html" title=" " alt="" coords="378,122,527,163"/>
+<area shape="rect" id="node7" href="$classSensorMetadata_1_1Editor.html" title=" " alt="" coords="373,188,532,215"/>
+<area shape="rect" id="node8" href="$classSensorRPCData_1_1Editor.html" title=" " alt="" coords="371,239,534,265"/>
+<area shape="rect" id="node9" href="$classSensorStreamingData_1_1Editor.html" title=" " alt="" coords="377,290,528,331"/>
+<area shape="rect" id="node10" href="$classyarp_1_1dev_1_1audioBufferSizeData_1_1Editor.html" title=" " alt="" coords="365,355,541,397"/>
+<area shape="rect" id="node11" href="$classyarp_1_1dev_1_1impl_1_1jointData_1_1Editor.html" title=" " alt="" coords="369,421,537,462"/>
+<area shape="rect" id="node2" href="$classyarp_1_1os_1_1PortReader.html" title="Interface implemented by all objects that can read themselves from the network, such as Bottle object..." alt="" coords="5,213,148,240"/>
+<area shape="rect" id="node4" href="$classMultipleAnalogSensorsServer.html" title="The server side of the MultipleAnalogSensorsClient, useful to expose device implementing MultipleAnal..." alt="" coords="605,5,799,32"/>
+</map>

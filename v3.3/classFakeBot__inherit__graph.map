@@ -1,0 +1,17 @@
+<map id="FakeBot" name="FakeBot">
+<area shape="rect" id="node1" title=" " alt="" coords="500,237,571,264"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="276,5,436,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="49,5,168,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1IPositionControl.html" title=" " alt="" coords="267,56,445,83"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IVelocityControl.html" title=" " alt="" coords="267,107,445,133"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IAmplifierControl.html" title=" " alt="" coords="265,157,447,184"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1IEncodersTimed.html" title="Control board, extend encoder interface with timestamps." alt="" coords="267,208,445,235"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1IEncoders.html" title=" " alt="" coords="37,208,180,235"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1IFrameGrabberImage.html" title=" " alt="" coords="271,259,441,301"/>
+<area shape="rect" id="node10" href="$classyarp_1_1dev_1_1IControlCalibration.html" title=" " alt="" coords="260,325,452,352"/>
+<area shape="rect" id="node11" href="$classyarp_1_1dev_1_1IControlLimits.html" title=" " alt="" coords="273,376,439,403"/>
+<area shape="rect" id="node12" href="$classyarp_1_1dev_1_1DeviceResponder.html" title=" " alt="" coords="262,427,450,453"/>
+<area shape="rect" id="node13" href="$classyarp_1_1os_1_1PortReader.html" title="Interface implemented by all objects that can read themselves from the network, such as Bottle object..." alt="" coords="37,397,180,424"/>
+<area shape="rect" id="node14" href="$classyarp_1_1os_1_1TypedReaderCallback.html" title=" " alt="" coords="5,449,212,490"/>
+<area shape="rect" id="node15" href="$classyarp_1_1os_1_1Thread.html" title=" " alt="" coords="297,477,415,504"/>
+</map>

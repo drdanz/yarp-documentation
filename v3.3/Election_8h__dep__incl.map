@@ -1,0 +1,12 @@
+<map id="src/libYARP_os/src/yarp/os/Election.h" name="src/libYARP_os/src/yarp/os/Election.h">
+<area shape="rect" id="node1" title=" " alt="" coords="498,5,635,47"/>
+<area shape="rect" id="node2" href="$McastCarrier_8h.html" title=" " alt="" coords="181,95,368,136"/>
+<area shape="rect" id="node5" href="$MpiBcastCarrier_8h.html" title=" " alt="" coords="400,95,555,136"/>
+<area shape="rect" id="node7" href="$PortMonitor_8h.html" title=" " alt="" coords="581,95,737,136"/>
+<area shape="rect" id="node9" href="$PriorityCarrier_8h.html" title=" " alt="" coords="767,95,927,136"/>
+<area shape="rect" id="node3" href="$Carriers_8cpp.html" title=" " alt="" coords="5,184,149,225"/>
+<area shape="rect" id="node4" href="$McastCarrier_8cpp.html" title=" " alt="" coords="174,184,375,225"/>
+<area shape="rect" id="node6" href="$MpiBcastCarrier_8cpp.html" title=" " alt="" coords="400,184,555,225"/>
+<area shape="rect" id="node8" href="$PortMonitor_8cpp.html" title=" " alt="" coords="579,184,741,225"/>
+<area shape="rect" id="node10" href="$PriorityCarrier_8cpp.html" title=" " alt="" coords="765,184,939,225"/>
+</map>

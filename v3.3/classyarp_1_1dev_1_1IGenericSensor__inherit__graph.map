@@ -1,0 +1,6 @@
+<map id="yarp::dev::IGenericSensor" name="yarp::dev::IGenericSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="63,5,237,32"/>
+<area shape="rect" id="node2" href="$classBoschIMU.html" title=" " alt="" coords="5,80,89,107"/>
+<area shape="rect" id="node3" href="$classfakeIMU.html" title="fakeIMU : fake device implementing the device interface typically implemented by an Inertial Measurem..." alt="" coords="114,80,186,107"/>
+<area shape="rect" id="node4" href="$classServerInertial.html" title=" " alt="" coords="210,80,309,107"/>
+</map>

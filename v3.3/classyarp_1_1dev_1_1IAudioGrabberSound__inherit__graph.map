@@ -1,0 +1,7 @@
+<map id="yarp::dev::IAudioGrabberSound" name="yarp::dev::IAudioGrabberSound">
+<area shape="rect" id="node1" title=" " alt="" coords="195,5,362,47"/>
+<area shape="rect" id="node2" href="$classfakeMicrophone.html" title="fakeMicrophone : fake device implementing the IAudioGrabberSound device interface to play sound" alt="" coords="5,95,120,121"/>
+<area shape="rect" id="node3" href="$classFfmpegGrabber.html" title=" " alt="" coords="144,95,256,121"/>
+<area shape="rect" id="node4" href="$classPortAudioDeviceDriver.html" title=" " alt="" coords="280,95,435,121"/>
+<area shape="rect" id="node5" href="$classPortAudioRecorderDeviceDriver.html" title=" " alt="" coords="459,95,667,121"/>
+</map>

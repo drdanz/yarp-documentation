@@ -1,0 +1,12 @@
+<map id="USBCameraDriver" name="USBCameraDriver">
+<area shape="rect" id="node1" title="Yarp device driver implementation for acquiring images from USB cameras." alt="" coords="415,132,545,159"/>
+<area shape="rect" id="node9" href="$classUSBCameraDriverRaw.html" title=" " alt="" coords="593,107,752,133"/>
+<area shape="rect" id="node10" href="$classUSBCameraDriverRgb.html" title=" " alt="" coords="595,157,750,184"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="189,5,349,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1IPreciselyTimed.html" title=" " alt="" coords="180,56,359,83"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IFrameGrabber.html" title=" " alt="" coords="184,107,355,133"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IFrameGrabberRgb.html" title=" " alt="" coords="172,157,367,184"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1IFrameGrabberControls.html" title=" " alt="" coords="184,209,355,250"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1IRgbVisualParams.html" title=" " alt="" coords="173,275,366,301"/>
+</map>

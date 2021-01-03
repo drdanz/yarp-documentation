@@ -1,0 +1,9 @@
+<map id="Command&#45;line Accessible Devices" name="Command&#45;line Accessible Devices">
+<area shape="rect" id="node1" href="$group__cmd__device__portaudio.html" title="A portable audio source, see yarp::dev::PortAudioDeviceDriver. Requires the PortAudio library (http:/..." alt="" coords="367,5,441,31"/>
+<area shape="rect" id="node2" href="$group__cmd__device__ffmpeg__grabber.html" title="A wrapper for the ffmpeg library&#39;s image sources, see FfmpegGrabber." alt="" coords="348,55,460,80"/>
+<area shape="rect" id="node3" href="$group__dev__all.html" title="Dealing with devices. What do you need to know to use devices in YARP? First, we try to write our dev..." alt="" coords="5,104,76,129"/>
+<area shape="rect" id="node7" title="Devices that can be created and configured from the command&#45;line. Generally you can create them with ..." alt="" coords="124,97,299,137"/>
+<area shape="rect" id="node4" href="$group__cmd__device__ffmpeg__writer.html" title="A wrapper for the ffmpeg library&#39;s media writing, see FfmpegWriter." alt="" coords="353,104,455,129"/>
+<area shape="rect" id="node5" href="$group__cmd__device__test__grabber.html" title="A fake framegrabber, see yarp::dev::TestFrameGrabber." alt="" coords="357,153,451,179"/>
+<area shape="rect" id="node6" href="$group__cmd__device__opencv__grabber.html" title="A wrapper for the opencv library&#39;s image sources, see yarp::dev::OpenCVGrabber." alt="" coords="347,203,461,228"/>
+</map>

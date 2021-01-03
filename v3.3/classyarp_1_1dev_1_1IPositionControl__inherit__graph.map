@@ -1,0 +1,13 @@
+<map id="yarp::dev::IPositionControl" name="yarp::dev::IPositionControl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,183,209"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="247,5,406,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapper.html" title=" " alt="" coords="253,56,400,83"/>
+<area shape="rect" id="node5" href="$classDynamixelAX12FtdiDriver.html" title=" " alt="" coords="240,107,413,133"/>
+<area shape="rect" id="node6" href="$classFakeBot.html" title=" " alt="" coords="291,157,362,184"/>
+<area shape="rect" id="node7" href="$classRemoteControlBoard.html" title=" " alt="" coords="255,208,399,235"/>
+<area shape="rect" id="node8" href="$classSerialServoBoard.html" title=" " alt="" coords="265,259,388,285"/>
+<area shape="rect" id="node9" href="$classTestMotor.html" title=" " alt="" coords="286,309,367,336"/>
+<area shape="rect" id="node10" href="$classyarp_1_1dev_1_1ImplementPositionControl.html" title="Default implementation of the IPositionControl interface." alt="" coords="231,361,423,402"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title=" " alt="" coords="471,5,675,32"/>
+<area shape="rect" id="node11" href="$classFakeMotionControl.html" title=" " alt="" coords="507,368,639,395"/>
+</map>

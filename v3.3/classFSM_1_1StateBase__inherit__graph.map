@@ -1,0 +1,9 @@
+<map id="FSM::StateBase" name="FSM::StateBase">
+<area shape="rect" id="node1" title="Class StateBase." alt="" coords="5,132,124,159"/>
+<area shape="rect" id="node2" href="$classyarp_1_1manager_1_1Connecting.html" title="class Connecting" alt="" coords="172,5,351,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1manager_1_1Dead.html" title="class Dead" alt="" coords="189,56,333,83"/>
+<area shape="rect" id="node4" href="$classyarp_1_1manager_1_1Dying.html" title="class Dying" alt="" coords="188,107,335,133"/>
+<area shape="rect" id="node5" href="$classyarp_1_1manager_1_1Ready.html" title="class Ready" alt="" coords="186,157,337,184"/>
+<area shape="rect" id="node6" href="$classyarp_1_1manager_1_1Running.html" title="class Running" alt="" coords="181,208,342,235"/>
+<area shape="rect" id="node7" href="$classyarp_1_1manager_1_1Suspended.html" title="class Suspended" alt="" coords="172,259,351,285"/>
+</map>

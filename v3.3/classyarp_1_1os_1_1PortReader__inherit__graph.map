@@ -1,0 +1,51 @@
+<map id="yarp::os::PortReader" name="yarp::os::PortReader">
+<area shape="rect" id="node1" title="Interface implemented by all objects that can read themselves from the network, such as Bottle object..." alt="" coords="5,629,148,656"/>
+<area shape="rect" id="node2" href="$classAnalogServerHandler.html" title="Handler of the rpc port related to an analog sensor." alt="" coords="241,5,386,32"/>
+<area shape="rect" id="node3" href="$classAudioPlayerWrapper.html" title=" " alt="" coords="243,56,384,83"/>
+<area shape="rect" id="node4" href="$classAudioRecorderWrapper.html" title=" " alt="" coords="235,107,392,133"/>
+<area shape="rect" id="node5" href="$classBatteryWrapper.html" title=" " alt="" coords="257,157,370,184"/>
+<area shape="rect" id="node6" href="$classFrameTransformClient.html" title=" " alt="" coords="237,208,389,235"/>
+<area shape="rect" id="node7" href="$classFrameTransformServer.html" title=" " alt="" coords="235,259,391,285"/>
+<area shape="rect" id="node8" href="$classLocalization2DServer.html" title=" " alt="" coords="240,309,387,336"/>
+<area shape="rect" id="node9" href="$classMap2DServer.html" title=" " alt="" coords="262,360,365,387"/>
+<area shape="rect" id="node10" href="$classNavigation2DClient.html" title=" " alt="" coords="246,411,381,437"/>
+<area shape="rect" id="node11" href="$classnavigation2DServer.html" title=" " alt="" coords="245,461,381,488"/>
+<area shape="rect" id="node12" href="$classNetworkClock_1_1Private.html" title=" " alt="" coords="233,513,393,554"/>
+<area shape="rect" id="node13" href="$classPingSampler.html" title=" " alt="" coords="265,579,361,605"/>
+<area shape="rect" id="node14" href="$classRangefinder2DWrapper.html" title=" " alt="" coords="234,629,393,656"/>
+<area shape="rect" id="node15" href="$classRFModuleRespondHandler.html" title=" " alt="" coords="224,680,403,707"/>
+<area shape="rect" id="node16" href="$classRobotDescriptionServer.html" title=" " alt="" coords="233,731,394,757"/>
+<area shape="rect" id="node17" href="$classRosSlave.html" title=" " alt="" coords="274,781,353,808"/>
+<area shape="rect" id="node18" href="$classServerInertial.html" title=" " alt="" coords="264,832,363,859"/>
+<area shape="rect" id="node19" href="$classServerSoundGrabber.html" title=" " alt="" coords="242,883,385,909"/>
+<area shape="rect" id="node20" href="$classyarp_1_1dev_1_1DeviceResponder.html" title=" " alt="" coords="219,933,407,960"/>
+<area shape="rect" id="node31" href="$classyarp_1_1name_1_1NameServerConnectionHandler.html" title="Manage a single connection to the name server." alt="" coords="196,985,431,1026"/>
+<area shape="rect" id="node32" href="$classyarp_1_1os_1_1impl_1_1PortCore.html" title=" " alt="" coords="233,1051,394,1077"/>
+<area shape="rect" id="node34" href="$classyarp_1_1os_1_1Node_1_1Helper.html" title=" " alt="" coords="236,1101,391,1128"/>
+<area shape="rect" id="node35" href="$classyarp_1_1os_1_1Portable.html" title=" " alt="" coords="251,1451,376,1477"/>
+<area shape="rect" id="node48" href="$classyarp_1_1os_1_1PortReaderBufferBase.html" title=" " alt="" coords="209,1501,417,1528"/>
+<area shape="rect" id="node49" href="$classyarp_1_1os_1_1Wire.html" title="Base class for IDL client/server." alt="" coords="261,1552,365,1579"/>
+<area shape="rect" id="node21" href="$classDC1394Parser.html" title=" " alt="" coords="533,600,641,627"/>
+<area shape="rect" id="node22" href="$classFakeBot.html" title=" " alt="" coords="551,651,622,677"/>
+<area shape="rect" id="node23" href="$classJoypadCtrlParser.html" title=" " alt="" coords="525,701,648,728"/>
+<area shape="rect" id="node24" href="$classRGBDImpl_1_1RGBDSensorParser.html" title=" " alt="" coords="481,752,693,779"/>
+<area shape="rect" id="node25" href="$classRPCMessagesParser.html" title="Helper object for parsing RPC port messages." alt="" coords="512,803,661,829"/>
+<area shape="rect" id="node26" href="$classServerFrameGrabber.html" title=" " alt="" coords="515,853,658,880"/>
+<area shape="rect" id="node27" href="$classServerGrabberResponder.html" title=" " alt="" coords="502,904,671,931"/>
+<area shape="rect" id="node28" href="$classyarp_1_1dev_1_1FrameGrabberControls__Parser.html" title=" " alt="" coords="479,955,695,997"/>
+<area shape="rect" id="node29" href="$classyarp_1_1dev_1_1Implement__DepthVisualParams__Parser.html" title=" " alt="" coords="491,1021,682,1062"/>
+<area shape="rect" id="node30" href="$classyarp_1_1dev_1_1Implement__RgbVisualParams__Parser.html" title=" " alt="" coords="497,1086,676,1127"/>
+<area shape="rect" id="node33" href="$classyarp_1_1os_1_1impl_1_1PortCoreAdapter.html" title=" " alt="" coords="506,1151,667,1193"/>
+<area shape="rect" id="node36" href="$structJoyData.html" title=" " alt="" coords="551,1217,622,1244"/>
+<area shape="rect" id="node37" href="$classMultipleAnalogSensorsMetadata__getMetadata__helper.html" title=" " alt="" coords="482,1269,691,1310"/>
+<area shape="rect" id="node38" href="$classyarp_1_1math_1_1Vec2D.html" title=" " alt="" coords="517,1334,657,1375"/>
+<area shape="rect" id="node39" href="$classyarp_1_1dev_1_1Map2DArea.html" title=" " alt="" coords="510,1400,663,1427"/>
+<area shape="rect" id="node40" href="$classyarp_1_1dev_1_1MapGrid2D.html" title=" " alt="" coords="511,1451,662,1477"/>
+<area shape="rect" id="node41" href="$classyarp_1_1math_1_1Quaternion.html" title=" " alt="" coords="509,1501,664,1528"/>
+<area shape="rect" id="node42" href="$classyarp_1_1math_1_1Vec2D.html" title=" " alt="" coords="505,1552,669,1579"/>
+<area shape="rect" id="node43" href="$classyarp_1_1os_1_1BinPortable.html" title="Class for writing and reading simple binary structures. Can be used in conjunction with the Port clas..." alt="" coords="499,1603,675,1629"/>
+<area shape="rect" id="node44" href="$classyarp_1_1os_1_1Bottle.html" title="A simple collection of objects that can be described and transmitted in a portable way." alt="" coords="531,1653,642,1680"/>
+<area shape="rect" id="node45" href="$classyarp_1_1os_1_1idl_1_1Unwrapped.html" title=" " alt="" coords="489,1704,685,1731"/>
+<area shape="rect" id="node46" href="$classyarp_1_1os_1_1idl_1_1UnwrappedView.html" title=" " alt="" coords="505,1755,669,1797"/>
+<area shape="rect" id="node47" href="$classyarp_1_1os_1_1idl_1_1WirePortable.html" title="A &quot;tamed&quot; Portable, that promises to serialize itself in an IDL&#45;friendly way." alt="" coords="500,1821,673,1848"/>
+</map>

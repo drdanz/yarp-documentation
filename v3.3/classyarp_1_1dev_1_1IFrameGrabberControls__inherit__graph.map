@@ -1,0 +1,13 @@
+<map id="yarp::dev::IFrameGrabberControls" name="yarp::dev::IFrameGrabberControls">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,176,166"/>
+<area shape="rect" id="node2" href="$classdepthCameraDriver.html" title="depthCamera : YARP driver for OpenNI2 compatible devices." alt="" coords="265,5,399,32"/>
+<area shape="rect" id="node3" href="$classrealsense2Driver.html" title="realsense2 : driver for realsense2 compatible devices." alt="" coords="272,56,392,83"/>
+<area shape="rect" id="node4" href="$classTestFrameGrabber.html" title=" " alt="" coords="267,107,397,133"/>
+<area shape="rect" id="node5" href="$classUSBCameraDriver.html" title="Yarp device driver implementation for acquiring images from USB cameras." alt="" coords="267,157,397,184"/>
+<area shape="rect" id="node8" href="$classV4L__camera.html" title=" " alt="" coords="285,208,379,235"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1FrameGrabberControls__Sender.html" title="This classes implement a sender / parser for IFrameGrabberControls interface messages." alt="" coords="224,259,440,301"/>
+<area shape="rect" id="node6" href="$classUSBCameraDriverRaw.html" title=" " alt="" coords="488,121,647,148"/>
+<area shape="rect" id="node7" href="$classUSBCameraDriverRgb.html" title=" " alt="" coords="490,172,645,199"/>
+<area shape="rect" id="node10" href="$classRemoteFrameGrabber.html" title=" " alt="" coords="492,237,643,264"/>
+<area shape="rect" id="node11" href="$classRGBDSensorClient.html" title=" " alt="" coords="499,288,635,315"/>
+</map>

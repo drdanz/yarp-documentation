@@ -1,0 +1,7 @@
+<map id="yarp::dev::IWrapper" name="yarp::dev::IWrapper">
+<area shape="rect" id="node1" title=" " alt="" coords="257,5,394,32"/>
+<area shape="rect" id="node2" href="$classJoypadControlServer.html" title=" " alt="" coords="5,80,149,107"/>
+<area shape="rect" id="node3" href="$classRGBDSensorWrapper.html" title=" " alt="" coords="174,80,325,107"/>
+<area shape="rect" id="node4" href="$classServerGrabber.html" title=" " alt="" coords="349,80,456,107"/>
+<area shape="rect" id="node5" href="$classServerInertial.html" title=" " alt="" coords="480,80,579,107"/>
+</map>

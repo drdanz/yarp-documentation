@@ -1,0 +1,52 @@
+<map id="src/libYARP_logger/src/yarp/logger/YarpLogger.h" name="src/libYARP_logger/src/yarp/logger/YarpLogger.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1858,5,2051,47"/>
+<area shape="rect" id="node2" href="$Network_8h.html" title=" " alt="" coords="1890,177,2019,203"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2178,661,2233,688"/>
+<area shape="rect" id="node12" href="$Bottle_8h.html" title=" " alt="" coords="2495,348,2609,375"/>
+<area shape="rect" id="node22" href="$libYARP__os_2src_2yarp_2os_2Time_8h.html" title=" " alt="" coords="1631,423,1740,449"/>
+<area shape="rect" id="node26" href="$Port_8h.html" title=" " alt="" coords="968,266,1072,293"/>
+<area shape="rect" id="node33" title=" " alt="" coords="396,587,455,613"/>
+<area shape="rect" id="node34" href="$BufferedPort_8h.html" title=" " alt="" coords="975,95,1129,121"/>
+<area shape="rect" id="node39" href="$Thread_8h.html" title=" " alt="" coords="77,348,197,375"/>
+<area shape="rect" id="node45" href="$Vocab_8h.html" title=" " alt="" coords="2236,348,2353,375"/>
+<area shape="rect" id="node47" href="$PeriodicThread_8h.html" title=" " alt="" coords="1309,348,1475,375"/>
+<area shape="rect" id="node48" title=" " alt="" coords="2833,95,2871,121"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2896,95,2955,121"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2979,95,3034,121"/>
+<area shape="rect" id="node3" href="$Contact_8h.html" title=" " alt="" coords="2119,505,2246,531"/>
+<area shape="rect" id="node10" href="$ContactStyle_8h.html" title=" " alt="" coords="1634,587,1790,613"/>
+<area shape="rect" id="node11" href="$NameStore_8h.html" title=" " alt="" coords="2068,266,2215,293"/>
+<area shape="rect" id="node13" href="$Portable_8h.html" title=" " alt="" coords="996,505,1124,531"/>
+<area shape="rect" id="node16" href="$Property_8h.html" title=" " alt="" coords="2487,423,2617,449"/>
+<area shape="rect" id="node19" href="$Value_8h.html" title=" " alt="" coords="2743,423,2857,449"/>
+<area shape="rect" id="node21" href="$QosStyle_8h.html" title=" " alt="" coords="1423,587,1558,613"/>
+<area shape="rect" id="node4" href="$compiler_8h.html" title=" " alt="" coords="2461,811,2601,837"/>
+<area shape="rect" id="node5" href="$system_8h.html" title=" " alt="" coords="2257,811,2391,837"/>
+<area shape="rect" id="node6" href="$NestedContact_8h.html" title=" " alt="" coords="2068,587,2236,613"/>
+<area shape="rect" id="node7" href="$yarp_2src_2libYARP__os_2src_2yarp_2os_2api_8h.html" title=" " alt="" coords="1097,661,1194,688"/>
+<area shape="rect" id="node8" href="$yarp-v3_83-build_2src_2libYARP__conf_2src_2yarp_2conf_2api_8h.html" title=" " alt="" coords="2397,736,2505,763"/>
+<area shape="rect" id="node17" href="$Searchable_8h.html" title=" " alt="" coords="2479,505,2625,531"/>
+<area shape="rect" id="node14" href="$PortReader_8h.html" title=" " alt="" coords="911,587,1057,613"/>
+<area shape="rect" id="node15" href="$PortWriter_8h.html" title=" " alt="" coords="580,587,719,613"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2701,587,2766,613"/>
+<area shape="rect" id="node20" href="$numeric_8h.html" title=" " alt="" coords="2701,505,2838,531"/>
+<area shape="rect" id="node23" href="$Clock_8h.html" title=" " alt="" coords="1233,587,1348,613"/>
+<area shape="rect" id="node24" href="$NetworkClock_8h.html" title=" " alt="" coords="1628,505,1791,531"/>
+<area shape="rect" id="node25" href="$SystemClock_8h.html" title=" " alt="" coords="1445,505,1603,531"/>
+<area shape="rect" id="node27" href="$PortReaderCreator_8h.html" title=" " alt="" coords="1500,348,1689,375"/>
+<area shape="rect" id="node29" href="$UnbufferedContactable_8h.html" title=" " alt="" coords="627,348,842,375"/>
+<area shape="rect" id="node28" href="$ConnectionReader_8h.html" title=" " alt="" coords="2069,423,2257,449"/>
+<area shape="rect" id="node30" href="$Contactable_8h.html" title=" " alt="" coords="666,423,817,449"/>
+<area shape="rect" id="node31" href="$PortReport_8h.html" title=" " alt="" coords="743,587,886,613"/>
+<area shape="rect" id="node32" href="$Mutex_8h.html" title=" " alt="" coords="485,505,601,531"/>
+<area shape="rect" id="node35" href="$PortReaderBuffer_8h.html" title=" " alt="" coords="673,177,855,203"/>
+<area shape="rect" id="node43" href="$PortWriterBuffer_8h.html" title=" " alt="" coords="1199,177,1374,203"/>
+<area shape="rect" id="node44" href="$BufferedPort-inl_8h.html" title=" " alt="" coords="981,169,1123,211"/>
+<area shape="rect" id="node36" href="$LocalReader_8h.html" title=" " alt="" coords="739,266,893,293"/>
+<area shape="rect" id="node37" href="$PortReaderBufferBase_8h.html" title=" " alt="" coords="1148,497,1319,539"/>
+<area shape="rect" id="node38" href="$PortReaderBufferBaseCreator_8h.html" title=" " alt="" coords="311,259,481,300"/>
+<area shape="rect" id="node40" href="$TypedReader_8h.html" title=" " alt="" coords="557,266,715,293"/>
+<area shape="rect" id="node41" href="$TypedReaderCallback_8h.html" title=" " alt="" coords="282,348,491,375"/>
+<area shape="rect" id="node42" href="$TypedReaderThread_8h.html" title=" " alt="" coords="38,266,237,293"/>
+<area shape="rect" id="node46" href="$NetInt32_8h.html" title=" " alt="" coords="2332,423,2463,449"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="depthCameraDriver" name="depthCameraDriver">
+<area shape="rect" id="node1" title="depthCamera : YARP driver for OpenNI2 compatible devices." alt="" coords="206,169,341,196"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="5,87,165,114"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="26,5,145,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1IRGBDSensor.html" title=" " alt="" coords="189,87,357,114"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IRgbVisualParams.html" title=" " alt="" coords="173,5,366,32"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IDepthVisualParams.html" title=" " alt="" coords="390,5,594,32"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1IFrameGrabberControls.html" title=" " alt="" coords="381,80,552,121"/>
+</map>

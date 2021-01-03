@@ -1,0 +1,33 @@
+<map id="src/libYARP_sig/src/yarp/sig/ImageFile.cpp" name="src/libYARP_sig/src/yarp/sig/ImageFile.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1118,5,1277,47"/>
+<area shape="rect" id="node2" href="$ImageFile_8h.html" title=" " alt="" coords="817,95,957,121"/>
+<area shape="rect" id="node24" href="$Log_8h.html" title=" " alt="" coords="976,319,1077,345"/>
+<area shape="rect" id="node26" href="$LogStream_8h.html" title=" " alt="" coords="1126,244,1269,271"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1451,319,1509,345"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1533,319,1593,345"/>
+<area shape="rect" id="node3" title=" " alt="" coords="846,319,901,345"/>
+<area shape="rect" id="node4" href="$libYARP__sig_2src_2yarp_2sig_2Image_8h.html" title=" " alt="" coords="323,169,442,196"/>
+<area shape="rect" id="node5" href="$system_8h.html" title=" " alt="" coords="15,543,150,569"/>
+<area shape="rect" id="node6" href="$NetUint16_8h.html" title=" " alt="" coords="93,319,232,345"/>
+<area shape="rect" id="node16" href="$Portable_8h.html" title=" " alt="" coords="431,244,559,271"/>
+<area shape="rect" id="node19" href="$Type_8h.html" title=" " alt="" coords="740,244,849,271"/>
+<area shape="rect" id="node20" href="$Vocab_8h.html" title=" " alt="" coords="583,244,700,271"/>
+<area shape="rect" id="node21" href="$NetInt32_8h.html" title=" " alt="" coords="256,319,387,345"/>
+<area shape="rect" id="node22" href="$yarp_2src_2libYARP__sig_2src_2yarp_2sig_2api_8h.html" title=" " alt="" coords="86,393,186,420"/>
+<area shape="rect" id="node23" title=" " alt="" coords="359,244,406,271"/>
+<area shape="rect" id="node7" href="$numeric_8h.html" title=" " alt="" coords="241,393,378,420"/>
+<area shape="rect" id="node15" href="$yarp_2src_2libYARP__os_2src_2yarp_2os_2api_8h.html" title=" " alt="" coords="593,393,690,420"/>
+<area shape="rect" id="node8" title=" " alt="" coords="377,468,468,495"/>
+<area shape="rect" id="node9" title=" " alt="" coords="914,468,979,495"/>
+<area shape="rect" id="node10" title=" " alt="" coords="492,468,553,495"/>
+<area shape="rect" id="node11" title=" " alt="" coords="66,468,121,495"/>
+<area shape="rect" id="node12" title=" " alt="" coords="145,468,220,495"/>
+<area shape="rect" id="node13" href="$yarp-v3_83-build_2src_2libYARP__conf_2src_2yarp_2conf_2api_8h.html" title=" " alt="" coords="245,468,353,495"/>
+<area shape="rect" id="node14" href="$compiler_8h.html" title=" " alt="" coords="229,543,369,569"/>
+<area shape="rect" id="node17" href="$PortReader_8h.html" title=" " alt="" coords="624,319,771,345"/>
+<area shape="rect" id="node18" href="$PortWriter_8h.html" title=" " alt="" coords="411,319,549,345"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1043,393,1103,420"/>
+<area shape="rect" id="node27" href="$Os_8h.html" title=" " alt="" coords="1235,319,1333,345"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1357,319,1427,345"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1101,319,1160,345"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="yarp::dev::DeprecatedDeviceDriver" name="yarp::dev::DeprecatedDeviceDriver">
+<area shape="rect" id="node1" title=" " alt="" coords="160,155,352,196"/>
+<area shape="rect" id="node4" href="$classPortAudioDeviceDriver.html" title=" " alt="" coords="5,244,160,271"/>
+<area shape="rect" id="node5" href="$classServerFrameGrabber.html" title=" " alt="" coords="185,244,327,271"/>
+<area shape="rect" id="node6" href="$classServerSoundGrabber.html" title=" " alt="" coords="351,244,494,271"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="176,80,336,107"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="197,5,315,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="src/libYARP_os/src/yarp/os/impl/Dispatcher.h" name="src/libYARP_os/src/yarp/os/impl/Dispatcher.h">
+<area shape="rect" id="node1" title=" " alt="" coords="244,5,419,47"/>
+<area shape="rect" id="node2" href="$Dispatcher_8cpp.html" title=" " alt="" coords="131,95,321,136"/>
+<area shape="rect" id="node3" href="$NameServer_8h.html" title=" " alt="" coords="345,95,531,136"/>
+<area shape="rect" id="node4" href="$FallbackNameServer_8h.html" title=" " alt="" coords="215,184,400,240"/>
+<area shape="rect" id="node6" href="$FallbackNameServer_8cpp.html" title=" " alt="" coords="5,288,191,344"/>
+<area shape="rect" id="node7" href="$BootstrapServer_8cpp.html" title=" " alt="" coords="425,295,635,337"/>
+<area shape="rect" id="node8" href="$NameClient_8cpp.html" title=" " alt="" coords="475,191,670,233"/>
+<area shape="rect" id="node9" href="$NameServer_8cpp.html" title=" " alt="" coords="695,191,893,233"/>
+<area shape="rect" id="node5" href="$FallbackNameClient_8cpp.html" title=" " alt="" coords="215,288,400,344"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classyarp_1_1manager_1_1Node.html" title="a Node of a Graph" alt="" coords="5,233,149,260"/>
+<area shape="rect" id="node2" href="$classyarp_1_1manager_1_1Application.html" title="Class Application." alt="" coords="216,107,393,133"/>
+<area shape="rect" id="node3" href="$classyarp_1_1manager_1_1BinaryNode.html" title=" " alt="" coords="214,157,395,184"/>
+<area shape="rect" id="node4" href="$classyarp_1_1manager_1_1GenericResource.html" title=" " alt="" coords="197,208,412,235"/>
+<area shape="rect" id="node14" href="$classyarp_1_1manager_1_1InputData.html" title="Class InputData." alt="" coords="219,259,390,285"/>
+<area shape="rect" id="node15" href="$classyarp_1_1manager_1_1Module.html" title="Class Module." alt="" coords="227,309,382,336"/>
+<area shape="rect" id="node16" href="$classyarp_1_1manager_1_1OutputData.html" title=" " alt="" coords="215,360,395,387"/>
+<area shape="rect" id="node5" href="$classyarp_1_1manager_1_1Computer.html" title=" " alt="" coords="473,5,644,32"/>
+<area shape="rect" id="node6" href="$classyarp_1_1manager_1_1GPU.html" title=" " alt="" coords="487,56,630,83"/>
+<area shape="rect" id="node7" href="$classyarp_1_1manager_1_1Memory.html" title="Class Memory." alt="" coords="479,107,639,133"/>
+<area shape="rect" id="node8" href="$classyarp_1_1manager_1_1MultiResource.html" title="Class MultiResource." alt="" coords="460,157,657,184"/>
+<area shape="rect" id="node9" href="$classyarp_1_1manager_1_1Network.html" title=" " alt="" coords="477,208,640,235"/>
+<area shape="rect" id="node10" href="$classyarp_1_1manager_1_1Platform.html" title=" " alt="" coords="477,259,640,285"/>
+<area shape="rect" id="node11" href="$classyarp_1_1manager_1_1Processor.html" title=" " alt="" coords="473,309,645,336"/>
+<area shape="rect" id="node12" href="$classyarp_1_1manager_1_1ResYarpPort.html" title=" " alt="" coords="465,360,653,387"/>
+<area shape="rect" id="node13" href="$classyarp_1_1manager_1_1Storage.html" title=" " alt="" coords="479,411,638,437"/>
+</map>

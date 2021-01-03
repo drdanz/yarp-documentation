@@ -1,0 +1,7 @@
+<map id="yarp::manager::YarpBroker" name="yarp::manager::YarpBroker">
+<area shape="rect" id="node1" title="Class Broker." alt="" coords="124,80,303,107"/>
+<area shape="rect" id="node4" href="$classyarp_1_1manager_1_1ScriptYarprunBroker.html" title=" " alt="" coords="5,155,197,196"/>
+<area shape="rect" id="node5" href="$classyarp_1_1manager_1_1YarpdevYarprunBroker.html" title=" " alt="" coords="222,155,429,196"/>
+<area shape="rect" id="node2" href="$classyarp_1_1manager_1_1Broker.html" title="Class Broker." alt="" coords="47,5,198,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1PeriodicThread.html" title=" " alt="" coords="222,5,386,32"/>
+</map>

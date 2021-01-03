@@ -1,0 +1,4 @@
+<map id="portaudio" name="portaudio">
+<area shape="rect" id="node1" title="A portable audio source, see yarp::dev::PortAudioDeviceDriver. Requires the PortAudio library (http:/..." alt="" coords="228,13,303,38"/>
+<area shape="rect" id="node2" href="$group__dev__runtime.html" title="Devices that can be created and configured from the command&#45;line. Generally you can create them with ..." alt="" coords="5,5,180,45"/>
+</map>

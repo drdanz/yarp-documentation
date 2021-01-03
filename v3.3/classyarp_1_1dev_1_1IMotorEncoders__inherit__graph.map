@@ -1,0 +1,9 @@
+<map id="yarp::dev::IMotorEncoders" name="yarp::dev::IMotorEncoders">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,181,108"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="239,5,398,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapper.html" title=" " alt="" coords="245,56,392,83"/>
+<area shape="rect" id="node5" href="$classRemoteControlBoard.html" title=" " alt="" coords="247,107,391,133"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1ImplementMotorEncoders.html" title=" " alt="" coords="229,158,408,199"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title=" " alt="" coords="456,5,660,32"/>
+<area shape="rect" id="node7" href="$classFakeMotionControl.html" title=" " alt="" coords="492,165,624,192"/>
+</map>

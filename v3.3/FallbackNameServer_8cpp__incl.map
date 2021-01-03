@@ -1,0 +1,52 @@
+<map id="src/libYARP_os/src/yarp/os/impl/FallbackNameServer.cpp" name="src/libYARP_os/src/yarp/os/impl/FallbackNameServer.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1641,5,1826,61"/>
+<area shape="rect" id="node2" href="$FallbackNameServer_8h.html" title=" " alt="" coords="1556,109,1737,151"/>
+<area shape="rect" id="node5" href="$system_8h.html" title=" " alt="" coords="2189,885,2323,912"/>
+<area shape="rect" id="node10" href="$DgramTwoWayStream_8h.html" title=" " alt="" coords="1347,199,1535,240"/>
+<area shape="rect" id="node12" href="$Bytes_8h.html" title=" " alt="" coords="1447,587,1561,613"/>
+<area shape="rect" id="node39" href="$NameServer_8h.html" title=" " alt="" coords="1687,437,1868,464"/>
+<area shape="rect" id="node40" href="$NetType_8h.html" title=" " alt="" coords="2225,512,2356,539"/>
+<area shape="rect" id="node3" href="$Contact_8h.html" title=" " alt="" coords="823,587,950,613"/>
+<area shape="rect" id="node35" href="$ThreadImpl_8h.html" title=" " alt="" coords="1560,206,1733,233"/>
+<area shape="rect" id="node4" href="$compiler_8h.html" title=" " alt="" coords="1551,885,1691,912"/>
+<area shape="rect" id="node6" href="$NestedContact_8h.html" title=" " alt="" coords="840,661,1008,688"/>
+<area shape="rect" id="node9" title=" " alt="" coords="651,736,706,763"/>
+<area shape="rect" id="node7" href="$yarp_2src_2libYARP__os_2src_2yarp_2os_2api_8h.html" title=" " alt="" coords="1659,736,1757,763"/>
+<area shape="rect" id="node8" href="$yarp-v3_83-build_2src_2libYARP__conf_2src_2yarp_2conf_2api_8h.html" title=" " alt="" coords="2110,811,2218,837"/>
+<area shape="rect" id="node11" href="$ManagedBytes_8h.html" title=" " alt="" coords="1058,288,1225,315"/>
+<area shape="rect" id="node30" href="$TwoWayStream_8h.html" title=" " alt="" coords="1354,512,1529,539"/>
+<area shape="rect" id="node33" title=" " alt="" coords="974,288,1034,315"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1553,512,1612,539"/>
+<area shape="rect" id="node14" href="$Network_8h.html" title=" " alt="" coords="719,363,849,389"/>
+<area shape="rect" id="node16" href="$Portable_8h.html" title=" " alt="" coords="456,661,584,688"/>
+<area shape="rect" id="node13" title=" " alt="" coords="886,736,951,763"/>
+<area shape="rect" id="node15" href="$ContactStyle_8h.html" title=" " alt="" coords="659,661,815,688"/>
+<area shape="rect" id="node17" href="$Property_8h.html" title=" " alt="" coords="345,437,474,464"/>
+<area shape="rect" id="node20" href="$Value_8h.html" title=" " alt="" coords="358,587,471,613"/>
+<area shape="rect" id="node26" href="$libYARP__os_2src_2yarp_2os_2Time_8h.html" title=" " alt="" coords="1056,512,1165,539"/>
+<area shape="rect" id="node18" href="$Bottle_8h.html" title=" " alt="" coords="356,512,471,539"/>
+<area shape="rect" id="node19" href="$Searchable_8h.html" title=" " alt="" coords="235,661,381,688"/>
+<area shape="rect" id="node21" href="$numeric_8h.html" title=" " alt="" coords="2451,661,2589,688"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2493,736,2584,763"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2608,736,2669,763"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2694,736,2749,763"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2395,736,2469,763"/>
+<area shape="rect" id="node27" href="$Clock_8h.html" title=" " alt="" coords="1285,661,1400,688"/>
+<area shape="rect" id="node28" href="$NetworkClock_8h.html" title=" " alt="" coords="1025,587,1188,613"/>
+<area shape="rect" id="node29" href="$SystemClock_8h.html" title=" " alt="" coords="1263,587,1422,613"/>
+<area shape="rect" id="node31" href="$InputStream_8h.html" title=" " alt="" coords="1687,587,1838,613"/>
+<area shape="rect" id="node32" href="$OutputStream_8h.html" title=" " alt="" coords="1627,661,1789,688"/>
+<area shape="rect" id="node36" href="$Semaphore_8h.html" title=" " alt="" coords="1581,363,1728,389"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1531,288,1592,315"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1616,288,1675,315"/>
+<area shape="rect" id="node43" href="$Dispatcher_8h.html" title=" " alt="" coords="1929,512,2100,539"/>
+<area shape="rect" id="node44" href="$Logger_8h.html" title=" " alt="" coords="2200,587,2347,613"/>
+<area shape="rect" id="node48" title=" " alt="" coords="1914,587,1961,613"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2067,587,2125,613"/>
+<area shape="rect" id="node50" href="$SplitString_8h.html" title=" " alt="" coords="1687,512,1855,539"/>
+<area shape="rect" id="node41" href="$NetFloat64_8h.html" title=" " alt="" coords="2576,587,2720,613"/>
+<area shape="rect" id="node42" href="$NetInt32_8h.html" title=" " alt="" coords="2371,587,2501,613"/>
+<area shape="rect" id="node47" title=" " alt="" coords="1985,587,2042,613"/>
+<area shape="rect" id="node45" href="$Log_8h.html" title=" " alt="" coords="2016,661,2117,688"/>
+<area shape="rect" id="node46" href="$PlatformStdio_8h.html" title=" " alt="" coords="2293,811,2480,837"/>
+</map>

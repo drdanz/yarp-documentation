@@ -1,0 +1,15 @@
+<map id="src/libYARP_serversql/src/yarp/serversql/impl/Triple.h" name="src/libYARP_serversql/src/yarp/serversql/impl/Triple.h">
+<area shape="rect" id="node1" title=" " alt="" coords="479,5,637,61"/>
+<area shape="rect" id="node2" href="$TripleSource_8h.html" title=" " alt="" coords="420,109,579,165"/>
+<area shape="rect" id="node13" href="$SqliteTripleSource_8h.html" title=" " alt="" coords="603,213,761,269"/>
+<area shape="rect" id="node3" href="$AllocatorOnTriples_8h.html" title=" " alt="" coords="237,213,396,269"/>
+<area shape="rect" id="node9" href="$NameServiceOnTriples_8h.html" title=" " alt="" coords="41,213,213,269"/>
+<area shape="rect" id="node11" href="$TripleSourceCreator_8h.html" title=" " alt="" coords="420,213,579,269"/>
+<area shape="rect" id="node4" href="$AllocatorOnTriples_8cpp.html" title=" " alt="" coords="416,317,575,373"/>
+<area shape="rect" id="node5" href="$NameServerContainer_8h.html" title=" " alt="" coords="225,317,392,373"/>
+<area shape="rect" id="node6" href="$NameServerContainer_8cpp.html" title=" " alt="" coords="5,421,185,477"/>
+<area shape="rect" id="node7" href="$Server_8cpp.html" title=" " alt="" coords="210,429,407,470"/>
+<area shape="rect" id="node8" href="$yarpserversql_8cpp.html" title=" " alt="" coords="431,429,669,470"/>
+<area shape="rect" id="node10" href="$NameServiceOnTriples_8cpp.html" title=" " alt="" coords="14,317,201,373"/>
+<area shape="rect" id="node12" href="$TripleSourceCreator_8cpp.html" title=" " alt="" coords="599,317,765,373"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="yarp::dev::IEncodersTimed" name="yarp::dev::IEncodersTimed">
+<area shape="rect" id="node1" title="Control board, extend encoder interface with timestamps." alt="" coords="196,132,375,159"/>
+<area shape="rect" id="node3" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="443,5,602,32"/>
+<area shape="rect" id="node5" href="$classControlBoardWrapper.html" title=" " alt="" coords="449,56,596,83"/>
+<area shape="rect" id="node6" href="$classFakeBot.html" title=" " alt="" coords="487,107,558,133"/>
+<area shape="rect" id="node7" href="$classRemoteControlBoard.html" title=" " alt="" coords="451,157,595,184"/>
+<area shape="rect" id="node8" href="$classTestMotor.html" title=" " alt="" coords="482,208,563,235"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1ImplementEncodersTimed.html" title=" " alt="" coords="423,259,623,301"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1IEncoders.html" title=" " alt="" coords="5,132,148,159"/>
+<area shape="rect" id="node4" href="$classRemoteControlBoardRemapper.html" title=" " alt="" coords="671,5,875,32"/>
+<area shape="rect" id="node10" href="$classFakeMotionControl.html" title=" " alt="" coords="707,267,839,293"/>
+</map>

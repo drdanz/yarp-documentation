@@ -1,0 +1,21 @@
+<map id="yarp::dev::IMultipleWrapper" name="yarp::dev::IMultipleWrapper">
+<area shape="rect" id="node1" title=" " alt="" coords="5,411,188,437"/>
+<area shape="rect" id="node2" href="$classAnalogWrapper.html" title=" " alt="" coords="288,5,399,32"/>
+<area shape="rect" id="node3" href="$classAudioPlayerWrapper.html" title=" " alt="" coords="273,56,414,83"/>
+<area shape="rect" id="node4" href="$classAudioRecorderWrapper.html" title=" " alt="" coords="265,107,422,133"/>
+<area shape="rect" id="node5" href="$classBatteryWrapper.html" title=" " alt="" coords="287,157,400,184"/>
+<area shape="rect" id="node6" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="264,208,423,235"/>
+<area shape="rect" id="node8" href="$classControlBoardWrapper.html" title=" " alt="" coords="270,259,417,285"/>
+<area shape="rect" id="node9" href="$classJoypadControlServer.html" title=" " alt="" coords="271,309,415,336"/>
+<area shape="rect" id="node10" href="$classLocalization2DServer.html" title=" " alt="" coords="270,360,417,387"/>
+<area shape="rect" id="node11" href="$classMultipleAnalogSensorsRemapper.html" title="multipleanalogsensorsremapper : device that takes a list of sensor from multiple analog sensors devic..." alt="" coords="236,411,451,437"/>
+<area shape="rect" id="node12" href="$classMultipleAnalogSensorsServer.html" title="The server side of the MultipleAnalogSensorsClient, useful to expose device implementing MultipleAnal..." alt="" coords="247,461,440,488"/>
+<area shape="rect" id="node13" href="$classnavigation2DServer.html" title=" " alt="" coords="275,512,411,539"/>
+<area shape="rect" id="node14" href="$classRangefinder2DWrapper.html" title=" " alt="" coords="264,563,423,589"/>
+<area shape="rect" id="node15" href="$classRGBDSensorWrapper.html" title=" " alt="" coords="268,613,419,640"/>
+<area shape="rect" id="node16" href="$classRobotDescriptionServer.html" title=" " alt="" coords="263,664,424,691"/>
+<area shape="rect" id="node17" href="$classServerGrabber.html" title=" " alt="" coords="290,715,397,741"/>
+<area shape="rect" id="node18" href="$classServerInertial.html" title=" " alt="" coords="294,765,393,792"/>
+<area shape="rect" id="node19" href="$classVirtualAnalogWrapper.html" title=" " alt="" coords="269,816,417,843"/>
+<area shape="rect" id="node7" href="$classRemoteControlBoardRemapper.html" title=" " alt="" coords="499,208,703,235"/>
+</map>

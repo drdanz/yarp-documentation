@@ -1,0 +1,9 @@
+<map id="yarp::dev::IImpedanceControl" name="yarp::dev::IImpedanceControl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,200,108"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="273,5,432,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapper.html" title=" " alt="" coords="279,56,426,83"/>
+<area shape="rect" id="node5" href="$classRemoteControlBoard.html" title=" " alt="" coords="281,107,425,133"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1ImplementImpedanceControl.html" title=" " alt="" coords="248,158,457,199"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title=" " alt="" coords="505,5,709,32"/>
+<area shape="rect" id="node7" href="$classFakeMotionControl.html" title=" " alt="" coords="541,165,673,192"/>
+</map>

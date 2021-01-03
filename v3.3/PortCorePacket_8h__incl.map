@@ -1,0 +1,20 @@
+<map id="src/libYARP_os/src/yarp/os/impl/PortCorePacket.h" name="src/libYARP_os/src/yarp/os/impl/PortCorePacket.h">
+<area shape="rect" id="node1" title=" " alt="" coords="85,5,290,47"/>
+<area shape="rect" id="node2" href="$NetType_8h.html" title=" " alt="" coords="323,95,454,121"/>
+<area shape="rect" id="node18" href="$PortWriter_8h.html" title=" " alt="" coords="39,95,178,121"/>
+<area shape="rect" id="node3" href="$numeric_8h.html" title=" " alt="" coords="327,244,464,271"/>
+<area shape="rect" id="node12" href="$Bytes_8h.html" title=" " alt="" coords="23,169,138,196"/>
+<area shape="rect" id="node14" href="$InputStream_8h.html" title=" " alt="" coords="536,169,687,196"/>
+<area shape="rect" id="node15" title=" " alt="" coords="640,244,695,271"/>
+<area shape="rect" id="node16" href="$NetFloat64_8h.html" title=" " alt="" coords="317,169,461,196"/>
+<area shape="rect" id="node17" href="$NetInt32_8h.html" title=" " alt="" coords="162,169,293,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="465,319,555,345"/>
+<area shape="rect" id="node5" title=" " alt="" coords="60,319,125,345"/>
+<area shape="rect" id="node6" title=" " alt="" coords="579,319,641,345"/>
+<area shape="rect" id="node7" title=" " alt="" coords="287,319,341,345"/>
+<area shape="rect" id="node8" title=" " alt="" coords="366,319,441,345"/>
+<area shape="rect" id="node9" href="$yarp-v3_83-build_2src_2libYARP__conf_2src_2yarp_2conf_2api_8h.html" title=" " alt="" coords="155,319,263,345"/>
+<area shape="rect" id="node10" href="$compiler_8h.html" title=" " alt="" coords="59,393,199,420"/>
+<area shape="rect" id="node11" href="$system_8h.html" title=" " alt="" coords="223,393,357,420"/>
+<area shape="rect" id="node13" href="$yarp_2src_2libYARP__os_2src_2yarp_2os_2api_8h.html" title=" " alt="" coords="163,244,260,271"/>
+</map>

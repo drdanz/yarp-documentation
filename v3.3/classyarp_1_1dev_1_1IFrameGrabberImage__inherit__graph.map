@@ -1,0 +1,10 @@
+<map id="yarp::dev::IFrameGrabberImage" name="yarp::dev::IFrameGrabberImage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,150,176,191"/>
+<area shape="rect" id="node2" href="$classFakeBot.html" title=" " alt="" coords="266,5,337,32"/>
+<area shape="rect" id="node3" href="$classFfmpegGrabber.html" title=" " alt="" coords="245,56,357,83"/>
+<area shape="rect" id="node4" href="$classOpenCVGrabber.html" title=" " alt="" coords="242,107,361,133"/>
+<area shape="rect" id="node5" href="$classRemoteFrameGrabber.html" title=" " alt="" coords="226,157,377,184"/>
+<area shape="rect" id="node6" href="$classServerFrameGrabber.html" title=" " alt="" coords="230,208,373,235"/>
+<area shape="rect" id="node7" href="$classTestFrameGrabber.html" title=" " alt="" coords="236,259,367,285"/>
+<area shape="rect" id="node8" href="$classUSBCameraDriverRgb.html" title=" " alt="" coords="224,309,379,336"/>
+</map>

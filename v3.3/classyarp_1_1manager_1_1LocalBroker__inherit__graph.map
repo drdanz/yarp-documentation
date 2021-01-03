@@ -1,0 +1,7 @@
+<map id="yarp::manager::LocalBroker" name="yarp::manager::LocalBroker">
+<area shape="rect" id="node1" title="Class LocalBroker." alt="" coords="107,80,290,107"/>
+<area shape="rect" id="node4" href="$classyarp_1_1manager_1_1ScriptLocalBroker.html" title=" " alt="" coords="5,155,184,196"/>
+<area shape="rect" id="node5" href="$classyarp_1_1manager_1_1YarpdevLocalBroker.html" title=" " alt="" coords="208,155,400,196"/>
+<area shape="rect" id="node2" href="$classyarp_1_1manager_1_1Broker.html" title="Class Broker." alt="" coords="45,5,195,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1Thread.html" title=" " alt="" coords="220,5,337,32"/>
+</map>

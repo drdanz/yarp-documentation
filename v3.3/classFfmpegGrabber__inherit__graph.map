@@ -1,0 +1,9 @@
+<map id="FfmpegGrabber" name="FfmpegGrabber">
+<area shape="rect" id="node1" title=" " alt="" coords="423,137,535,163"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1IFrameGrabberImage.html" title=" " alt="" coords="188,5,359,47"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1IAudioGrabberSound.html" title=" " alt="" coords="190,71,357,112"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1IAudioVisualGrabber.html" title=" " alt="" coords="172,137,375,163"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IAudioVisualStream.html" title=" " alt="" coords="174,187,373,214"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="193,238,353,265"/>
+<area shape="rect" id="node7" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="5,238,124,265"/>
+</map>

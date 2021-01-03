@@ -1,0 +1,11 @@
+<map id="src/libYARP_dev/src/yarp/dev/IBattery.h" name="src/libYARP_dev/src/yarp/dev/IBattery.h">
+<area shape="rect" id="node1" title=" " alt="" coords="390,5,534,47"/>
+<area shape="rect" id="node2" href="$IBattery_8cpp.html" title=" " alt="" coords="5,95,156,136"/>
+<area shape="rect" id="node3" href="$BatteryClient_8h.html" title=" " alt="" coords="180,95,347,136"/>
+<area shape="rect" id="node5" href="$BatteryWrapper_8h.html" title=" " alt="" coords="371,95,553,136"/>
+<area shape="rect" id="node7" href="$fakeBattery_8h.html" title=" " alt="" coords="578,95,738,136"/>
+<area shape="rect" id="node9" href="$TextureBattery_8cpp.html" title=" " alt="" coords="762,95,919,136"/>
+<area shape="rect" id="node4" href="$BatteryClient_8cpp.html" title=" " alt="" coords="180,184,347,225"/>
+<area shape="rect" id="node6" href="$BatteryWrapper_8cpp.html" title=" " alt="" coords="371,184,553,225"/>
+<area shape="rect" id="node8" href="$fakeBattery_8cpp.html" title=" " alt="" coords="578,184,738,225"/>
+</map>

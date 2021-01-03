@@ -1,0 +1,14 @@
+<map id="src/libYARP_sig/src/yarp/sig/ImageNetworkHeader.h" name="src/libYARP_sig/src/yarp/sig/ImageNetworkHeader.h">
+<area shape="rect" id="node1" title=" " alt="" coords="576,5,791,47"/>
+<area shape="rect" id="node2" href="$Image_8cpp.html" title=" " alt="" coords="5,102,145,143"/>
+<area shape="rect" id="node3" href="$WireImage_8cpp.html" title=" " alt="" coords="170,95,341,151"/>
+<area shape="rect" id="node4" href="$BayerCarrier_8h.html" title=" " alt="" coords="365,102,519,143"/>
+<area shape="rect" id="node6" href="$H264Stream_8h.html" title=" " alt="" coords="543,102,706,143"/>
+<area shape="rect" id="node8" href="$H264Stream_8cpp.html" title=" " alt="" coords="569,199,731,240"/>
+<area shape="rect" id="node9" href="$MjpegStream_8h.html" title=" " alt="" coords="781,102,938,143"/>
+<area shape="rect" id="node11" href="$MjpegCarrier_8cpp.html" title=" " alt="" coords="903,288,1071,329"/>
+<area shape="rect" id="node12" href="$MjpegStream_8cpp.html" title=" " alt="" coords="934,199,1105,240"/>
+<area shape="rect" id="node5" href="$BayerCarrier_8cpp.html" title=" " alt="" coords="191,199,357,240"/>
+<area shape="rect" id="node7" href="$H264Carrier_8cpp.html" title=" " alt="" coords="382,199,545,240"/>
+<area shape="rect" id="node10" href="$MjpegCarrier_8h.html" title=" " alt="" coords="755,199,910,240"/>
+</map>

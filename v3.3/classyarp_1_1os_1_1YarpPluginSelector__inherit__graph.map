@@ -1,0 +1,7 @@
+<map id="yarp::os::YarpPluginSelector" name="yarp::os::YarpPluginSelector">
+<area shape="rect" id="node1" title="Pick out a set of relevant plugins." alt="" coords="5,107,193,134"/>
+<area shape="rect" id="node2" href="$classCarriers_1_1Private.html" title=" " alt="" coords="245,5,368,47"/>
+<area shape="rect" id="node3" href="$classDrivers_1_1Private.html" title=" " alt="" coords="243,71,370,112"/>
+<area shape="rect" id="node4" href="$classMonitorSelector.html" title=" " alt="" coords="250,137,363,163"/>
+<area shape="rect" id="node5" href="$classRFModuleSelector.html" title=" " alt="" coords="241,187,372,214"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="yarp::dev::IFrameGrabber" name="yarp::dev::IFrameGrabber">
+<area shape="rect" id="node1" title=" " alt="" coords="158,5,329,32"/>
+<area shape="rect" id="node2" href="$classUSBCameraDriver.html" title="Yarp device driver implementation for acquiring images from USB cameras." alt="" coords="110,80,241,107"/>
+<area shape="rect" id="node5" href="$classV4L__camera.html" title=" " alt="" coords="265,80,360,107"/>
+<area shape="rect" id="node3" href="$classUSBCameraDriverRaw.html" title=" " alt="" coords="5,155,164,181"/>
+<area shape="rect" id="node4" href="$classUSBCameraDriverRgb.html" title=" " alt="" coords="189,155,343,181"/>
+</map>

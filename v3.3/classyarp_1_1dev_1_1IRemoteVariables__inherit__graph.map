@@ -1,0 +1,8 @@
+<map id="yarp::dev::IRemoteVariables" name="yarp::dev::IRemoteVariables">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,193,108"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="257,5,416,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapper.html" title=" " alt="" coords="263,56,410,83"/>
+<area shape="rect" id="node5" href="$classRemoteControlBoard.html" title=" " alt="" coords="265,107,409,133"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1ImplementRemoteVariables.html" title=" " alt="" coords="241,158,432,199"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title=" " alt="" coords="480,5,684,32"/>
+</map>

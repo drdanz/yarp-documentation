@@ -1,0 +1,10 @@
+<map id="yarp::dev::IControlCalibration" name="yarp::dev::IControlCalibration">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,197,133"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="259,5,418,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapper.html" title=" " alt="" coords="265,56,412,83"/>
+<area shape="rect" id="node5" href="$classFakeBot.html" title=" " alt="" coords="303,107,374,133"/>
+<area shape="rect" id="node6" href="$classRemoteControlBoard.html" title=" " alt="" coords="267,157,411,184"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1ImplementControlCalibration.html" title=" " alt="" coords="245,209,432,250"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title=" " alt="" coords="480,5,684,32"/>
+<area shape="rect" id="node8" href="$classFakeMotionControl.html" title=" " alt="" coords="516,216,648,243"/>
+</map>

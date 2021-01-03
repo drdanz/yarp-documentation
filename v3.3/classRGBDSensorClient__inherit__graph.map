@@ -1,0 +1,10 @@
+<map id="RGBDSensorClient" name="RGBDSensorClient">
+<area shape="rect" id="node1" title=" " alt="" coords="521,64,657,91"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="285,5,445,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="48,5,167,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1FrameGrabberControls__Sender.html" title="This classes implement a sender / parser for IFrameGrabberControls interface messages." alt="" coords="257,57,473,98"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IFrameGrabberControls.html" title=" " alt="" coords="22,57,193,98"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IRGBDSensor.html" title=" " alt="" coords="281,123,449,149"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1IRgbVisualParams.html" title=" " alt="" coords="11,123,204,149"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1IDepthVisualParams.html" title=" " alt="" coords="5,173,209,200"/>
+</map>

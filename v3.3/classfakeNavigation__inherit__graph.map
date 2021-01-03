@@ -1,0 +1,7 @@
+<map id="fakeNavigation" name="fakeNavigation">
+<area shape="rect" id="node1" title=" " alt="" coords="429,64,539,91"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="197,5,357,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1INavigation2DTargetActions.html" title=" " alt="" coords="175,57,379,98"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1INavigation2DControlActions.html" title=" " alt="" coords="172,122,381,163"/>
+</map>

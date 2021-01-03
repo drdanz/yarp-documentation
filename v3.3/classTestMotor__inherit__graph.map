@@ -1,0 +1,9 @@
+<map id="TestMotor" name="TestMotor">
+<area shape="rect" id="node1" title=" " alt="" coords="423,81,504,108"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="205,5,365,32"/>
+<area shape="rect" id="node3" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="17,5,136,32"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1IPositionControl.html" title=" " alt="" coords="197,56,374,83"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1IEncodersTimed.html" title="Control board, extend encoder interface with timestamps." alt="" coords="196,107,375,133"/>
+<area shape="rect" id="node6" href="$classyarp_1_1dev_1_1IEncoders.html" title=" " alt="" coords="5,107,148,133"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1IVelocityControl.html" title=" " alt="" coords="197,157,374,184"/>
+</map>

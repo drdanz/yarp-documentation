@@ -1,0 +1,7 @@
+<map id="yarp::dev::INavigation2D" name="yarp::dev::INavigation2D">
+<area shape="rect" id="node1" title=" " alt="" coords="263,78,429,105"/>
+<area shape="rect" id="node5" href="$classNavigation2DClient.html" title=" " alt="" coords="477,78,612,105"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1INavigation2DTargetActions.html" title=" " alt="" coords="8,5,212,47"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1INavigation2DControlActions.html" title=" " alt="" coords="5,71,215,112"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1ILocalization2D.html" title=" " alt="" coords="23,137,197,163"/>
+</map>

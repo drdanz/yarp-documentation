@@ -1,0 +1,16 @@
+<map id="ServerFrameGrabber" name="ServerFrameGrabber">
+<area shape="rect" id="node1" title=" " alt="" coords="680,239,823,266"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1DeprecatedDeviceDriver.html" title=" " alt="" coords="433,5,625,47"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="195,13,355,39"/>
+<area shape="rect" id="node4" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="5,13,124,39"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1DeviceResponder.html" title=" " alt="" coords="435,71,623,98"/>
+<area shape="rect" id="node6" href="$classyarp_1_1os_1_1PortReader.html" title="Interface implemented by all objects that can read themselves from the network, such as Bottle object..." alt="" coords="204,67,347,94"/>
+<area shape="rect" id="node7" href="$classyarp_1_1os_1_1TypedReaderCallback.html" title=" " alt="" coords="172,119,379,160"/>
+<area shape="rect" id="node8" href="$classyarp_1_1dev_1_1IFrameGrabberImage.html" title=" " alt="" coords="444,123,615,164"/>
+<area shape="rect" id="node9" href="$classyarp_1_1dev_1_1IAudioVisualGrabber.html" title=" " alt="" coords="428,189,631,215"/>
+<area shape="rect" id="node10" href="$classyarp_1_1dev_1_1IService.html" title=" " alt="" coords="463,239,595,266"/>
+<area shape="rect" id="node11" title=" " alt="" coords="445,290,614,346"/>
+<area shape="rect" id="node12" title=" " alt="" coords="441,370,618,426"/>
+<area shape="rect" id="node13" title=" " alt="" coords="427,451,632,492"/>
+<area shape="rect" id="node14" title=" " alt="" coords="449,516,609,587"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="yarp::dev::ITorqueControl" name="yarp::dev::ITorqueControl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,176,133"/>
+<area shape="rect" id="node2" href="$classControlBoardRemapper.html" title="controlboardremapper : device that takes a list of axes from multiple controlboards and expose them a..." alt="" coords="237,5,396,32"/>
+<area shape="rect" id="node4" href="$classControlBoardWrapper.html" title=" " alt="" coords="243,56,390,83"/>
+<area shape="rect" id="node5" href="$classDynamixelAX12FtdiDriver.html" title=" " alt="" coords="230,107,403,133"/>
+<area shape="rect" id="node6" href="$classRemoteControlBoard.html" title=" " alt="" coords="245,157,389,184"/>
+<area shape="rect" id="node7" href="$classyarp_1_1dev_1_1ImplementTorqueControl.html" title=" " alt="" coords="224,209,409,250"/>
+<area shape="rect" id="node3" href="$classRemoteControlBoardRemapper.html" title=" " alt="" coords="457,5,661,32"/>
+<area shape="rect" id="node8" href="$classFakeMotionControl.html" title=" " alt="" coords="493,216,625,243"/>
+</map>

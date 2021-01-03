@@ -1,0 +1,8 @@
+<map id="PortAudioDeviceDriver" name="PortAudioDeviceDriver">
+<area shape="rect" id="node1" title=" " alt="" coords="620,71,775,98"/>
+<area shape="rect" id="node2" href="$classyarp_1_1dev_1_1IAudioGrabberSound.html" title=" " alt="" coords="393,5,559,47"/>
+<area shape="rect" id="node3" href="$classyarp_1_1dev_1_1IAudioRender.html" title=" " alt="" coords="395,71,557,98"/>
+<area shape="rect" id="node4" href="$classyarp_1_1dev_1_1DeprecatedDeviceDriver.html" title=" " alt="" coords="380,123,572,164"/>
+<area shape="rect" id="node5" href="$classyarp_1_1dev_1_1DeviceDriver.html" title=" " alt="" coords="172,130,332,157"/>
+<area shape="rect" id="node6" href="$classyarp_1_1os_1_1IConfig.html" title="An object that can be configured." alt="" coords="5,130,124,157"/>
+</map>
